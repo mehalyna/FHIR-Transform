@@ -9,7 +9,7 @@
     "pandas_version": "3.0.6",
     "matplotlib_version": "3.11.2",
     "random_seed": 42,
-    "audit_run_timestamp": "2026-09-26T19:41:04"
+    "audit_run_timestamp": "2026-09-26T21:03:47"
   },
   "r0_resource_counts_confirmed_vs_stage1_and_stage2": {
     "Patient": 109,
@@ -19,6 +19,8 @@
     "MedicationRequest": 3858
   },
   "r0_unchanged_after_transformation": true,
+  "methodological_correction_applied": true,
+  "methodological_correction_reference": "stage3_correction_summary.json",
   "r1_table_shapes": {
     "r1_patient.csv": [
       109,
@@ -88,7 +90,7 @@
     ],
     "r2_medication_request.csv": [
       3858,
-      6
+      7
     ]
   },
   "condition_concept_candidates": {
@@ -178,7 +180,7 @@
   "n_transformation_provenance_rows": 57,
   "n_validation_checks": 24,
   "preservation_highlights": {
-    "r2_relationship_reconstructability_pct": 97.64,
+    "r2_relationship_reconstructability_pct": 100.0,
     "r2_temporal_field_retention_pct": 50.56,
     "r2_coded_displays_text_retention_pct": 0.0,
     "r2_observation_value_retention_pct": 100.0,

@@ -17,8 +17,8 @@ R1,observation_value_preservation,44038,44038,100.0,"typed sibling columns, no v
 R1,observation_component_preservation,21778,21778,100.0,one row per component in r1_observation_component (Section 9e).
 R2,resource_identity_preservation,59447,59447,100.0,R0 defines identity; R1/R2 both keep one row per R0 resource (Section 9a) -- identity is fully preserved in both.
 R2,row_counts_match_r0,59447,59447,100.0,"verified per-table in Section 9a (R1) and by construction (R2: one row emitted per source resource, Sections 12/15)."
-R2,foreign_key_integrity,113041,115774,97.64,patient_id/encounter_id FKs resolve exactly like R1's; only the reasonReference edge is absent (Section 14).
-R2,relationship_reconstructability,113041,115774,97.64,"reasonReference (MedicationRequest -> Condition, 2733 edges) is the only unreconstructable edge type."
+R2,foreign_key_integrity,115774,115774,100.0,"patient_id/encounter_id FKs resolve exactly like R1's; reasonReference is now also converted to reason_condition_id (corrected, Section 14) -- 0 of 2733 reasonReference edges remain unresolved."
+R2,relationship_reconstructability,115774,115774,100.0,"corrected (Section 14): reasonReference is represented via reason_condition_id, not dropped -- 0 of 2733 reasonReference edges remain unreconstructable (0 multi-valued, 0 unresolved)."
 R2,coding_preservation,156252,163729,95.43,only the first coding per remaining concept is kept (397 alternates discarded); clinicalStatus/verificationStatus concepts dropped entirely.
 R2,temporal_field_preservation,59447,117582,50.56,"only 5 of 10 distinct temporal fields retained (one per resource type, Section 13)."
 R2,observation_value_preservation,44038,44038,100.0,"typed sibling columns retained for every value[x] representation (Section 12) -- values are not lost, only their coding detail is simplified."
