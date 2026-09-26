@@ -1,0 +1,5 @@
+workload_id,qualifying_condition_occurrences_r0,qualifying_medicationrequest_occurrences_r0,qualifying_patient_joins_r0,qualifying_patient_joins_r1,qualifying_patient_joins_r2,representation,pairs_inspected,pairs_satisfying_temporal_criterion,pairs_failing_temporal_criterion,pairs_missing_required_timestamps,unresolved_relationship_pairs,unique_qualifying_patients
+W2,50.0,247.0,4.0,4.0,4.0,,,,,,,
+W3,,,,,,R0,2733.0,2733.0,0.0,0.0,0.0,95.0
+W3,,,,,,R1,2733.0,2733.0,0.0,0.0,0.0,95.0
+W3,,,,,,R2,2733.0,2733.0,0.0,0.0,0.0,95.0

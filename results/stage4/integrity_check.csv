@@ -1,0 +1,20 @@
+check,expected,actual,match
+R0 count [Patient],109.0,109.0,True
+R0 count [Encounter],5635.0,5635.0,True
+R0 count [Condition],3540.0,3540.0,True
+R0 count [Observation],46305.0,46305.0,True
+R0 count [MedicationRequest],3858.0,3858.0,True
+R1 rows [r1_patient.csv],109.0,109.0,True
+R1 rows [r1_encounter.csv],5635.0,5635.0,True
+R1 rows [r1_condition.csv],3540.0,3540.0,True
+R1 rows [r1_medication_request.csv],3858.0,3858.0,True
+R1 rows [r1_coded_concept.csv],163332.0,163332.0,True
+R1 rows [r1_coding.csv],163729.0,163729.0,True
+R2 rows [r2_patient.csv],109.0,109.0,True
+R2 rows [r2_encounter.csv],5635.0,5635.0,True
+R2 rows [r2_condition.csv],3540.0,3540.0,True
+R2 rows [r2_medication_request.csv],3858.0,3858.0,True
+Stage 3 preservation [relationships/R2],100.0,100.0,True
+Stage 3 preservation [temporal_values_by_semantic_type/R2],50.56,50.56,True
+Stage 3 preservation [observation_values/R2],100.0,100.0,True
+Stage 3 preservation [observation_components/R2],100.0,100.0,True

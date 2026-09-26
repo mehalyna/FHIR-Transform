@@ -1,0 +1,8 @@
+{
+  "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+  "code": "106892",
+  "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+  "n_medicationrequest_occurrences": 247,
+  "n_unique_patients_among_bronchitis_cohort": 4,
+  "selection_rule": "highest occurrence count among medicationCodeableConcept (primary coding) within the W1 bronchitis cohort; ties -> lexicographically smallest (system, code); derived from R0 only, frozen before R1/R2 comparison."
+}

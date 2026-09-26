@@ -1,0 +1,47 @@
+{
+  "W1": {
+    "name": "Single-concept clinical cohort",
+    "research_question": "Identify patients with Acute bronchitis.",
+    "concept": {
+      "system": "http://snomed.info/sct",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    "result_set_unit": "unique Patient IDs",
+    "match_rule": "coding system + code only; display text never used for matching"
+  },
+  "W2": {
+    "name": "Cross-resource clinical cohort",
+    "research_question": "Patients with Acute bronchitis who also have a MedicationRequest (medicationCodeableConcept) for the most frequent such medication in that cohort.",
+    "result_set_unit": "unique Patient IDs",
+    "selected_medication": {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "code": "106892",
+      "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "n_medicationrequest_occurrences": 247,
+      "n_unique_patients_among_bronchitis_cohort": 4,
+      "selection_rule": "highest occurrence count among medicationCodeableConcept (primary coding) within the W1 bronchitis cohort; ties -> lexicographically smallest (system, code); derived from R0 only, frozen before R1/R2 comparison."
+    }
+  },
+  "W3": {
+    "name": "Relationship-aware temporal query",
+    "research_question": "Patients whose MedicationRequest.reasonReference->Condition was authored on/after that Condition's onsetDateTime.",
+    "result_set_unit": "unique Patient IDs"
+  },
+  "W4": {
+    "name": "Secondary temporal-semantics query",
+    "research_question": "Encounters whose duration exceeds 24 hours.",
+    "result_set_unit": "unique Encounter IDs",
+    "duration_distribution_r0": {
+      "n_encounters": 5635.0,
+      "min_hours": 0.25,
+      "p25_hours": 0.25,
+      "median_hours": 0.61,
+      "p75_hours": 1.0,
+      "max_hours": 1536.25,
+      "threshold_hours": 24.0,
+      "n_over_threshold": 52.0,
+      "pct_over_threshold": 0.92
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "environment": {
+    "python_version": "3.14.6",
+    "pandas_version": "3.0.6",
+    "random_seed": 42,
+    "run_timestamp": "2026-09-26T21:52:30"
+  },
+  "integrity_check_passed": true,
+  "query_feasibility_summary": {
+    "W1": [
+      "feasible",
+      "feasible",
+      "feasible"
+    ],
+    "W2": [
+      "feasible",
+      "feasible",
+      "feasible"
+    ],
+    "W3": [
+      "feasible",
+      "feasible",
+      "feasible"
+    ],
+    "W4": [
+      "feasible",
+      "feasible",
+      "not_feasible"
+    ]
+  },
+  "n_result_set_differences": 0,
+  "all_feasible_workloads_reproduced_r0_exactly": true,
+  "w4_infeasible_in_r2": true,
+  "selected_w2_medication": {
+    "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+    "code": "106892",
+    "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+    "n_medicationrequest_occurrences": 247,
+    "n_unique_patients_among_bronchitis_cohort": 4,
+    "selection_rule": "highest occurrence count among medicationCodeableConcept (primary coding) within the W1 bronchitis cohort; ties -> lexicographically smallest (system, code); derived from R0 only, frozen before R1/R2 comparison."
+  }
+}

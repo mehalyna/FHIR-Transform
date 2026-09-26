@@ -1,0 +1,13 @@
+workload_id,representation,status,missing_information
+W1,R0,feasible,
+W1,R1,feasible,
+W1,R2,feasible,
+W2,R0,feasible,
+W2,R1,feasible,
+W2,R2,feasible,
+W3,R0,feasible,
+W3,R1,feasible,
+W3,R2,feasible,
+W4,R0,feasible,
+W4,R1,feasible,
+W4,R2,not_feasible,Encounter.period.end (R2 retains only one primary event_timestamp per resource type)

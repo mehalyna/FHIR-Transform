@@ -1,0 +1,9 @@
+workload_id,representation,result_set_unit,query_feasible,fidelity_metrics,ref_size,rep_size,intersection,false_positives,false_negatives,precision,recall,f1
+W1,R1,patient_id,True,computed,41.0,41.0,41.0,0.0,0.0,1.0,1.0,1.0
+W1,R2,patient_id,True,computed,41.0,41.0,41.0,0.0,0.0,1.0,1.0,1.0
+W2,R1,patient_id,True,computed,4.0,4.0,4.0,0.0,0.0,1.0,1.0,1.0
+W2,R2,patient_id,True,computed,4.0,4.0,4.0,0.0,0.0,1.0,1.0,1.0
+W3,R1,patient_id,True,computed,95.0,95.0,95.0,0.0,0.0,1.0,1.0,1.0
+W3,R2,patient_id,True,computed,95.0,95.0,95.0,0.0,0.0,1.0,1.0,1.0
+W4,R1,encounter_id,True,computed,52.0,52.0,52.0,0.0,0.0,1.0,1.0,1.0
+W4,R2,encounter_id,False,not_applicable,,,,,,,,
