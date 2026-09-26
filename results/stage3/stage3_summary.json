@@ -1,0 +1,188 @@
+{
+  "dataset_path": "synthea_sample_data_fhir_latest",
+  "environment": {
+    "python_version_full": "3.14.6 (main, Jun 23 2026, 15:20:04) [MSC v.1944 64 bit (AMD64)]",
+    "python_version": "3.14.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "system": "Windows",
+    "machine": "AMD64",
+    "pandas_version": "3.0.6",
+    "matplotlib_version": "3.11.2",
+    "random_seed": 42,
+    "audit_run_timestamp": "2026-09-26T19:41:04"
+  },
+  "r0_resource_counts_confirmed_vs_stage1_and_stage2": {
+    "Patient": 109,
+    "Encounter": 5635,
+    "Condition": 3540,
+    "Observation": 46305,
+    "MedicationRequest": 3858
+  },
+  "r0_unchanged_after_transformation": true,
+  "r1_table_shapes": {
+    "r1_patient.csv": [
+      109,
+      3
+    ],
+    "r1_encounter.csv": [
+      5635,
+      5
+    ],
+    "r1_condition.csv": [
+      3540,
+      9
+    ],
+    "r1_observation.csv": [
+      46305,
+      14
+    ],
+    "r1_medication_request.csv": [
+      3858,
+      7
+    ],
+    "r1_observation_component.csv": [
+      21778,
+      10
+    ],
+    "r1_coded_concept.csv": [
+      163332,
+      5
+    ],
+    "r1_coding.csv": [
+      163729,
+      5
+    ],
+    "r1_relationship.csv": [
+      115774,
+      5
+    ],
+    "r1_identifier.csv": [
+      6133,
+      6
+    ],
+    "r1_encounter_participant.csv": [
+      5635,
+      6
+    ],
+    "r1_dosage.csv": [
+      1771,
+      4
+    ]
+  },
+  "r2_table_shapes": {
+    "r2_patient.csv": [
+      109,
+      2
+    ],
+    "r2_encounter.csv": [
+      5635,
+      7
+    ],
+    "r2_condition.csv": [
+      3540,
+      6
+    ],
+    "r2_observation.csv": [
+      46305,
+      53
+    ],
+    "r2_medication_request.csv": [
+      3858,
+      6
+    ]
+  },
+  "condition_concept_candidates": {
+    "n_candidates": 186,
+    "stage2_placeholder_code": "314529007",
+    "stage2_placeholder_semantic_tag": "situation",
+    "stage2_placeholder_rejected_as_final_cohort_concept": true,
+    "top_disease_like_candidates": [
+      {
+        "code": "66383009",
+        "display": "Gingivitis (disorder)",
+        "n_occurrences": 246
+      },
+      {
+        "code": "444814009",
+        "display": "Viral sinusitis (disorder)",
+        "n_occurrences": 104
+      },
+      {
+        "code": "18718003",
+        "display": "Gingival disease (disorder)",
+        "n_occurrences": 84
+      },
+      {
+        "code": "195662009",
+        "display": "Acute viral pharyngitis (disorder)",
+        "n_occurrences": 76
+      },
+      {
+        "code": "109570002",
+        "display": "Primary dental caries (disorder)",
+        "n_occurrences": 50
+      },
+      {
+        "code": "10509002",
+        "display": "Acute bronchitis (disorder)",
+        "n_occurrences": 50
+      },
+      {
+        "code": "271737000",
+        "display": "Anemia (disorder)",
+        "n_occurrences": 39
+      },
+      {
+        "code": "65363002",
+        "display": "Otitis media (disorder)",
+        "n_occurrences": 27
+      },
+      {
+        "code": "40055000",
+        "display": "Chronic sinusitis (disorder)",
+        "n_occurrences": 25
+      },
+      {
+        "code": "312608009",
+        "display": "Laceration - injury (disorder)",
+        "n_occurrences": 25
+      },
+      {
+        "code": "307426000",
+        "display": "Acute infective cystitis (disorder)",
+        "n_occurrences": 21
+      },
+      {
+        "code": "59621000",
+        "display": "Essential hypertension (disorder)",
+        "n_occurrences": 20
+      },
+      {
+        "code": "125605004",
+        "display": "Fracture of bone (disorder)",
+        "n_occurrences": 19
+      },
+      {
+        "code": "43878008",
+        "display": "Streptococcal sore throat (disorder)",
+        "n_occurrences": 19
+      },
+      {
+        "code": "427898007",
+        "display": "Infection of tooth (disorder)",
+        "n_occurrences": 15
+      }
+    ]
+  },
+  "r2_observation_component_schema_n_codes": 29,
+  "n_transformation_provenance_rows": 57,
+  "n_validation_checks": 24,
+  "preservation_highlights": {
+    "r2_relationship_reconstructability_pct": 97.64,
+    "r2_temporal_field_retention_pct": 50.56,
+    "r2_coded_displays_text_retention_pct": 0.0,
+    "r2_observation_value_retention_pct": 100.0,
+    "r2_observation_component_retention_pct": 100.0,
+    "r1_unexpected_loss_detected": false
+  }
+}

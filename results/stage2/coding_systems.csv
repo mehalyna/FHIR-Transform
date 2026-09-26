@@ -1,0 +1,11 @@
+resourceType,concept_path,n_coded_concepts,coding_systems,n_distinct_coding_systems,n_multi_coding_concepts,pct_multi_coding,pct_with_text,n_codings_total,pct_codings_with_display,n_distinct_code_system_combinations
+Condition,clinicalStatus,3540,http://terminology.hl7.org/CodeSystem/condition-clinical (n=3540),1,0,0.0,0.0,3540,0.0,2
+Condition,code,3540,http://snomed.info/sct (n=3540),1,0,0.0,100.0,3540,100.0,186
+Condition,verificationStatus,3540,http://terminology.hl7.org/CodeSystem/condition-ver-status (n=3540),1,0,0.0,0.0,3540,0.0,1
+Encounter,hospitalization.dischargeDisposition,15,http://www.nubc.org/patient-discharge (n=15),1,0,0.0,100.0,15,100.0,2
+MedicationRequest,dosageInstruction[].doseAndRate[].type,1332,http://terminology.hl7.org/CodeSystem/dose-rate-type (n=1332),1,0,0.0,0.0,1332,100.0,1
+MedicationRequest,medicationCodeableConcept,2832,http://www.nlm.nih.gov/research/umls/rxnorm (n=2832),1,0,0.0,100.0,2832,100.0,108
+Observation,code,46305,http://loinc.org (n=46611); http://snomed.info/sct (n=91),2,397,0.86,100.0,46702,100.0,223
+Observation,component[].code,21778,http://loinc.org (n=21778),1,0,0.0,100.0,21778,100.0,29
+Observation,component[].valueCodeableConcept,16326,http://loinc.org (n=16326),1,0,0.0,100.0,16326,100.0,39
+Observation,valueCodeableConcept,7896,http://snomed.info/sct (n=7611); http://loinc.org (n=285),2,0,0.0,100.0,7896,100.0,68

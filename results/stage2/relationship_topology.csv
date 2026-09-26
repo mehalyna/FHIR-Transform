@@ -1,0 +1,9 @@
+source_resourceType,reference_field,target_resourceType,n_edges,n_unique_source_resources,n_unique_target_resources,pct_source_resources_covered,max_sources_per_target,max_targets_per_source,cardinality
+Condition,encounter,Encounter,3540,3540,2325,100.0,7,1,many source -> one target
+Condition,subject,Patient,3540,3540,109,100.0,273,1,many source -> one target
+Encounter,subject,Patient,5635,5635,109,100.0,565,1,many source -> one target
+MedicationRequest,reasonReference,Condition,2733,2733,231,70.84,381,1,many source -> one target
+MedicationRequest,encounter,Encounter,3858,3858,2233,100.0,36,1,many source -> one target
+MedicationRequest,subject,Patient,3858,3858,106,100.0,1113,1,many source -> one target
+Observation,encounter,Encounter,46305,46305,2546,100.0,684,1,many source -> one target
+Observation,subject,Patient,46305,46305,109,100.0,9610,1,many source -> one target

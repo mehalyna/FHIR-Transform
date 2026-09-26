@@ -1,0 +1,1772 @@
+medication_request_id,dosage_ordinal,text,as_needed_boolean
+37549f60-b5a3-69cd-7c8d-7cdeb5474df5,0,Take as needed.,True
+37549f60-b5a3-69cd-85b3-606e6ed410b2,0,Take as needed.,True
+37549f60-b5a3-69cd-4245-c78a215e54dd,0,Take as needed.,True
+6095681c-dfc1-8f20-1cba-eeeb11b0b920,0,Take as needed.,True
+6095681c-dfc1-8f20-78b3-82445fba0cb2,0,Take as needed.,True
+573cbfa8-8fca-a716-1e29-f2b678f15ed4,0,,False
+573cbfa8-8fca-a716-4fe1-0ba954655f82,0,,False
+573cbfa8-8fca-a716-6aa4-a55d18204c10,0,Take as needed.,True
+0b786670-17af-32e1-78f5-9dbeda1be7ac,0,,False
+0b786670-17af-32e1-a137-28a9b9d6202b,0,,False
+0b786670-17af-32e1-3953-9f1b5a152589,0,,False
+0b786670-17af-32e1-0292-11c0bb825fd1,0,,False
+0b786670-17af-32e1-2a5d-8c17c5c88c36,0,,False
+0b786670-17af-32e1-dd19-91dbf7582773,0,,False
+0b786670-17af-32e1-bc33-2b917713a0cc,0,,False
+0b786670-17af-32e1-bac5-4ec477553358,0,,False
+0b786670-17af-32e1-1bb5-141d21aa3953,0,,False
+0b786670-17af-32e1-d4c0-4543a4284310,0,,False
+0b786670-17af-32e1-4b01-de821f892b78,0,,False
+0b786670-17af-32e1-b7e8-b12bc36de540,0,,False
+0b786670-17af-32e1-b4f5-dc4af5a48142,0,,False
+0b786670-17af-32e1-f238-fa0148f81dd8,0,,False
+0b786670-17af-32e1-d891-fd0e89c4ab08,0,,False
+0b786670-17af-32e1-43bf-bb356b704136,0,,False
+0b786670-17af-32e1-ff34-edd282ea7588,0,,False
+0b786670-17af-32e1-96b3-cbb053deb907,0,,False
+0b786670-17af-32e1-9ff1-341973cbb352,0,,False
+0b786670-17af-32e1-1e54-987d7f4c8e7d,0,,False
+0b786670-17af-32e1-8634-3678bd181778,0,,False
+0b786670-17af-32e1-a647-887b30b522b8,0,,False
+0b786670-17af-32e1-ea08-6cbdabfb5882,0,,False
+0b786670-17af-32e1-c1ef-69b5412f6f1b,0,,False
+0b786670-17af-32e1-7ce7-f06657c122c1,0,,False
+0b786670-17af-32e1-6ae8-c4424bab3cd6,0,,False
+0b786670-17af-32e1-ff79-88e6d5d72d42,0,,False
+0b786670-17af-32e1-8929-82daa650874c,0,,False
+0b786670-17af-32e1-3e34-d2851f86f030,0,,False
+0b786670-17af-32e1-3e64-7d3787a834e2,0,,False
+0b786670-17af-32e1-aa2f-d48a68ca7a1d,0,,False
+0b786670-17af-32e1-5a20-d22789fbd973,0,,False
+0b786670-17af-32e1-fc6b-f841d884b700,0,,False
+0b786670-17af-32e1-0900-d244c29cf708,0,,False
+0b786670-17af-32e1-7cc8-34ce206913a7,0,,False
+0b786670-17af-32e1-4af1-e3610e0519b4,0,,False
+0b786670-17af-32e1-348f-fdc8441ce35b,0,,False
+0b786670-17af-32e1-6cb7-5dd2d148d9ae,0,,False
+0b786670-17af-32e1-2801-ecf59a6f1de3,0,,False
+0b786670-17af-32e1-2e5d-6b208f4d0f54,0,,False
+0b786670-17af-32e1-7380-7b3af5993e0e,0,,False
+0b786670-17af-32e1-a133-d43918ce895b,0,,False
+0b786670-17af-32e1-874c-f3ff6848acbd,0,,False
+0b786670-17af-32e1-8260-3fbe9476155e,0,,False
+0b786670-17af-32e1-7b55-cd2bbc634e55,0,,False
+0b786670-17af-32e1-427c-15945eeca3fc,0,Take as needed.,True
+0b786670-17af-32e1-8347-a97623ae2377,0,,False
+0b786670-17af-32e1-de74-c926a7096ce3,0,,False
+0b786670-17af-32e1-cb89-a84a816383eb,0,,False
+0b786670-17af-32e1-5387-cf24d4c11982,0,,False
+0b786670-17af-32e1-25e8-11331dc08221,0,,False
+0b786670-17af-32e1-282c-e273e4951ed6,0,,False
+0b786670-17af-32e1-b173-144c62aea9e5,0,,False
+0b786670-17af-32e1-aeb1-0cdd7fce7cdd,0,,False
+0b786670-17af-32e1-52d6-758326d211c1,0,,False
+0b786670-17af-32e1-3baa-f8003e6efe73,0,,False
+0b786670-17af-32e1-76b4-b3e3baa42b51,0,,False
+0b786670-17af-32e1-f848-061e794584fb,0,,False
+0b786670-17af-32e1-df94-27187063e1ef,0,,False
+0b786670-17af-32e1-0109-bcdb5d64bd07,0,,False
+0b786670-17af-32e1-5be0-b49f3f3ffc0f,0,,False
+0b786670-17af-32e1-9b39-7a19dfebb231,0,,False
+0b786670-17af-32e1-a34d-1df1c1606c9c,0,,False
+0b786670-17af-32e1-79eb-8175e20397f6,0,,False
+0b786670-17af-32e1-2411-b7be5edf36d0,0,,False
+0b786670-17af-32e1-ecfd-449fd3de7c19,0,,False
+0b786670-17af-32e1-04ba-5a3219813271,0,,False
+0b786670-17af-32e1-f5af-0cd28c56895e,0,,False
+0b786670-17af-32e1-3ccd-2a295a772a5c,0,,False
+0b786670-17af-32e1-9ad6-3617220d76b7,0,,False
+0b786670-17af-32e1-1311-788de4e0c858,0,,False
+0b786670-17af-32e1-1631-6a914832962f,0,,False
+0b786670-17af-32e1-9522-d22bcf8e1706,0,,False
+0b786670-17af-32e1-100e-8c0afd9fc5cc,0,,False
+0b786670-17af-32e1-41ee-225c2555808d,0,,False
+0b786670-17af-32e1-8be7-d19ac1860253,0,,False
+0b786670-17af-32e1-a3ac-f82aeb374f67,0,,False
+0b786670-17af-32e1-09e6-6091c69dba6e,0,,False
+0b786670-17af-32e1-9cfc-8d9c95857232,0,,False
+0b786670-17af-32e1-bbad-e669e9065ff9,0,,False
+0b786670-17af-32e1-1f48-44d30db9024d,0,,False
+0b786670-17af-32e1-8670-94747ad5f10f,0,,False
+0b786670-17af-32e1-ee58-3ced9306a58c,0,,False
+0b786670-17af-32e1-2510-46604fca3d0a,0,,False
+0b786670-17af-32e1-0211-916be83d7a88,0,,False
+0b786670-17af-32e1-8332-1d8b8f7d277b,0,,False
+0b786670-17af-32e1-f5b0-1aab33cbf116,0,,False
+0b786670-17af-32e1-237c-3bb0077a7b76,0,,False
+0b786670-17af-32e1-2bfb-9d1fee7b7952,0,,False
+0b786670-17af-32e1-d7f5-73d71f4cd068,0,,False
+0b786670-17af-32e1-fffc-66590ead3019,0,,False
+0b786670-17af-32e1-55fe-223f3daade7c,0,,False
+0b786670-17af-32e1-8ceb-1610a29f5d18,0,,False
+0b786670-17af-32e1-5088-e0ab2d16bf16,0,,False
+0b786670-17af-32e1-5c03-adf88809e680,0,,False
+0b786670-17af-32e1-6fb3-45e628a2541d,0,,False
+0b786670-17af-32e1-5c7a-60cc320e3c6b,0,,False
+0b786670-17af-32e1-aba5-fc052153c870,0,,False
+0b786670-17af-32e1-cd15-d14e0fb24fa7,0,,False
+0b786670-17af-32e1-0c8e-bcc5bff23953,0,,False
+0b786670-17af-32e1-3030-2c65b83527e0,0,,False
+0b786670-17af-32e1-3719-ef48dc60056b,0,,False
+0b786670-17af-32e1-f120-353ad2331e30,0,,False
+0b786670-17af-32e1-7c1c-1b23e0c9694d,0,,False
+0b786670-17af-32e1-2657-ae73f8d6afae,0,,False
+0b786670-17af-32e1-3826-09c5547c9686,0,,False
+0b786670-17af-32e1-c9c4-13fe10c32ea6,0,,False
+0b786670-17af-32e1-69ad-81988092272f,0,,False
+0b786670-17af-32e1-053d-b4549c0564ad,0,,False
+0b786670-17af-32e1-df17-b5df9ce17cf4,0,,False
+0b786670-17af-32e1-22a6-30e442f687d9,0,,False
+0b786670-17af-32e1-8341-2221fc29f4b9,0,,False
+0b786670-17af-32e1-658b-afcef4c37bdf,0,,False
+0b786670-17af-32e1-f107-903cc0b89edf,0,,False
+0b786670-17af-32e1-78a1-bcc685a08de2,0,,False
+0b786670-17af-32e1-247d-f26d22673539,0,,False
+0b786670-17af-32e1-96ba-924722c6afb5,0,,False
+0b786670-17af-32e1-f02b-373b32352108,0,,False
+0b786670-17af-32e1-0e3e-da8ba4bded9e,0,,False
+0b786670-17af-32e1-dc7e-4fa7ba52fc7d,0,,False
+0b786670-17af-32e1-1cd3-b74a20098f9a,0,,False
+cbd1dd48-89c3-3fdb-cfe4-bed7af1ea22b,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+cbd1dd48-89c3-3fdb-8226-04c985a1501c,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-81f6-7825c54ad922,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-0825-60bbf9b5ee5c,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-ad05-146ba83c1565,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-0763-0eda3abd2d24,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-0e3a-bcca44e1eebb,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-526f-324841220488,0,Take as needed.,True
+cbd1dd48-89c3-3fdb-45c9-1925679c74db,0,Take as needed.,True
+f6359fe4-4340-2820-23d7-be0d2a242d3c,0,Take as needed.,True
+f6359fe4-4340-2820-4500-dadbf57137ed,0,Take as needed.,True
+f6359fe4-4340-2820-56e2-324f1b1e0119,0,Take as needed.,True
+f6359fe4-4340-2820-0d60-15bd6095ce34,0,Take as needed.,True
+f6359fe4-4340-2820-38ba-16082d1cc77e,0,Every seventy two hours (qualifier value),False
+f6359fe4-4340-2820-a53e-62a512d68c5a,0,,False
+f6359fe4-4340-2820-a70e-c0c2aed0ede2,0,Every twelve hours as required (qualifier value),False
+f6359fe4-4340-2820-733a-6a6b621593c7,0,Every seventy two hours (qualifier value),False
+f6359fe4-4340-2820-5468-c3219224e322,0,Take as needed.,True
+f6359fe4-4340-2820-eb03-b17ca9aeb827,0,Every twelve hours as required (qualifier value),False
+06476266-59b1-ded7-4d66-6ca934de44cd,0,Take as needed.,True
+06476266-59b1-ded7-d5ef-aedba2e974d5,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-3010-1e8a73c8faf1,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-c572-74deb57e3c92,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-791c-83f20603e65d,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-895b-365c258d59c0,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-3a83-5f8a03af4eff,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-a0a2-36394e910ee4,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-1bd8-99f3cf27a786,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-6280-40594aece522,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-3ed5-381a63ea3b18,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-95ee-75adf68db90f,0,Take as needed.,True
+06476266-59b1-ded7-4181-c5671640eea3,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-e85f-672a9bef4f8a,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-f9a6-e0a3fed84356,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-02cd-3006bf6004e9,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-385a-1c73af2ca029,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-9b7b-8c9834712710,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-e000-534e8b986fc4,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-cc93-7157b58bedd7,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-e69f-78ba8912ceb7,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-2995-f653aad6367b,0,Every seventy two hours (qualifier value),False
+06476266-59b1-ded7-c3f7-3c57f6dd2afe,0,Every four hours (qualifier value),False
+06476266-59b1-ded7-3807-52d2dfd68bd5,0,Every seventy two hours (qualifier value),False
+5780b82b-0419-ffe6-e36f-e53ff5712349,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+5780b82b-0419-ffe6-f2bb-4ed573143a0b,0,Take as needed.,True
+5780b82b-0419-ffe6-06a2-250d39a3df24,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+5780b82b-0419-ffe6-83e9-af94149fde2f,0,Take as needed.,True
+5780b82b-0419-ffe6-ccfe-84faa8b272ea,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+5780b82b-0419-ffe6-e33c-ca6fac3d88f6,0,Take as needed.,True
+8ece28c6-f931-b0e0-6762-c8f61f0b0405,0,Take as needed.,True
+8ece28c6-f931-b0e0-5657-2cd18a50f1d1,0,Take as needed.,True
+8ece28c6-f931-b0e0-485f-08c95ce62b0f,0,,False
+8ece28c6-f931-b0e0-1071-f341360c10f5,0,,False
+8ece28c6-f931-b0e0-337f-6a48ac0bda58,0,,False
+8ece28c6-f931-b0e0-ef25-0a9468bd61a8,0,,False
+8ece28c6-f931-b0e0-65a2-4aa8ecaa1d57,0,,False
+8ece28c6-f931-b0e0-49f2-a1271617cd2f,0,,False
+8ece28c6-f931-b0e0-0d26-f4cd5d00b18c,0,,False
+8ece28c6-f931-b0e0-2159-df0a2d50230d,0,,False
+8ece28c6-f931-b0e0-2e3d-daccc9b51a48,0,,False
+8ece28c6-f931-b0e0-9f54-8d92e740b743,0,,False
+8ece28c6-f931-b0e0-1faf-0f0fb3deaa0c,0,,False
+8ece28c6-f931-b0e0-c5ed-a662f16d0ab2,0,,False
+8ece28c6-f931-b0e0-3302-3314643bd6ef,0,,False
+ad48e669-959c-b6f8-3c5b-a86c52309f87,0,,False
+9c26986a-d81d-62f0-415e-6c93ab5e3b5e,0,Take as needed.,True
+9c26986a-d81d-62f0-2051-a522f3078848,0,Take as needed.,True
+887e4b4e-a3e1-b573-b2ea-35b547646d9f,0,Take as needed.,True
+887e4b4e-a3e1-b573-2310-24275a666c22,0,Take as needed.,True
+887e4b4e-a3e1-b573-60ef-c85c3f3a1cc1,0,Take as needed.,True
+3935e8a9-9b9f-fd00-5f7a-205103282723,0,,False
+3935e8a9-9b9f-fd00-cc11-cdeefefd8c2f,0,,False
+3935e8a9-9b9f-fd00-e407-5299d4e9eed4,0,,False
+3935e8a9-9b9f-fd00-067b-e3d6d8cd5354,0,,False
+3935e8a9-9b9f-fd00-f3c6-7b40cef27bb9,0,Take as needed.,True
+3935e8a9-9b9f-fd00-486f-c2f9f4173a31,0,,False
+3935e8a9-9b9f-fd00-8356-68a408380333,0,,False
+3935e8a9-9b9f-fd00-4970-5b20799e7c9b,0,,False
+3935e8a9-9b9f-fd00-5371-650bcdde4be4,0,,False
+3935e8a9-9b9f-fd00-9cfc-d61aa5105cbd,0,,False
+3935e8a9-9b9f-fd00-9668-d0ee20b07463,0,,False
+3935e8a9-9b9f-fd00-59b0-91a077f37d09,0,,False
+3935e8a9-9b9f-fd00-eafb-08b9bbf23215,0,,False
+3935e8a9-9b9f-fd00-6fbc-63e0e2a28fe1,0,Take as needed.,True
+3935e8a9-9b9f-fd00-c805-d596c9ded973,0,,False
+3c0e60c4-176e-2c4c-86c4-b41a554f5f24,0,,False
+3c0e60c4-176e-2c4c-3d17-4c41ef4721b9,0,,False
+3c0e60c4-176e-2c4c-4f99-9519fb668f60,0,,False
+3c0e60c4-176e-2c4c-4ab6-c03103dfa98a,0,,False
+3c0e60c4-176e-2c4c-5555-8e187022f708,0,,False
+3c0e60c4-176e-2c4c-b1d4-7d73378ed9db,0,,False
+3c0e60c4-176e-2c4c-5caa-376256c406f5,0,,False
+3c0e60c4-176e-2c4c-c0db-6c7db70e8667,0,,False
+3c0e60c4-176e-2c4c-df30-1eb2fef7f62a,0,,False
+3c0e60c4-176e-2c4c-8c8b-88984658030e,0,,False
+3c0e60c4-176e-2c4c-f571-a453cbb80220,0,,False
+3c0e60c4-176e-2c4c-0a1e-a0ee98c79502,0,Take as needed.,True
+3c0e60c4-176e-2c4c-524c-3339720b59b5,0,,False
+3c0e60c4-176e-2c4c-1844-7b82589b4880,0,,False
+3c0e60c4-176e-2c4c-7c48-93695115489a,0,,False
+3c0e60c4-176e-2c4c-4606-5efdeefd1855,0,,False
+3c0e60c4-176e-2c4c-80a9-5377aca43e1b,0,,False
+3c0e60c4-176e-2c4c-a66a-14c1e1565bc9,0,,False
+3c0e60c4-176e-2c4c-e953-91c444161eff,0,,False
+3c0e60c4-176e-2c4c-ab87-ab7ce002ec11,0,,False
+3c0e60c4-176e-2c4c-cbf3-bff63ebbd166,0,,False
+3c0e60c4-176e-2c4c-1be4-332cf510fdc9,0,,False
+3c0e60c4-176e-2c4c-a877-8e9a5a440571,0,,False
+3c0e60c4-176e-2c4c-31c3-4f9471028fe2,0,,False
+3c0e60c4-176e-2c4c-21dd-caacfac3af00,0,,False
+3c0e60c4-176e-2c4c-adf6-982181dae7e1,0,,False
+3c0e60c4-176e-2c4c-ba71-bb3e085e20ae,0,,False
+3c0e60c4-176e-2c4c-7962-771b60e7817e,0,,False
+3c0e60c4-176e-2c4c-9661-0a7fb812bead,0,,False
+3c0e60c4-176e-2c4c-5404-884b5631158e,0,,False
+3c0e60c4-176e-2c4c-be06-acde3e85e28e,0,,False
+3c0e60c4-176e-2c4c-4d4f-0e382e56329d,0,,False
+3c0e60c4-176e-2c4c-890d-80018733a0a7,0,,False
+3c0e60c4-176e-2c4c-36a8-c89d739164ff,0,,False
+3c0e60c4-176e-2c4c-23c3-3c4adef07da8,0,,False
+7af6b271-f16d-21e1-a6e0-d9319451f839,0,,False
+7af6b271-f16d-21e1-6261-ae5ab063acd5,0,,False
+7af6b271-f16d-21e1-1a2a-86d3fd30aedb,0,,False
+7af6b271-f16d-21e1-0239-d26e676b05c6,0,,False
+7af6b271-f16d-21e1-fcc8-b15aee5e11f6,0,,False
+7af6b271-f16d-21e1-5d5d-9f87e0529d95,0,,False
+7af6b271-f16d-21e1-ac50-404db6446b7c,0,,False
+7af6b271-f16d-21e1-e244-5920a6f2c033,0,,False
+7af6b271-f16d-21e1-c636-5adc7773956c,0,,False
+7af6b271-f16d-21e1-d13e-7ded19aa90d1,0,,False
+7af6b271-f16d-21e1-1b23-4729c8620f08,0,,False
+7af6b271-f16d-21e1-f8ab-2a6300ee226a,0,,False
+7af6b271-f16d-21e1-8fe0-101b45eb805f,0,,False
+7af6b271-f16d-21e1-b114-5f83a90acd66,0,,False
+7af6b271-f16d-21e1-7403-f2cfe986f0a5,0,,False
+7af6b271-f16d-21e1-479e-21b9cd629eb1,0,,False
+7af6b271-f16d-21e1-83a0-327e8262d8bb,0,,False
+7af6b271-f16d-21e1-7cbf-4d9f8a559522,0,,False
+7af6b271-f16d-21e1-3cb8-4349ae75492c,0,,False
+8d91c36a-1f7e-3842-629e-a165281fbc26,0,Take as needed.,True
+8d91c36a-1f7e-3842-dbbd-7853911e0b22,0,Take as needed.,True
+8d91c36a-1f7e-3842-2b44-973acdcd0a2d,0,Take as needed.,True
+8d91c36a-1f7e-3842-d1fc-61dae7a02911,0,Take as needed.,True
+8d91c36a-1f7e-3842-484b-586d496f25cd,0,Take as needed.,True
+8d91c36a-1f7e-3842-1624-7c5490504807,0,Take as needed.,True
+8d91c36a-1f7e-3842-4280-566f979c7ada,0,Take as needed.,True
+8d91c36a-1f7e-3842-dbf1-d0280445cce1,0,Take as needed.,True
+8d91c36a-1f7e-3842-ae1c-309414e60520,0,Take as needed.,True
+8d91c36a-1f7e-3842-32e6-f941093d697b,0,Take as needed.,True
+8d91c36a-1f7e-3842-0e9b-097955236a74,0,Take as needed.,True
+8d91c36a-1f7e-3842-5181-2a901f59e5d0,0,Take as needed.,True
+8d91c36a-1f7e-3842-6de8-8e78b0a1e8a7,0,Take as needed.,True
+8d91c36a-1f7e-3842-dbe8-a522db37adb0,0,Take as needed.,True
+8d91c36a-1f7e-3842-136a-44b26cc62c1b,0,Take as needed.,True
+8d91c36a-1f7e-3842-b170-9bb76f3038f6,0,Take as needed.,True
+8d91c36a-1f7e-3842-e094-d35dd5d6aa18,0,Take as needed.,True
+23da8e71-dfb9-9773-8627-3ed498cf1b8b,0,Take as needed.,True
+3099d813-4f5c-fc43-27d3-128cd6cb020f,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+3099d813-4f5c-fc43-0bd5-d31907a38381,0,Take as needed.,True
+3099d813-4f5c-fc43-e2b7-c013df81a871,0,Take as needed.,True
+3099d813-4f5c-fc43-75a7-1a056f3ca88e,0,Take as needed.,True
+3099d813-4f5c-fc43-551c-20a4f6beb920,0,Take as needed.,True
+3099d813-4f5c-fc43-2e0f-bc62008fe8f8,0,Take as needed.,True
+3099d813-4f5c-fc43-6b60-0bfe7c4fa95f,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+3099d813-4f5c-fc43-7045-78f1efba71ff,0,Take as needed.,True
+9c5b16dc-8a47-896c-92fc-e305e004b76c,0,Take as needed.,True
+9c5b16dc-8a47-896c-ad42-0f3683848bea,0,,False
+9c5b16dc-8a47-896c-aed4-f0e4c708d9c4,0,,False
+9c5b16dc-8a47-896c-2c3c-11740c99dbb7,0,Take as needed.,True
+9c5b16dc-8a47-896c-371b-a6bbb9f7751c,0,,False
+9c5b16dc-8a47-896c-39e5-06f35db728b3,0,Take as needed.,True
+9c5b16dc-8a47-896c-63f4-7312e9a5d72c,0,,False
+9c5b16dc-8a47-896c-8ce4-d08313dfc6bb,0,,False
+9c5b16dc-8a47-896c-212a-bc7067fd2a44,0,Take as needed.,True
+9c5b16dc-8a47-896c-0c27-f142a01e85d8,0,,False
+9c5b16dc-8a47-896c-3512-cb6e77aa9f61,0,Take as needed.,True
+9c5b16dc-8a47-896c-6318-08c7ad45acfd,0,,False
+9c5b16dc-8a47-896c-bdba-4bd1bf2ff393,0,,False
+9c5b16dc-8a47-896c-9889-606b90420b72,0,Take as needed.,True
+9c5b16dc-8a47-896c-8a22-9a2f10655eac,0,,False
+9c5b16dc-8a47-896c-0ed5-2746f3292e35,0,Take as needed.,True
+9c5b16dc-8a47-896c-a471-a359d83095ae,0,,False
+9c5b16dc-8a47-896c-b8d3-0a1a6f99689c,0,Take as needed.,True
+9c5b16dc-8a47-896c-d4dd-71fa492bb4af,0,Take as needed.,True
+9c5b16dc-8a47-896c-2b9f-88c2b9700292,0,,False
+9c5b16dc-8a47-896c-a605-46024478f988,0,,False
+9c5b16dc-8a47-896c-e1f2-878e8b2cf078,0,Take as needed.,True
+9c5b16dc-8a47-896c-0ff2-10ae09f3890d,0,Take as needed.,True
+9c5b16dc-8a47-896c-00a6-a0a397db3b4d,0,Take as needed.,True
+9c5b16dc-8a47-896c-f789-544bf63f3761,0,,False
+9c5b16dc-8a47-896c-ba68-9856992f5cc5,0,Take as needed.,True
+9c5b16dc-8a47-896c-0a40-c24b1f3d2518,0,Take as needed.,True
+9c5b16dc-8a47-896c-bc9f-af4388e1db24,0,,False
+9c5b16dc-8a47-896c-2076-874ac4d77f24,0,Take as needed.,True
+9c5b16dc-8a47-896c-50de-57574b16c36d,0,,False
+9c5b16dc-8a47-896c-e306-13a1d886638c,0,Take as needed.,True
+9c5b16dc-8a47-896c-cadd-3e5cc86ab634,0,Take as needed.,True
+9c5b16dc-8a47-896c-76be-fca938920a3c,0,,False
+9c5b16dc-8a47-896c-e004-930786bb70ce,0,Take as needed.,True
+9c5b16dc-8a47-896c-c6c6-5529a85bedab,0,,False
+9c5b16dc-8a47-896c-3d7b-ca0c13fc8a60,0,Take as needed.,True
+9c5b16dc-8a47-896c-a28c-420556dc7c6c,0,Take as needed.,True
+9c5b16dc-8a47-896c-637c-f93bf7175a83,0,,False
+9c5b16dc-8a47-896c-f1a6-e7e379e371d5,0,,False
+9c5b16dc-8a47-896c-9a10-1399306acbff,0,,False
+9c5b16dc-8a47-896c-1def-2aafe49b52a6,0,Take as needed.,True
+9c5b16dc-8a47-896c-d76c-cb47bf5d419b,0,,False
+9c5b16dc-8a47-896c-eb0d-dfa7bf16adbe,0,Take as needed.,True
+9c5b16dc-8a47-896c-8189-5b62114af51a,0,Take as needed.,True
+9c5b16dc-8a47-896c-87d0-05ffea4c8f16,0,,False
+9c5b16dc-8a47-896c-9f3d-564b96fc818c,0,Take as needed.,True
+9c5b16dc-8a47-896c-58b4-d0f320565274,0,Take as needed.,True
+9c5b16dc-8a47-896c-2f24-235ad0c74160,0,,False
+9c5b16dc-8a47-896c-cfc4-374ffe15f88b,0,Take as needed.,True
+9c5b16dc-8a47-896c-d4b2-410e4fc6bbd5,0,Take as needed.,True
+9c5b16dc-8a47-896c-320c-bedb142e6c76,0,,False
+9c5b16dc-8a47-896c-d0a3-7ad75a04b539,0,Take as needed.,True
+9c5b16dc-8a47-896c-b6b6-4703d6967959,0,,False
+9c5b16dc-8a47-896c-7c8c-bc914fb841fb,0,Take as needed.,True
+9c5b16dc-8a47-896c-755f-63092c9138b7,0,Take as needed.,True
+9c5b16dc-8a47-896c-6d1c-880f35aa221d,0,,False
+35f80d0e-eaad-ef68-7ab7-23d2c6755cb5,0,,False
+35f80d0e-eaad-ef68-725b-58431cebdf43,0,,False
+35f80d0e-eaad-ef68-99d2-2ab17fd871cd,0,,False
+239b0c86-371a-3080-7b0c-23b511097daa,0,Take as needed.,True
+239b0c86-371a-3080-be58-9f8d752f0976,0,Take as needed.,True
+239b0c86-371a-3080-ab85-bb62f0bfb127,0,,False
+239b0c86-371a-3080-7d80-fe25c9401dc3,0,Take as needed.,True
+72b1ca95-c4f0-269d-1268-4b7b1bc1a042,0,,False
+a406f356-c8b4-54ad-1546-e7271fbae170,0,Take as needed.,True
+a406f356-c8b4-54ad-96e8-2a26b2143d70,0,Take as needed.,True
+a406f356-c8b4-54ad-459b-f18e6a687136,0,Take as needed.,True
+7132442e-b0b9-a886-6a83-ccb34dbe7976,0,,False
+7132442e-b0b9-a886-7599-eb268892923d,0,,False
+7132442e-b0b9-a886-b1d0-e272cbd0219c,0,,False
+7132442e-b0b9-a886-9146-b9b8ac958bed,0,,False
+7132442e-b0b9-a886-87ff-8e177c5d564d,0,,False
+7132442e-b0b9-a886-421c-7375f42bf618,0,,False
+7132442e-b0b9-a886-05da-0bb676e50fb5,0,,False
+7132442e-b0b9-a886-0981-b904dfddc1e7,0,,False
+7132442e-b0b9-a886-872f-7fc972052404,0,,False
+7132442e-b0b9-a886-92f7-d31943632e67,0,,False
+7132442e-b0b9-a886-a433-9e3380a8cfb3,0,,False
+7132442e-b0b9-a886-26fa-798d2610078d,0,,False
+7132442e-b0b9-a886-6440-5f0dc6f2ccf0,0,,False
+7132442e-b0b9-a886-6d76-24f91f50e86e,0,,False
+7132442e-b0b9-a886-12b2-de0d775a4d71,0,,False
+7132442e-b0b9-a886-8f0a-0dab06336a4c,0,,False
+7132442e-b0b9-a886-764e-240c03178ce4,0,,False
+7132442e-b0b9-a886-7c7a-0d9490bfefdf,0,,False
+7132442e-b0b9-a886-67a7-20f51b17bcb8,0,,False
+7132442e-b0b9-a886-67d3-52b1139e42b4,0,Take as needed.,True
+7132442e-b0b9-a886-eda0-a01a13c5d276,0,,False
+7132442e-b0b9-a886-aa22-f2f30507080f,0,,False
+031ce8e2-1443-01b4-4204-62e43c4076d7,0,,False
+031ce8e2-1443-01b4-6731-05daf660e2c4,0,,False
+031ce8e2-1443-01b4-1cb9-8261d89d10e0,0,,False
+031ce8e2-1443-01b4-a216-b7b7f804d5af,0,,False
+031ce8e2-1443-01b4-f6b4-a4116757da68,0,,False
+031ce8e2-1443-01b4-e308-3b3f2cca2d4f,0,Take as needed.,True
+031ce8e2-1443-01b4-bb26-95cff951787a,0,,False
+031ce8e2-1443-01b4-4f63-fbed0188f052,0,Take as needed.,True
+031ce8e2-1443-01b4-ff06-fce34fd48c84,0,,False
+031ce8e2-1443-01b4-b1d8-449934c4738e,0,Every four to six hours (qualifier value),False
+031ce8e2-1443-01b4-835e-340aa6afff89,0,,False
+031ce8e2-1443-01b4-755d-2a90b39636a0,0,Take as needed.,True
+031ce8e2-1443-01b4-a48b-94c372cd640a,0,,False
+031ce8e2-1443-01b4-c794-22061f442b1f,0,,False
+031ce8e2-1443-01b4-c9b0-f0fe4993a436,0,Take as needed.,True
+031ce8e2-1443-01b4-24d3-ad8c000087fb,0,,False
+031ce8e2-1443-01b4-fe45-800a27d1fe56,0,,False
+031ce8e2-1443-01b4-d834-6d6907b893e5,0,Take as needed.,True
+031ce8e2-1443-01b4-8ad7-e02c9a2389a6,0,,False
+031ce8e2-1443-01b4-c98b-273a267e1105,0,,False
+031ce8e2-1443-01b4-f321-4765b061c3fb,0,Take as needed.,True
+031ce8e2-1443-01b4-2594-51c35f22f086,0,,False
+031ce8e2-1443-01b4-deca-c5313f6c3487,0,,False
+031ce8e2-1443-01b4-6964-2ff0f53ed1c8,0,Take as needed.,True
+031ce8e2-1443-01b4-57b9-31d3ba099e32,0,,False
+45f3a7b6-d706-f174-6a10-dea8553b3acc,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+45f3a7b6-d706-f174-6461-b3099b6bd265,0,Take as needed.,True
+45f3a7b6-d706-f174-126f-46c9ba6b73c3,0,Take as needed.,True
+45f3a7b6-d706-f174-bbdc-8593dd6283a6,0,Take as needed.,True
+45f3a7b6-d706-f174-bb5e-a8e6b19e094d,0,Take as needed.,True
+45f3a7b6-d706-f174-9de5-96f012e48f50,0,Take as needed.,True
+029c95e2-d252-d8d3-5d18-84948cb7163a,0,Take as needed.,True
+029c95e2-d252-d8d3-5753-a347acb4a1ea,0,Take as needed.,True
+029c95e2-d252-d8d3-4fd5-cd39102def43,0,Take as needed.,True
+029c95e2-d252-d8d3-28aa-72ccd5984b57,0,Take as needed.,True
+029c95e2-d252-d8d3-8bcd-3328385f52f4,0,Take as needed.,True
+029c95e2-d252-d8d3-0a68-c764e251f0c3,0,Take as needed.,True
+029c95e2-d252-d8d3-da42-bc5dfa9a77cf,0,Take as needed.,True
+029c95e2-d252-d8d3-8c91-74b1d0606bc7,0,Take as needed.,True
+029c95e2-d252-d8d3-4e1e-34dfd5ce877c,0,Take as needed.,True
+029c95e2-d252-d8d3-152c-b24d669ff561,0,Take as needed.,True
+029c95e2-d252-d8d3-23ab-1ad787c20d3e,0,Take as needed.,True
+029c95e2-d252-d8d3-70aa-758d6b2a3485,0,Take as needed.,True
+029c95e2-d252-d8d3-bbb4-651987e3bca5,0,Take as needed.,True
+029c95e2-d252-d8d3-bcc9-f9551b5a7049,0,Take as needed.,True
+bca1691f-8839-1d66-3c25-8fa827712051,0,,False
+bca1691f-8839-1d66-d4d9-2f6016ba52ec,0,,False
+bca1691f-8839-1d66-3553-7c2ae9da71c1,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-21a5-1d425db0d7ba,0,,False
+bca1691f-8839-1d66-fe2e-f6a4dd0b408a,0,,False
+bca1691f-8839-1d66-db2c-4204194f0edd,0,,False
+bca1691f-8839-1d66-02e8-d3eaddc14b49,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e10d-215133437523,0,,False
+bca1691f-8839-1d66-32f5-2223e729561f,0,,False
+bca1691f-8839-1d66-98f7-829458f16f17,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-68dc-293d44eb36f2,0,,False
+bca1691f-8839-1d66-4264-acd84f9cf67c,0,,False
+bca1691f-8839-1d66-72d5-593a9e7003b5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-99c5-19d0315d260e,0,,False
+bca1691f-8839-1d66-3511-745e3d5e2706,0,,False
+bca1691f-8839-1d66-9a73-7e22e1e6abdd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-78ae-df47a28196d8,0,,False
+bca1691f-8839-1d66-0c71-de8ed9e5f312,0,,False
+bca1691f-8839-1d66-33f5-aafd966479ae,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b2e9-3943ac1eb735,0,,False
+bca1691f-8839-1d66-a1b0-a277214de7fc,0,,False
+bca1691f-8839-1d66-178f-806063f767f8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6098-ce9511725ab9,0,,False
+bca1691f-8839-1d66-ca46-6848f489ac8d,0,,False
+bca1691f-8839-1d66-c470-e8ae87076e42,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ccd3-630e2439405b,0,,False
+bca1691f-8839-1d66-954e-68c9efb6e64c,0,,False
+bca1691f-8839-1d66-442a-aaed0eaa641e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5dcc-6641c1b998be,0,,False
+bca1691f-8839-1d66-c213-bf44e55130d6,0,,False
+bca1691f-8839-1d66-18b2-c5f0901a17ea,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-decf-fbb8a663d47e,0,,False
+bca1691f-8839-1d66-98ce-086b759a3007,0,,False
+bca1691f-8839-1d66-b57b-1672861b73b8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-fc7a-19b9b46ccae1,0,,False
+bca1691f-8839-1d66-3333-7ce0c4e35ad0,0,,False
+bca1691f-8839-1d66-e862-78725ddc577f,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e64c-9dc96776960c,0,,False
+bca1691f-8839-1d66-5363-a95f349f34fd,0,,False
+bca1691f-8839-1d66-25a9-0d00e414e69d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-43e3-140712ea8cce,0,,False
+bca1691f-8839-1d66-0159-e3a73528732b,0,,False
+bca1691f-8839-1d66-ebcf-fe60796bf6ba,0,,False
+bca1691f-8839-1d66-981a-60d2e60fa6dd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ddb7-cd342d70ae57,0,,False
+bca1691f-8839-1d66-1f35-cd50abe30b11,0,,False
+bca1691f-8839-1d66-852c-919a66ce9e4a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0c5a-436233ad90d1,0,,False
+bca1691f-8839-1d66-35e4-34a3ac77e4b9,0,,False
+bca1691f-8839-1d66-a13b-a4c2d8a0c91d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6a47-ac40f1813a33,0,,False
+bca1691f-8839-1d66-b25b-b0a79de22bf0,0,,False
+bca1691f-8839-1d66-4dc6-ab3b7142c86a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-422d-6a0c98549b76,0,,False
+bca1691f-8839-1d66-e210-14ab66241729,0,,False
+bca1691f-8839-1d66-e571-279a27c0d5c6,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9311-dc7643de886b,0,,False
+bca1691f-8839-1d66-c56a-30cde7b6c13f,0,,False
+bca1691f-8839-1d66-4bd0-49a765755491,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b4ba-2354cde0c764,0,,False
+bca1691f-8839-1d66-586a-a9194244e73e,0,,False
+bca1691f-8839-1d66-6b19-145339de74f5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-80ca-4b8df13c015d,0,,False
+bca1691f-8839-1d66-5e3a-a0cd49bf1e75,0,,False
+bca1691f-8839-1d66-64c1-97965f29bca9,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4a25-acffd7bc969a,0,,False
+bca1691f-8839-1d66-61d2-503ca28f9e9d,0,,False
+bca1691f-8839-1d66-453c-9a6ef2bd4521,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6fd6-e891d85f9e2c,0,,False
+bca1691f-8839-1d66-ae1f-2924c5e2eeb3,0,,False
+bca1691f-8839-1d66-6fbe-160e50949d79,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-d15a-3f06a616eb04,0,,False
+bca1691f-8839-1d66-93c6-1d924f3e421d,0,,False
+bca1691f-8839-1d66-8639-f362acc2b073,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5e47-439edfe03509,0,,False
+bca1691f-8839-1d66-2d76-05e272f4f777,0,,False
+bca1691f-8839-1d66-0117-052199c21104,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-56ba-b0a3db965129,0,,False
+bca1691f-8839-1d66-6f64-1b0a3371c598,0,,False
+bca1691f-8839-1d66-b2a6-a87a04d6ddfa,0,,False
+bca1691f-8839-1d66-5a85-b89254284ab3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5f4f-9c6e709ddc5b,0,,False
+bca1691f-8839-1d66-d013-3c014541e4f9,0,,False
+bca1691f-8839-1d66-8ebe-38d53606d4c2,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9586-9ffb7f9b8eb4,0,,False
+bca1691f-8839-1d66-e2b7-a37f09bf4c57,0,,False
+bca1691f-8839-1d66-c7c0-659d8216baec,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-585f-0a5ca11d8b4d,0,,False
+bca1691f-8839-1d66-d0dd-64c828c31277,0,,False
+bca1691f-8839-1d66-4be2-01ce915d7724,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-beb5-a1c0e51d8378,0,,False
+bca1691f-8839-1d66-1a41-5b1e9f38362b,0,,False
+bca1691f-8839-1d66-e02e-40f92da147cf,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ffea-ef92abac17fd,0,,False
+bca1691f-8839-1d66-25a4-3e092415f156,0,,False
+bca1691f-8839-1d66-8b7d-5aa03241f723,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4adc-7312a067d50e,0,,False
+bca1691f-8839-1d66-a070-3a2949754856,0,,False
+bca1691f-8839-1d66-570d-911bdc97c846,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4e59-8d0dcd310b1f,0,,False
+bca1691f-8839-1d66-5454-8e4b0f22fc26,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+bca1691f-8839-1d66-0f04-22f2dddaf3f2,0,Take as needed.,True
+bca1691f-8839-1d66-96c2-1bb943d3cc1c,0,,False
+bca1691f-8839-1d66-10b8-3a6987b0b464,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-fe5b-506ea9f539ce,0,,False
+bca1691f-8839-1d66-88b4-0e71f5dc7d5e,0,,False
+bca1691f-8839-1d66-5f7f-b705b47e4700,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6ece-4af9d38f8396,0,,False
+bca1691f-8839-1d66-9419-a9c064d9d410,0,,False
+bca1691f-8839-1d66-21a3-283c5f5e3cc3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5f67-321c0b416af2,0,,False
+bca1691f-8839-1d66-52bd-71cba3736b9f,0,,False
+bca1691f-8839-1d66-15e8-cfaa368f5f1e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e613-3da329c370a1,0,,False
+bca1691f-8839-1d66-3449-fe9e95058df9,0,,False
+bca1691f-8839-1d66-dcfd-1f3e47eca5e6,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0eb3-9e82e30db556,0,,False
+bca1691f-8839-1d66-98ca-328cff13ea72,0,,False
+bca1691f-8839-1d66-87bf-de54d608abd9,0,,False
+bca1691f-8839-1d66-a502-120c4d9ece9e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-8ff0-f3f1f18a66be,0,,False
+bca1691f-8839-1d66-0f78-08445d271de6,0,,False
+bca1691f-8839-1d66-4149-0ef170edfdf7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0da6-d5dbb42412dd,0,,False
+bca1691f-8839-1d66-18e3-9e7db93e274d,0,,False
+bca1691f-8839-1d66-2fa4-3feaf411bf07,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-aa99-3ada04f18a6c,0,,False
+bca1691f-8839-1d66-9306-ae5b1771ad7b,0,,False
+bca1691f-8839-1d66-7e50-479551ff4f4a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ab8b-4eb17303ae88,0,,False
+bca1691f-8839-1d66-638f-421cb70555b0,0,,False
+bca1691f-8839-1d66-9bde-6f0049851a13,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-658c-24839b24158b,0,,False
+bca1691f-8839-1d66-4917-faed15e1190c,0,,False
+bca1691f-8839-1d66-c9e8-7a485ab5c4f2,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-58ac-606ad57f53ed,0,,False
+bca1691f-8839-1d66-363f-c84229e14114,0,,False
+bca1691f-8839-1d66-7229-6db9326f1013,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ffc9-6082cc5d1d3d,0,,False
+bca1691f-8839-1d66-9209-c00b6ffb9fc8,0,,False
+bca1691f-8839-1d66-8147-ca300ca7fcb4,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-d490-741bafdb78d1,0,,False
+bca1691f-8839-1d66-2262-36f028d265f5,0,,False
+bca1691f-8839-1d66-0f55-6ecf8bbe05ad,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4c6b-759b0de5597b,0,,False
+bca1691f-8839-1d66-2dda-4e83caa4d2ff,0,,False
+bca1691f-8839-1d66-b085-c43b4dba9dfd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-bcc4-6bf9aea3e1af,0,,False
+bca1691f-8839-1d66-b255-759025cafa91,0,,False
+bca1691f-8839-1d66-4a5f-206d2f0e15bb,0,,False
+bca1691f-8839-1d66-cf01-1419d725a706,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-cf32-033b700c060d,0,,False
+bca1691f-8839-1d66-f363-0b2f0b2bb0f2,0,,False
+bca1691f-8839-1d66-7e22-f7d72a82f7c5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-3c13-127bcda8a89c,0,,False
+bca1691f-8839-1d66-3c0e-5f3695ac3e2d,0,,False
+bca1691f-8839-1d66-92ec-6ff5d3e55bdd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-68b1-aaf722b50f9f,0,,False
+bca1691f-8839-1d66-3096-f7bc00fc326c,0,,False
+bca1691f-8839-1d66-7586-db54c76add1b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-33dc-25e7b48ceab0,0,,False
+bca1691f-8839-1d66-a832-6b4bbb02aa9f,0,,False
+bca1691f-8839-1d66-76a5-706f8717cf9c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-547f-db6933ff0848,0,,False
+bca1691f-8839-1d66-98b3-2d4a1ce4183f,0,,False
+bca1691f-8839-1d66-cfda-4f4cf7249330,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e76e-83a49fe60f58,0,,False
+bca1691f-8839-1d66-d644-8a0afaa15ff6,0,,False
+bca1691f-8839-1d66-5b79-ed332b089d54,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5215-b4e8ed3562de,0,,False
+bca1691f-8839-1d66-ccc6-15ba555ff2d0,0,,False
+bca1691f-8839-1d66-9184-54f431eb544c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b708-9ede9ab98438,0,,False
+bca1691f-8839-1d66-1a94-bda2be00a769,0,,False
+bca1691f-8839-1d66-7a03-4e6f654af4ef,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9e3c-f3bb7e5c8def,0,,False
+bca1691f-8839-1d66-4b96-55860c2bb460,0,,False
+bca1691f-8839-1d66-28a3-11d754138dee,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-516f-21359c731589,0,,False
+bca1691f-8839-1d66-f342-e9d008c48a39,0,,False
+bca1691f-8839-1d66-fef3-44977da7f13d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9add-a08ed0c4de32,0,,False
+bca1691f-8839-1d66-6078-87fcdcf0e168,0,,False
+bca1691f-8839-1d66-adfe-33cca8c27e35,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b5c3-fa51a0a34f8a,0,,False
+bca1691f-8839-1d66-6ebe-45c1dfa5fdd1,0,,False
+bca1691f-8839-1d66-11fc-bf6127ccf689,0,,False
+bca1691f-8839-1d66-dc9c-405298eb441c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-92eb-9a52f352d9f1,0,,False
+bca1691f-8839-1d66-7ff5-5cea81a55e8b,0,,False
+bca1691f-8839-1d66-9944-86dd27e3a710,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-95d7-05d9169ebf20,0,,False
+bca1691f-8839-1d66-887d-e2560074e22c,0,,False
+bca1691f-8839-1d66-dc1f-d11be140b2d1,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-cc92-f591e829b413,0,,False
+bca1691f-8839-1d66-ab89-42e5a4abe6a6,0,,False
+bca1691f-8839-1d66-2968-1b2389282d48,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-dee9-ee517975c2cc,0,,False
+bca1691f-8839-1d66-cc76-2469cfb25269,0,,False
+bca1691f-8839-1d66-7d33-90ed474cbe47,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-f25c-08aec0163b4c,0,,False
+bca1691f-8839-1d66-1bec-ccd8a1d0da4a,0,,False
+bca1691f-8839-1d66-33d3-6625d54659ba,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4299-919bc1623457,0,,False
+bca1691f-8839-1d66-b98c-4753c8de451f,0,,False
+bca1691f-8839-1d66-e206-4ea08aa8d122,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-16e2-9173bea60968,0,,False
+bca1691f-8839-1d66-42a2-7c4ef74f7216,0,,False
+bca1691f-8839-1d66-b533-623ea84f86cf,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9366-e3f07f532a5e,0,,False
+bca1691f-8839-1d66-dad2-7f4d790f9641,0,,False
+bca1691f-8839-1d66-787d-ca94b3326bb4,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4653-5a085fb79d21,0,,False
+bca1691f-8839-1d66-4c81-c60eb6746ff8,0,,False
+bca1691f-8839-1d66-8a5a-c16113c428d8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6eab-ae92243ee694,0,,False
+bca1691f-8839-1d66-8181-0eea90c457ca,0,,False
+bca1691f-8839-1d66-4843-4bf4cc8ab870,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5c9c-6a70b0e532fb,0,,False
+bca1691f-8839-1d66-2eb8-35cf2f85e200,0,,False
+bca1691f-8839-1d66-2b25-4637fe183a3b,0,,False
+bca1691f-8839-1d66-3663-20d20ec838b2,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-d386-aa4fbf92cd66,0,,False
+bca1691f-8839-1d66-98e8-a19d562524a1,0,,False
+bca1691f-8839-1d66-5e89-0784d84f9b43,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-f040-012cb629d008,0,,False
+bca1691f-8839-1d66-057c-762acd37c8d7,0,,False
+bca1691f-8839-1d66-6b91-05e7c87177f9,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5682-73850d27f56d,0,,False
+bca1691f-8839-1d66-ca58-4b333394550a,0,,False
+bca1691f-8839-1d66-15a7-11e7f51337ee,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5b03-94427707c197,0,,False
+bca1691f-8839-1d66-e628-2acffcd1c420,0,,False
+bca1691f-8839-1d66-79fe-c43684a67ac6,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0912-8326b776503b,0,,False
+bca1691f-8839-1d66-199d-7215ee68f454,0,,False
+bca1691f-8839-1d66-f529-b6f12a20077b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-870d-a9c9670ddedf,0,,False
+bca1691f-8839-1d66-63c4-e64175c85ad4,0,,False
+bca1691f-8839-1d66-04f3-4722bbeec4a5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-5a89-64cef6d439c9,0,,False
+bca1691f-8839-1d66-340c-a0c146c48ae2,0,,False
+bca1691f-8839-1d66-2742-ee3e48307c35,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-7bee-e266cabb0f4a,0,,False
+bca1691f-8839-1d66-2658-fc18858897a9,0,,False
+bca1691f-8839-1d66-9604-78f92fd70cce,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-44f3-465992b1a567,0,,False
+bca1691f-8839-1d66-34b1-b3af2c3b1354,0,,False
+bca1691f-8839-1d66-a418-e2dd856b755d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-8c3a-9f2ae5a8431c,0,,False
+bca1691f-8839-1d66-827b-ee7056045286,0,,False
+bca1691f-8839-1d66-c716-2ec1b051065d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9762-a3eadd29cb3f,0,,False
+bca1691f-8839-1d66-68e5-7a0a4dfe8c26,0,,False
+bca1691f-8839-1d66-ed40-ae0ff5060f23,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e2d4-5a37f203b5ad,0,,False
+bca1691f-8839-1d66-8fde-305299e47e0e,0,,False
+bca1691f-8839-1d66-6d35-3e3658d92c61,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-495d-2ab06d40129d,0,,False
+bca1691f-8839-1d66-0737-357b4f58a7be,0,,False
+bca1691f-8839-1d66-d256-d7749b1ccbb8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2112-d725ed60348e,0,,False
+bca1691f-8839-1d66-3f5c-3897c00e7e29,0,,False
+bca1691f-8839-1d66-140a-45fd61624c41,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ca9a-37a6deb70648,0,,False
+bca1691f-8839-1d66-9269-278a1ea4516f,0,,False
+bca1691f-8839-1d66-a76a-bce4f51d6edc,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-c9e1-b348a46b2580,0,,False
+bca1691f-8839-1d66-3cb0-54cbf50e4bfa,0,,False
+bca1691f-8839-1d66-73d0-1e622d290443,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e505-a3dda716fa7f,0,,False
+bca1691f-8839-1d66-d170-e3ed0aa204c7,0,,False
+bca1691f-8839-1d66-9d82-2f751e48c331,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-64df-3ad90d5c3772,0,,False
+bca1691f-8839-1d66-1fe2-d4a2510433b6,0,,False
+bca1691f-8839-1d66-4207-7b24cb696054,0,,False
+bca1691f-8839-1d66-f6de-4c20eabd46ac,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0bd1-75b7b7ba60fa,0,,False
+bca1691f-8839-1d66-5b03-e0d2b014a24a,0,,False
+bca1691f-8839-1d66-6b05-da88e37f68b3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-24bd-4d82b8ec1725,0,,False
+bca1691f-8839-1d66-dd3c-5f841932f00c,0,,False
+bca1691f-8839-1d66-c0e8-41e8eddc9254,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4504-fb21bfe22762,0,,False
+bca1691f-8839-1d66-2aeb-343ed5df99a1,0,,False
+bca1691f-8839-1d66-5351-a0db09f75382,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ada0-aeb4729ab775,0,,False
+bca1691f-8839-1d66-c914-b6d6f6a3e9c7,0,,False
+bca1691f-8839-1d66-25ad-4790bbda9f64,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0b1f-d6644c74e6e8,0,,False
+bca1691f-8839-1d66-aff5-25f2a7f23b7f,0,,False
+bca1691f-8839-1d66-4f26-17bcf2ad351a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ddf5-d96f6d2aadc6,0,,False
+bca1691f-8839-1d66-a80c-37d2b86405ea,0,,False
+bca1691f-8839-1d66-5b32-f978d16ead61,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e205-c8b4ca96322f,0,,False
+bca1691f-8839-1d66-741a-3b018984aed7,0,,False
+bca1691f-8839-1d66-c7f2-09e1677fa4c0,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-af24-1bb6077a7fd3,0,,False
+bca1691f-8839-1d66-5d96-c72cf37208e5,0,,False
+bca1691f-8839-1d66-32aa-a5aedeee3715,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-cb0f-1d6bd7b674f6,0,,False
+bca1691f-8839-1d66-122c-56ad52aa5953,0,,False
+bca1691f-8839-1d66-ccb7-046787a053cd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-8e4f-b15b7625dcb9,0,,False
+bca1691f-8839-1d66-8ef5-0aedbfc9a848,0,,False
+bca1691f-8839-1d66-7067-964376ebe17c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-00a4-b902d1796635,0,,False
+bca1691f-8839-1d66-f1d2-45a2fa243fcc,0,,False
+bca1691f-8839-1d66-7791-dfb06efe45c9,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2ab8-ec30bda1e5e7,0,,False
+bca1691f-8839-1d66-470d-6e3d7c655acc,0,,False
+bca1691f-8839-1d66-7e9a-f772e718030c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-3caf-47485d038209,0,,False
+bca1691f-8839-1d66-97d3-c8df22d00020,0,,False
+bca1691f-8839-1d66-2786-2063b93bc7f4,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-7fec-282ada08855d,0,,False
+bca1691f-8839-1d66-6662-f9ac550dd4be,0,,False
+bca1691f-8839-1d66-875b-d63f96ad6c1f,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-449e-53b649ee80db,0,,False
+bca1691f-8839-1d66-e2d9-91a58dcce9d8,0,,False
+bca1691f-8839-1d66-c870-394f35bae781,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-42f8-5c9f1ab6873a,0,,False
+bca1691f-8839-1d66-d393-86d9efec83d3,0,,False
+bca1691f-8839-1d66-0720-671456d24dac,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-210d-b653d9861faf,0,,False
+bca1691f-8839-1d66-2a49-65627adb0bb8,0,,False
+bca1691f-8839-1d66-5063-abc32d4287cc,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-c0f7-0cb63fc6557d,0,,False
+bca1691f-8839-1d66-8cd8-5a0603b9f9ce,0,,False
+bca1691f-8839-1d66-c0a8-b213c9a4849b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e4be-fef18ad88cad,0,,False
+bca1691f-8839-1d66-dd9b-22ac249c46fe,0,,False
+bca1691f-8839-1d66-24f3-c92854a94f3c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4e81-aad970009806,0,,False
+bca1691f-8839-1d66-a3f0-c56901d65695,0,,False
+bca1691f-8839-1d66-7533-826309d99194,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-dc2b-95c371481cca,0,,False
+bca1691f-8839-1d66-4282-a53efb5ec50d,0,,False
+bca1691f-8839-1d66-02de-8cee3b820e52,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-f851-917e530d71c7,0,,False
+bca1691f-8839-1d66-d29b-1acb9d90b96a,0,,False
+bca1691f-8839-1d66-7f4a-903d35e62d4c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9efc-872fb8f7ae6c,0,,False
+bca1691f-8839-1d66-252c-3b7c1bde156d,0,,False
+bca1691f-8839-1d66-b0e6-75a74be2a8c3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b986-5ca0edec812e,0,,False
+bca1691f-8839-1d66-7c9e-e3859221028b,0,,False
+bca1691f-8839-1d66-e791-b45ebf96f8a3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-e4a2-fc088757c2a6,0,,False
+bca1691f-8839-1d66-6cba-69b321786aea,0,,False
+bca1691f-8839-1d66-7322-e33f1d7a43fd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-7008-93cf224a5427,0,,False
+bca1691f-8839-1d66-adcb-f2dda2665043,0,,False
+bca1691f-8839-1d66-b89b-962f06ec6230,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6823-d049813a2b78,0,,False
+bca1691f-8839-1d66-f9ef-e7dae627cea4,0,,False
+bca1691f-8839-1d66-ebcb-368c530ae59a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0d7a-eaa00affe603,0,,False
+bca1691f-8839-1d66-e29a-63c81d6004a8,0,,False
+bca1691f-8839-1d66-0810-0f260a6b3a89,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-827c-5eb4bf50829e,0,,False
+bca1691f-8839-1d66-5795-8de348717708,0,,False
+bca1691f-8839-1d66-c7e5-515ed73f0c7c,0,,False
+bca1691f-8839-1d66-7fa0-ceb7cc7e0cb7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6587-876f29a9afe5,0,,False
+bca1691f-8839-1d66-2867-58b9451cbeeb,0,,False
+bca1691f-8839-1d66-8547-2a63df53b6ba,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-927b-1c2c466324d2,0,,False
+bca1691f-8839-1d66-998c-6210fd1e234a,0,,False
+bca1691f-8839-1d66-b14e-6e2230a342fd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-fde0-1616740c6420,0,,False
+bca1691f-8839-1d66-7f69-cafd736c9cec,0,,False
+bca1691f-8839-1d66-f9e9-9206dae382e7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2a08-cb6767597766,0,,False
+bca1691f-8839-1d66-1cfb-e555e1313732,0,,False
+bca1691f-8839-1d66-aa80-511679d18bac,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-a23e-045a0a8618e7,0,,False
+bca1691f-8839-1d66-11ed-13e390b75e8b,0,,False
+bca1691f-8839-1d66-e63c-2dc5afb286e5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ae76-a9dfe654b011,0,,False
+bca1691f-8839-1d66-cad8-5131e4273418,0,,False
+bca1691f-8839-1d66-32d4-c37f68ab2070,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2326-2c8804de6f2d,0,,False
+bca1691f-8839-1d66-b1fa-63c3609b6555,0,,False
+bca1691f-8839-1d66-fd21-dccd644df943,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-a46c-49a01ac40251,0,,False
+bca1691f-8839-1d66-d8fd-b3473352f013,0,,False
+bca1691f-8839-1d66-d21a-64186b70b716,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-837a-5a723767118a,0,,False
+bca1691f-8839-1d66-54d7-9475d6480b5d,0,,False
+bca1691f-8839-1d66-f867-cba354b22c89,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2f51-e30bfe501cdb,0,,False
+bca1691f-8839-1d66-400a-24e12a0b0d33,0,,False
+bca1691f-8839-1d66-048a-c4688d9338e7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-dae8-6cc034f079a8,0,,False
+bca1691f-8839-1d66-6365-871710c581fc,0,,False
+bca1691f-8839-1d66-4f3f-6cc6a06573e5,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-d481-5c03314052f3,0,,False
+bca1691f-8839-1d66-3b7b-d91cf8839621,0,,False
+bca1691f-8839-1d66-8434-bf16134252e8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-cc8b-2e0dfaed264d,0,,False
+bca1691f-8839-1d66-3323-380edb3b9707,0,,False
+bca1691f-8839-1d66-c05b-011261f319d7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0e4b-bf99544a5229,0,,False
+bca1691f-8839-1d66-092a-b1449d7b0556,0,,False
+bca1691f-8839-1d66-f682-9ea6faa311a6,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-eb00-222ac90b9683,0,,False
+bca1691f-8839-1d66-c7f3-820e4b1122e0,0,,False
+bca1691f-8839-1d66-d281-7badff8a7c3c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-389d-7040abde90ef,0,,False
+bca1691f-8839-1d66-ca67-a44f68549683,0,,False
+bca1691f-8839-1d66-295b-eed21f52f2f2,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-f886-b03453c4dd24,0,,False
+bca1691f-8839-1d66-f460-d668388652f1,0,,False
+bca1691f-8839-1d66-4df9-793a38535a2e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-c96a-b65175075528,0,,False
+bca1691f-8839-1d66-94a5-388ed760c1b5,0,,False
+bca1691f-8839-1d66-bce1-a32f4266b415,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-1c9f-78e95a49dfcf,0,,False
+bca1691f-8839-1d66-48ad-46264c6a5f02,0,,False
+bca1691f-8839-1d66-5d60-82f9fa813702,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-c975-d318aaf26648,0,,False
+bca1691f-8839-1d66-05df-7e991291210b,0,,False
+bca1691f-8839-1d66-adec-8d12a5358ce8,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-8168-595fb74249be,0,,False
+bca1691f-8839-1d66-6c9e-9c3befd81ca8,0,,False
+bca1691f-8839-1d66-bd2a-8fcf1794d7bb,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-7aef-5f51b78578b5,0,,False
+bca1691f-8839-1d66-c09b-79a76391ccdb,0,,False
+bca1691f-8839-1d66-76ca-329681728233,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-d73e-267c657d5ff3,0,,False
+bca1691f-8839-1d66-6767-456c7c097af8,0,,False
+bca1691f-8839-1d66-5331-07f3d35286a3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-a23e-9d0655ca02de,0,,False
+bca1691f-8839-1d66-daa1-ef33f400fb7c,0,,False
+bca1691f-8839-1d66-26a5-14c3599891e4,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-9a72-8887bbdb4e42,0,,False
+bca1691f-8839-1d66-df2d-237030159001,0,,False
+bca1691f-8839-1d66-3b54-87facda3cbe3,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-dc95-d97a497ded83,0,,False
+bca1691f-8839-1d66-f800-45c2bd2bab4d,0,,False
+bca1691f-8839-1d66-ef05-4e9854ee97dc,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-1863-5a1370a88e89,0,,False
+bca1691f-8839-1d66-6bb8-155f114417da,0,,False
+bca1691f-8839-1d66-00b7-6c5a08ea7319,0,,False
+bca1691f-8839-1d66-fc68-d5b4927fdf00,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4296-7aad8e96e430,0,,False
+bca1691f-8839-1d66-29a1-8d93ae82c129,0,,False
+bca1691f-8839-1d66-fb5c-f42ef3b4e252,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-419d-3011c6b9a92d,0,,False
+bca1691f-8839-1d66-28d1-bfab44437e57,0,,False
+bca1691f-8839-1d66-06f3-c15b263a59a7,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0f7a-072e10c73d70,0,,False
+bca1691f-8839-1d66-b3dd-e15cea666de5,0,,False
+bca1691f-8839-1d66-ab2d-b587b4976428,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-fa19-81f927a28816,0,,False
+bca1691f-8839-1d66-7609-1557c1e10704,0,,False
+bca1691f-8839-1d66-60c8-03fd41a5cc7a,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-565a-01f640b37b46,0,,False
+bca1691f-8839-1d66-c224-bc15fa678b68,0,,False
+bca1691f-8839-1d66-549d-084fca46e424,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-26a9-a48bd9ccdbce,0,,False
+bca1691f-8839-1d66-5273-d30e2200b4b6,0,,False
+bca1691f-8839-1d66-1c17-ed178a45620b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b5f2-ffeb812edaef,0,,False
+bca1691f-8839-1d66-8e5a-9dc49a58fab3,0,,False
+bca1691f-8839-1d66-4e90-8e20ce09414e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2b1f-f8cdf3d17203,0,,False
+bca1691f-8839-1d66-b428-8552aeeb5cce,0,,False
+bca1691f-8839-1d66-d32b-c55312cbd702,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-4732-fb636a1ae58f,0,,False
+bca1691f-8839-1d66-0632-c052db16fde3,0,,False
+bca1691f-8839-1d66-2f18-96d8e26ecb5c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2421-2355757cb208,0,,False
+bca1691f-8839-1d66-af28-ce7c6039e6e8,0,,False
+bca1691f-8839-1d66-9c1b-b1c26dccde6c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-48c4-508fcdb30668,0,,False
+bca1691f-8839-1d66-2ed0-8b01a394f053,0,,False
+bca1691f-8839-1d66-eeb4-24c5899faf05,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-ea4f-c8d93bf3e739,0,,False
+bca1691f-8839-1d66-50be-c1a13207872d,0,,False
+bca1691f-8839-1d66-819e-e5a81226411d,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-fb80-d858d7fa001c,0,,False
+bca1691f-8839-1d66-4eb3-66d78b6db34f,0,,False
+bca1691f-8839-1d66-85a3-e39d2c1ec074,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-3794-a030569d832c,0,,False
+bca1691f-8839-1d66-0ca5-913beafe2d35,0,,False
+bca1691f-8839-1d66-7503-8dd38af3a91b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-a72d-2089287e8e1c,0,,False
+bca1691f-8839-1d66-5442-82afdcefe0dd,0,,False
+bca1691f-8839-1d66-fc2c-8fdb2aedea4b,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-65a7-2e7fbecb7b95,0,,False
+bca1691f-8839-1d66-06b2-773bf93d7c50,0,,False
+bca1691f-8839-1d66-1407-959b8b3357cd,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-3100-ec19df7f23d2,0,,False
+bca1691f-8839-1d66-6118-a78071abae1b,0,,False
+bca1691f-8839-1d66-9afc-eb9ce53d5670,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-581e-ec9ddff28191,0,,False
+bca1691f-8839-1d66-5caf-5fa412dd8e4b,0,,False
+bca1691f-8839-1d66-5ce0-2b8460296d62,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-35f4-7e8ef0ee91ca,0,,False
+bca1691f-8839-1d66-cf9a-830767a02515,0,,False
+bca1691f-8839-1d66-a854-31b723c3626e,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-2dc0-929588ea32e4,0,,False
+bca1691f-8839-1d66-17e9-212535a2352c,0,,False
+bca1691f-8839-1d66-94fa-8e49f82dcd07,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-25fc-13bc761c17a4,0,,False
+bca1691f-8839-1d66-1d70-a536140e7639,0,,False
+bca1691f-8839-1d66-e7ee-14079bfe11bf,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-7ff9-7599bda7fc6a,0,,False
+bca1691f-8839-1d66-2bc8-fd41c4749747,0,,False
+bca1691f-8839-1d66-b507-f8eb3c076733,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-6244-ff13412b6e34,0,,False
+bca1691f-8839-1d66-4f5e-20ec72cf180b,0,,False
+bca1691f-8839-1d66-8404-be90a4931c6f,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0349-a78f97251caa,0,,False
+bca1691f-8839-1d66-e138-250f857b6885,0,,False
+bca1691f-8839-1d66-1f51-5a8c2b0dc9e1,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-36d1-1be219c5b5bc,0,,False
+bca1691f-8839-1d66-7ba7-6b413386b00f,0,,False
+bca1691f-8839-1d66-c955-14d6991e1e3c,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b6c0-2633cdfedde7,0,,False
+bca1691f-8839-1d66-c7b4-4b82365cec8d,0,,False
+bca1691f-8839-1d66-030d-dbda0c4c9803,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-f6e5-51e8820fcf9a,0,,False
+bca1691f-8839-1d66-0bf6-07b61cce4bfb,0,,False
+bca1691f-8839-1d66-ff5a-eaff88036fb1,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-32b8-46c68d24aead,0,,False
+bca1691f-8839-1d66-0623-fc6ee115c066,0,,False
+bca1691f-8839-1d66-3dac-81096c4cb3b1,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-0338-55f7143adf86,0,,False
+bca1691f-8839-1d66-6e49-366dfeb3a0d1,0,,False
+bca1691f-8839-1d66-55ab-872214c30adc,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-3910-17817177f9b5,0,,False
+bca1691f-8839-1d66-f0a0-9994684f8025,0,,False
+bca1691f-8839-1d66-3862-5c1fe8955df9,0,Every four to six hours (qualifier value),False
+bca1691f-8839-1d66-b263-b278f307ebf3,0,,False
+765bd034-e8d7-f102-4e3b-0c4d70873078,0,Take as needed.,True
+765bd034-e8d7-f102-8d24-525a32c86ade,0,Take as needed.,True
+765bd034-e8d7-f102-c2f2-54371721443b,0,Take as needed.,True
+765bd034-e8d7-f102-12d4-294b548b9a33,0,Take as needed.,True
+3732fde5-efc6-d57a-ff74-259f93071e86,0,,False
+3732fde5-efc6-d57a-ec40-79732be3c361,0,,False
+3732fde5-efc6-d57a-5215-9605af9509c7,0,,False
+3732fde5-efc6-d57a-7109-cd836317ecc4,0,,False
+3732fde5-efc6-d57a-b144-28e6fd4a95ad,0,,False
+3732fde5-efc6-d57a-f235-6d75705c30b0,0,,False
+3732fde5-efc6-d57a-ad37-6aa643df252b,0,,False
+3732fde5-efc6-d57a-c4b1-60393c506a21,0,,False
+3732fde5-efc6-d57a-dd71-bdb5bf1a2a71,0,,False
+3732fde5-efc6-d57a-099e-a0e422dc2a91,0,,False
+3732fde5-efc6-d57a-bc7a-e7eef6889659,0,,False
+3732fde5-efc6-d57a-902c-f53ca77273d1,0,,False
+3732fde5-efc6-d57a-de41-ca0ee5e3a9f6,0,,False
+3732fde5-efc6-d57a-e3ca-15c43543248a,0,,False
+3732fde5-efc6-d57a-b309-736ae297affc,0,,False
+3732fde5-efc6-d57a-9bc5-0e4ffaa77a38,0,,False
+3732fde5-efc6-d57a-50da-c10a4bbe6d5c,0,,False
+3732fde5-efc6-d57a-ac3c-1b468498095a,0,,False
+3732fde5-efc6-d57a-59ab-eb7209ce9b7a,0,,False
+3732fde5-efc6-d57a-add1-3a99eb5ffd37,0,,False
+3732fde5-efc6-d57a-d5cf-146b66ae8c60,0,,False
+3732fde5-efc6-d57a-d56a-015d0e4ef51d,0,,False
+3732fde5-efc6-d57a-959b-c578f4dd1380,0,,False
+3732fde5-efc6-d57a-11b2-17f4429ce474,0,,False
+3732fde5-efc6-d57a-3bb0-d8a73c7f2e14,0,,False
+3732fde5-efc6-d57a-b294-270251880dff,0,,False
+3732fde5-efc6-d57a-ba19-bd964c7c6cf6,0,,False
+3732fde5-efc6-d57a-37dd-566ce3ded907,0,,False
+3732fde5-efc6-d57a-b68e-5f8cd8a81e52,0,,False
+3732fde5-efc6-d57a-d105-db201658aea1,0,,False
+3732fde5-efc6-d57a-100d-a6a19c2bfc83,0,,False
+3732fde5-efc6-d57a-95be-b377dccb17ae,0,,False
+3732fde5-efc6-d57a-d802-109dbde1b11a,0,,False
+3732fde5-efc6-d57a-7ce8-93a0ebcfa2e0,0,,False
+3732fde5-efc6-d57a-e0aa-0168c66ebf83,0,,False
+3732fde5-efc6-d57a-8d34-5f4023718a5c,0,,False
+3732fde5-efc6-d57a-d0b6-abe8db285489,0,,False
+3732fde5-efc6-d57a-69ff-610b77bf5ff6,0,,False
+3732fde5-efc6-d57a-34bd-54dcf5598753,0,,False
+3732fde5-efc6-d57a-573f-3cc7ef1a5a17,0,,False
+3732fde5-efc6-d57a-05a0-14ea43eba2c5,0,,False
+3732fde5-efc6-d57a-4041-28aaae8fa123,0,,False
+3732fde5-efc6-d57a-605e-233835743082,0,,False
+3732fde5-efc6-d57a-69e8-28ef378d939d,0,,False
+3732fde5-efc6-d57a-47a8-86bdb436d1b5,0,,False
+3732fde5-efc6-d57a-7d47-b902f23dd83d,0,,False
+3732fde5-efc6-d57a-571c-f0254612ac06,0,,False
+3732fde5-efc6-d57a-b367-3192ccd302df,0,,False
+3732fde5-efc6-d57a-eb95-317214116cb3,0,,False
+3732fde5-efc6-d57a-2ccd-35997bb497b3,0,,False
+3732fde5-efc6-d57a-d1e9-75dd6e93b3dd,0,,False
+3732fde5-efc6-d57a-f0e9-d28250085667,0,,False
+3732fde5-efc6-d57a-89f7-88e4b9b1cc9a,0,,False
+3732fde5-efc6-d57a-dfd8-fdd66ab6efb7,0,,False
+3732fde5-efc6-d57a-373d-2d6aa9fc2d66,0,,False
+3732fde5-efc6-d57a-2942-6a1af28e2924,0,,False
+3732fde5-efc6-d57a-2750-ad49071575fe,0,,False
+1be83f06-48ef-7bac-6895-7d9421b1a3f4,0,Take as needed.,True
+1be83f06-48ef-7bac-2022-fc02990f83a6,0,Take as needed.,True
+1be83f06-48ef-7bac-8abb-35ce61e46fb6,0,,False
+1be83f06-48ef-7bac-effa-723f404f4927,0,Take as needed.,True
+1be83f06-48ef-7bac-5c78-6e7c94b57918,0,Take as needed.,True
+1be83f06-48ef-7bac-0536-09976751bc1f,0,Take as needed.,True
+1be83f06-48ef-7bac-710a-d523aac2c600,0,Take as needed.,True
+1be83f06-48ef-7bac-10cd-e4c33516fe38,0,Take as needed.,True
+1be83f06-48ef-7bac-9ced-eef94b709b2c,0,Take as needed.,True
+1be83f06-48ef-7bac-cd17-02b2796c11cc,0,Take as needed.,True
+1be83f06-48ef-7bac-6c6b-7f2d1269e474,0,Take as needed.,True
+1be83f06-48ef-7bac-6656-e72a0c21286b,0,Take as needed.,True
+1be83f06-48ef-7bac-0e66-6455b1ae6d8d,0,Take as needed.,True
+1be83f06-48ef-7bac-e805-19c115f4bb59,0,Take as needed.,True
+1be83f06-48ef-7bac-ff36-b52b9d194b76,0,Take as needed.,True
+1be83f06-48ef-7bac-bb2f-7a53f841106f,0,Take as needed.,True
+1be83f06-48ef-7bac-068f-b727153d7b8f,0,Take as needed.,True
+1be83f06-48ef-7bac-5010-a3f8f2f51597,0,Take as needed.,True
+1be83f06-48ef-7bac-2dc5-8cd1f4805b7e,0,Take as needed.,True
+1be83f06-48ef-7bac-466a-7cbc75b30697,0,Take as needed.,True
+1be83f06-48ef-7bac-b185-5e1a36125c6a,0,Take as needed.,True
+1be83f06-48ef-7bac-d8e1-2aac94301dc1,0,Take as needed.,True
+1be83f06-48ef-7bac-3e0d-d32a3847bf68,0,Take as needed.,True
+1be83f06-48ef-7bac-189d-f95cd0656877,0,Take as needed.,True
+4e71643c-f046-a74f-b1a5-abe230b6e63a,0,,False
+4e71643c-f046-a74f-f685-f024cc924651,0,Take as needed.,True
+4e71643c-f046-a74f-3427-40548d675f89,0,,False
+edb5a2e3-a981-d33c-73c5-fc2f9bfd0697,0,Take as needed.,True
+edb5a2e3-a981-d33c-63dd-6bce677575d8,0,Take as needed.,True
+edb5a2e3-a981-d33c-0ca7-52401c173087,0,Take as needed.,True
+edb5a2e3-a981-d33c-a4f8-35e62d9e8458,0,Take as needed.,True
+edb5a2e3-a981-d33c-645a-2f368f392dee,0,Take as needed.,True
+edb5a2e3-a981-d33c-f7e4-5a39284b6d74,0,Take as needed.,True
+edb5a2e3-a981-d33c-ad5a-6783b7ab89b0,0,Take as needed.,True
+edb5a2e3-a981-d33c-f893-605f76d270a8,0,Take as needed.,True
+edb5a2e3-a981-d33c-2ede-f608a2ead29b,0,Take as needed.,True
+edb5a2e3-a981-d33c-0011-013809d5bce5,0,Take as needed.,True
+edb5a2e3-a981-d33c-ef9b-5dbaef0cbd71,0,Take as needed.,True
+edb5a2e3-a981-d33c-4244-fd510a882c02,0,Take as needed.,True
+edb5a2e3-a981-d33c-dd7a-a4b3c9f4e98d,0,Take as needed.,True
+edb5a2e3-a981-d33c-fe7e-f0eba3665325,0,Take as needed.,True
+edb5a2e3-a981-d33c-67ec-7578c7205529,0,Take as needed.,True
+edb5a2e3-a981-d33c-11e2-c79eeeee44f9,0,Take as needed.,True
+edb5a2e3-a981-d33c-9745-f3b41610ddcd,0,Take as needed.,True
+edb5a2e3-a981-d33c-42e8-c7b9b8f52afd,0,Take as needed.,True
+edb5a2e3-a981-d33c-8227-0b8d42d9c229,0,Take as needed.,True
+edb5a2e3-a981-d33c-470b-5124cb0e3a04,0,Take as needed.,True
+edb5a2e3-a981-d33c-51f1-9b845d0a6520,0,Take as needed.,True
+edb5a2e3-a981-d33c-fd6a-3906418fa87b,0,Take as needed.,True
+edb5a2e3-a981-d33c-1f69-ef116d8b2b74,0,Take as needed.,True
+edb5a2e3-a981-d33c-9337-edb034ec6076,0,Take as needed.,True
+edb5a2e3-a981-d33c-12cb-8ba46ebf658c,0,Take as needed.,True
+edb5a2e3-a981-d33c-84d0-b5f5988520d1,0,Take as needed.,True
+f870c432-0887-125e-211e-dc5e7de8f4ff,0,,False
+f870c432-0887-125e-25c5-27d9bfea51f1,0,,False
+f870c432-0887-125e-e78f-6529ebf64e35,0,,False
+f870c432-0887-125e-cf3a-81caf594124d,0,,False
+f870c432-0887-125e-b1fc-9f46dbbae04f,0,,False
+f870c432-0887-125e-39ab-beba68ef37a6,0,,False
+f30304ab-8e45-1cbd-30c8-fb38ac247fc2,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+f30304ab-8e45-1cbd-4812-67d535d32ddf,0,Take as needed.,True
+f30304ab-8e45-1cbd-056e-3fec14b05e14,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+f30304ab-8e45-1cbd-7d6e-36deb209e016,0,Take as needed.,True
+f30304ab-8e45-1cbd-75c4-b99ca053aa1f,0,Take as needed.,True
+f30304ab-8e45-1cbd-d3eb-a4a93683c55d,0,Take as needed.,True
+355a4d50-2628-aa65-165f-5ef0c09c30e8,0,Take as needed.,True
+355a4d50-2628-aa65-2e5f-23171381d26d,0,Take as needed.,True
+355a4d50-2628-aa65-623a-1e90fb266747,0,Take as needed.,True
+355a4d50-2628-aa65-3f42-50a928d0a8b0,0,Take as needed.,True
+97e39468-6488-ca8f-e0b6-fb2a73a2708c,0,Take as needed.,True
+97e39468-6488-ca8f-4a51-37a2f362bbc6,0,,False
+9a3814bb-f5b0-05f3-298b-ea26b492e49c,0,Take as needed.,True
+9a3814bb-f5b0-05f3-452f-34c2594deae2,0,Take as needed.,True
+9a3814bb-f5b0-05f3-8aff-4beb79281afa,0,Take as needed.,True
+9a3814bb-f5b0-05f3-aa63-e6ed4d11f107,0,Take as needed.,True
+9a3814bb-f5b0-05f3-2d83-557bea753961,0,Take as needed.,True
+9a3814bb-f5b0-05f3-5931-ef0efd450ded,0,Take as needed.,True
+9a3814bb-f5b0-05f3-faa5-4fa5adac4d6a,0,Take as needed.,True
+9a3814bb-f5b0-05f3-0b35-2d3a77c2f49b,0,Take as needed.,True
+9a3814bb-f5b0-05f3-a7ec-3252b6c8b697,0,Take as needed.,True
+9a3814bb-f5b0-05f3-9697-e6c04bb3b5ef,0,Take as needed.,True
+9a3814bb-f5b0-05f3-e3e9-ca10e682129e,0,Take as needed.,True
+9a3814bb-f5b0-05f3-397d-d9444a4205e9,0,Take as needed.,True
+9a3814bb-f5b0-05f3-1ad3-dc3126402cbc,0,Take as needed.,True
+9a3814bb-f5b0-05f3-b29d-d09c63e03d71,0,Take as needed.,True
+9a3814bb-f5b0-05f3-4c46-2fd406cbffa5,0,Take as needed.,True
+9a3814bb-f5b0-05f3-0da0-0be38f1f8e81,0,Take as needed.,True
+9a3814bb-f5b0-05f3-7e5b-0a77545299d5,0,Take as needed.,True
+9a3814bb-f5b0-05f3-1b46-a6d71459fb5f,0,Take as needed.,True
+9a3814bb-f5b0-05f3-cbb7-483456d16cec,0,Take as needed.,True
+9a3814bb-f5b0-05f3-d1c9-5fd49023cf0c,0,Take as needed.,True
+9a3814bb-f5b0-05f3-6dbc-bdcad5d62a74,0,Take as needed.,True
+9a3814bb-f5b0-05f3-8a1c-4b23e039aeeb,0,Take as needed.,True
+9a3814bb-f5b0-05f3-0ab5-3583a5f410a0,0,Take as needed.,True
+9a3814bb-f5b0-05f3-b961-8d98043489b2,0,Take as needed.,True
+9a3814bb-f5b0-05f3-9a26-17390b8c0c01,0,Take as needed.,True
+9a3814bb-f5b0-05f3-b4d1-abd3c396c58e,0,Take as needed.,True
+9a3814bb-f5b0-05f3-cd44-4a4b4dabad0e,0,Take as needed.,True
+9a3814bb-f5b0-05f3-372a-2d136db12e00,0,Take as needed.,True
+9a3814bb-f5b0-05f3-8564-b895ce7a5598,0,Take as needed.,True
+9a3814bb-f5b0-05f3-19b1-eb5b5c89c067,0,Take as needed.,True
+9a3814bb-f5b0-05f3-a3f3-184080bc960c,0,Take as needed.,True
+9a3814bb-f5b0-05f3-af5f-54b7645d205a,0,Take as needed.,True
+9a3814bb-f5b0-05f3-5a1f-2ea17d187625,0,Take as needed.,True
+9a3814bb-f5b0-05f3-a509-6aa585121ad5,0,Take as needed.,True
+9a3814bb-f5b0-05f3-bde9-3e66ef2fe6bc,0,Take as needed.,True
+9a3814bb-f5b0-05f3-8b74-6e81d3d42849,0,Take as needed.,True
+9a3814bb-f5b0-05f3-ccc9-84f969a76a3d,0,Take as needed.,True
+9a3814bb-f5b0-05f3-3232-593ed55c0f6b,0,Take as needed.,True
+9a3814bb-f5b0-05f3-cd8a-fe2ab67bca18,0,Take as needed.,True
+9a3814bb-f5b0-05f3-3473-83b0e2736254,0,Take as needed.,True
+9a3814bb-f5b0-05f3-5b77-6ed4dc756ba7,0,Take as needed.,True
+9a3814bb-f5b0-05f3-714a-9452c9cdb7c1,0,Take as needed.,True
+9a3814bb-f5b0-05f3-08ab-a9e00a298872,0,Take as needed.,True
+9a3814bb-f5b0-05f3-61fd-995bed4f0422,0,Take as needed.,True
+9a3814bb-f5b0-05f3-68fe-35909728b38a,0,Take as needed.,True
+9a3814bb-f5b0-05f3-864e-a2e296950994,0,Take as needed.,True
+9a3814bb-f5b0-05f3-7ddb-ee882c335f94,0,Take as needed.,True
+c38b96b6-90ae-fabe-b6b8-72716365aa61,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+c38b96b6-90ae-fabe-b629-deee04c1b927,0,Take as needed.,True
+2211f478-b7b4-7711-609e-9af014a50ac0,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-9d05-90b9cc08b4c1,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-3ce9-cb6ccd5af6b5,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-1692-e4ff6f3078bf,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-67ed-54a6c1dd7d82,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-b04f-bf871600ebae,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-205e-21dfdf3d5984,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-517f-d312df24f06d,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-a124-bd5d9c5830c9,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-d3a5-b413c01f5353,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-904d-8b6c58dd4f06,0,Every four to six hours (qualifier value),False
+2211f478-b7b4-7711-77c0-d1924cc5dfe5,0,Every four to six hours (qualifier value),False
+3a9c6df2-621a-6239-4010-47d3ef0921ff,0,Take as needed.,True
+3a9c6df2-621a-6239-e9c3-5fbb1748423c,0,Take as needed.,True
+3a9c6df2-621a-6239-973e-a5726f9bb641,0,Take as needed.,True
+3a9c6df2-621a-6239-1bae-94b5bc89fed7,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+30ed72f3-240e-4973-03b9-1511e26a9f54,0,Take as needed.,True
+30ed72f3-240e-4973-397a-2899b0bce78a,0,Take as needed.,True
+ca443842-f546-d34c-dfe8-0adce428e28f,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-0870-1ef90bcffa16,0,Take as needed.,True
+ca443842-f546-d34c-86d4-2f87e302ee8e,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-8fe6-395ac3b8618b,0,Take as needed.,True
+ca443842-f546-d34c-a026-f6e1f250749c,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-0f72-cfec8e0792a7,0,Take as needed.,True
+ca443842-f546-d34c-8f71-8d0e1149e9b0,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-c8a6-2a5b3776ca0e,0,Take as needed.,True
+ca443842-f546-d34c-4328-103b8292d24a,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-03eb-7976049c0521,0,Take as needed.,True
+ca443842-f546-d34c-eed9-1acede2c523f,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-a323-73499964ce75,0,Take as needed.,True
+ca443842-f546-d34c-48e6-d5dbb1f37510,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-756a-eda3c1fae3ec,0,Take as needed.,True
+ca443842-f546-d34c-a5cf-d48e67f67e4a,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-7b5e-15499956ae03,0,Take as needed.,True
+ca443842-f546-d34c-5d14-3447e203af90,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-ca0a-d81efa9dee1a,0,Take as needed.,True
+ca443842-f546-d34c-37c3-c3e2e7511de1,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-9e72-63243e006029,0,Take as needed.,True
+ca443842-f546-d34c-ed59-def09ccaa5fa,0,Every six hours (qualifier value),False
+ca443842-f546-d34c-2d24-c665e65d413b,0,Take as needed.,True
+b50c66af-4d1c-7987-9a8c-b6546ff7ba94,0,Take as needed.,True
+b50c66af-4d1c-7987-c38b-0122d1ec08b4,0,Take as needed.,True
+b50c66af-4d1c-7987-2b53-c1424b42aea7,0,Take as needed.,True
+b50c66af-4d1c-7987-8d5c-5d7795c6f516,0,Take as needed.,True
+b50c66af-4d1c-7987-8a07-b28813a8d8d1,0,Take as needed.,True
+b50c66af-4d1c-7987-e2b9-52123d0aa0c2,0,Take as needed.,True
+b50c66af-4d1c-7987-ce15-868734a51b33,0,Take as needed.,True
+b50c66af-4d1c-7987-e0b0-af94f29a5aae,0,Take as needed.,True
+b50c66af-4d1c-7987-9d74-8792776dbaaf,0,Take as needed.,True
+b50c66af-4d1c-7987-6064-ab15e4e2616d,0,Take as needed.,True
+b50c66af-4d1c-7987-6ee3-c29e07e74f70,0,Take as needed.,True
+65cbad6a-eb9d-420e-1430-fb1199f9e5cc,0,,False
+65cbad6a-eb9d-420e-f49f-d3520b50dc32,0,,False
+65cbad6a-eb9d-420e-35f8-7c50d88ac3e3,0,,False
+65cbad6a-eb9d-420e-e121-06a3ee8513eb,0,,False
+65cbad6a-eb9d-420e-3bde-87f26e01f5c4,0,,False
+65cbad6a-eb9d-420e-86ce-30abdf797d2c,0,,False
+65cbad6a-eb9d-420e-6aca-3cc333d847a9,0,,False
+65cbad6a-eb9d-420e-55ab-2d84639e7420,0,,False
+65cbad6a-eb9d-420e-f37a-76c78fc590a2,0,,False
+65cbad6a-eb9d-420e-1b8e-f2c1eb8d5e33,0,,False
+65cbad6a-eb9d-420e-24ac-8b0075f1eab8,0,,False
+65cbad6a-eb9d-420e-a64a-78fc115d6171,0,,False
+1dabc422-e007-d5ee-12cc-f954ff3d7a50,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+1dabc422-e007-d5ee-5710-ac9d62340f5d,0,Take as needed.,True
+1dabc422-e007-d5ee-84d5-02c652b7ec15,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+1dabc422-e007-d5ee-c270-dc1bf548bca7,0,Take as needed.,True
+1dabc422-e007-d5ee-0108-2a7af615872b,0,Take as needed.,True
+8b9df7af-24b3-66ee-d4cd-4251ab95da30,0,,False
+8b9df7af-24b3-66ee-0345-f94fe2f67c5c,0,Take as needed.,True
+00bcbfc6-c7b9-bd0e-0f8e-de26fe639383,0,,False
+00bcbfc6-c7b9-bd0e-a4fb-affc70c6c195,0,,False
+00bcbfc6-c7b9-bd0e-bb57-8fb0507d3016,0,,False
+00bcbfc6-c7b9-bd0e-f9c8-4f90c8a88da9,0,,False
+00bcbfc6-c7b9-bd0e-4251-f1c14e5c32e9,0,,False
+00bcbfc6-c7b9-bd0e-c5a0-b844350a806c,0,,False
+00bcbfc6-c7b9-bd0e-31f8-14b42a5f7431,0,,False
+00bcbfc6-c7b9-bd0e-e935-4c6e0f77ca77,0,,False
+00bcbfc6-c7b9-bd0e-9a1f-c73fa3704d59,0,,False
+00bcbfc6-c7b9-bd0e-9313-0da7ed008653,0,,False
+00bcbfc6-c7b9-bd0e-4d46-db5016cc650a,0,,False
+00bcbfc6-c7b9-bd0e-43d9-cc81529a77ec,0,,False
+00bcbfc6-c7b9-bd0e-2a80-7826c499493a,0,,False
+00bcbfc6-c7b9-bd0e-6fd1-f441493d02fe,0,,False
+00bcbfc6-c7b9-bd0e-9d98-433ab82d65c2,0,,False
+00bcbfc6-c7b9-bd0e-16ab-75def8c01411,0,,False
+00bcbfc6-c7b9-bd0e-3456-3eafb84fecb5,0,,False
+00bcbfc6-c7b9-bd0e-c2d4-05f48c4efc90,0,,False
+00bcbfc6-c7b9-bd0e-0aa5-00dd761b2637,0,,False
+00bcbfc6-c7b9-bd0e-c542-6610401e71a3,0,,False
+00bcbfc6-c7b9-bd0e-4243-3ff13e9cc369,0,,False
+00bcbfc6-c7b9-bd0e-a534-738df8336552,0,,False
+00bcbfc6-c7b9-bd0e-8cd4-dbafa5675900,0,,False
+00bcbfc6-c7b9-bd0e-2539-0cb0d66679ee,0,,False
+00bcbfc6-c7b9-bd0e-e3a6-ce0858668110,0,,False
+00bcbfc6-c7b9-bd0e-de05-48651fa99097,0,,False
+5dae1e9e-46fb-5537-a37a-051ae1a9d9f2,0,Take as needed.,True
+5dae1e9e-46fb-5537-b865-08fe4071ef32,0,,False
+5dae1e9e-46fb-5537-57cb-2a052082ece7,0,Take as needed.,True
+82623afe-e51c-e02e-44fc-38b1f8e0ba2c,0,Take as needed.,True
+82623afe-e51c-e02e-0a34-82b483a5f9a1,0,Take as needed.,True
+82623afe-e51c-e02e-4895-d804df13c806,0,Take as needed.,True
+82623afe-e51c-e02e-d9f6-eea77769a216,0,Take as needed.,True
+82623afe-e51c-e02e-200a-e659f72cfc5d,0,Take as needed.,True
+82623afe-e51c-e02e-006a-ba0ba0d147ea,0,Take as needed.,True
+82623afe-e51c-e02e-6b03-7b1771b7fb38,0,Take as needed.,True
+82623afe-e51c-e02e-aff6-849b38827db8,0,Take as needed.,True
+82623afe-e51c-e02e-7280-0be25a2f9d80,0,Take as needed.,True
+82623afe-e51c-e02e-90d1-6857b38e882c,0,Take as needed.,True
+82623afe-e51c-e02e-94f8-8b8c8175ed2f,0,Take as needed.,True
+82623afe-e51c-e02e-c673-1683404a5df2,0,Take as needed.,True
+82623afe-e51c-e02e-c5bf-ad5847b0c22a,0,Take as needed.,True
+82623afe-e51c-e02e-c626-89747fedf4b8,0,Take as needed.,True
+82623afe-e51c-e02e-de59-3df8d2667af4,0,Take as needed.,True
+82623afe-e51c-e02e-3bbb-5bf129b7918e,0,Take as needed.,True
+82623afe-e51c-e02e-4b51-97067bae1a3f,0,Take as needed.,True
+82623afe-e51c-e02e-c4a0-1634b61a5a09,0,Take as needed.,True
+82623afe-e51c-e02e-ecd5-7649f75e7320,0,Take as needed.,True
+82623afe-e51c-e02e-3fae-58fee51e139f,0,Take as needed.,True
+82623afe-e51c-e02e-55d3-7735f74bfb30,0,Take as needed.,True
+82623afe-e51c-e02e-0950-d4e399a789c8,0,,False
+82623afe-e51c-e02e-6ca6-6eda701d095e,0,,False
+82623afe-e51c-e02e-4f5a-e4fc7a5dbe6b,0,,False
+82623afe-e51c-e02e-0ee7-15e67b114d27,0,Take as needed.,True
+82623afe-e51c-e02e-3deb-a033167e8385,0,,False
+82623afe-e51c-e02e-ac3b-06097bdfbb20,0,,False
+82623afe-e51c-e02e-ed8b-ad82cdeff34d,0,,False
+82623afe-e51c-e02e-925e-b04c8ad86797,0,Take as needed.,True
+82623afe-e51c-e02e-1ec9-cfeed9767fb6,0,Take as needed.,True
+82623afe-e51c-e02e-e35a-0b82aa886fda,0,,False
+82623afe-e51c-e02e-7e6d-0ac2d3d5aa9c,0,,False
+82623afe-e51c-e02e-9e5d-b0d138859301,0,,False
+82623afe-e51c-e02e-3d8f-ec4acc6c23d4,0,Take as needed.,True
+355cd402-8f45-353f-269c-b0c176e6a3ab,0,,False
+355cd402-8f45-353f-ee94-170fd400c097,0,Take as needed.,True
+e142981b-3577-4115-bc15-4641d2e971ed,0,Take as needed.,True
+e142981b-3577-4115-77cd-3eed991bcb8d,0,Take as needed.,True
+fd0d7b3a-307d-07b8-d26a-3f6c3aea4c05,0,Take as needed.,True
+4be6b5fb-2a19-943a-ef8a-dbc97ebbefc3,0,Take as needed.,True
+716c6d0a-2a5d-0aaa-bf5b-1466f544293e,0,,False
+716c6d0a-2a5d-0aaa-1b99-8abb8db4b754,0,,False
+716c6d0a-2a5d-0aaa-aa34-fa1c7942637c,0,,False
+716c6d0a-2a5d-0aaa-8b73-eadd9ffa5baa,0,,False
+716c6d0a-2a5d-0aaa-8b97-164293ce3d99,0,,False
+716c6d0a-2a5d-0aaa-6460-a08e5fb1d91d,0,,False
+716c6d0a-2a5d-0aaa-5ce6-c1909e77e95e,0,,False
+716c6d0a-2a5d-0aaa-6c7c-dc1b7fb0de5b,0,,False
+716c6d0a-2a5d-0aaa-965a-169ade2ea889,0,,False
+716c6d0a-2a5d-0aaa-84f0-05aeb3d7512f,0,Take as needed.,True
+716c6d0a-2a5d-0aaa-e722-95d9bd1a8aa1,0,,False
+716c6d0a-2a5d-0aaa-2aec-d734ffadeb06,0,,False
+716c6d0a-2a5d-0aaa-e67f-6a1cce2f0ae1,0,,False
+716c6d0a-2a5d-0aaa-43bf-77f1a1dc5be1,0,,False
+716c6d0a-2a5d-0aaa-50ec-d5cd2a3e76a7,0,,False
+716c6d0a-2a5d-0aaa-eb95-55aa5a030eca,0,,False
+716c6d0a-2a5d-0aaa-ca06-8c9b511f0996,0,,False
+716c6d0a-2a5d-0aaa-605b-53e6da4dae3e,0,,False
+716c6d0a-2a5d-0aaa-e21b-2a2babcf475a,0,,False
+716c6d0a-2a5d-0aaa-39ba-4145361e6197,0,,False
+716c6d0a-2a5d-0aaa-1d18-26c3b9b69e2d,0,,False
+716c6d0a-2a5d-0aaa-18d6-d2862c0ed69a,0,,False
+716c6d0a-2a5d-0aaa-b70a-a8af1f06a8ec,0,,False
+716c6d0a-2a5d-0aaa-4f7b-187541eed4df,0,,False
+716c6d0a-2a5d-0aaa-6dae-dc73ea115be5,0,,False
+716c6d0a-2a5d-0aaa-3b48-b1106ffbde79,0,,False
+716c6d0a-2a5d-0aaa-cafa-d5f7b22f7411,0,,False
+716c6d0a-2a5d-0aaa-1f08-fa4b8ba0854f,0,,False
+716c6d0a-2a5d-0aaa-f0fa-8ce078029ea6,0,,False
+0f3d04a2-f42e-1429-22c0-35cce9029580,0,Take as needed.,True
+0f3d04a2-f42e-1429-5f5c-e02283c36457,0,Take as needed.,True
+0f3d04a2-f42e-1429-9eed-9c700a306662,0,Take as needed.,True
+0f3d04a2-f42e-1429-cd6d-a267e68cf6a5,0,Take as needed.,True
+0f3d04a2-f42e-1429-9e92-17cd022744f7,0,Take as needed.,True
+0f3d04a2-f42e-1429-5d46-04e55e19636f,0,Take as needed.,True
+0f3d04a2-f42e-1429-f80b-a7f73566f76b,0,Take as needed.,True
+0f3d04a2-f42e-1429-03cb-223a0eefa2d0,0,Take as needed.,True
+0f3d04a2-f42e-1429-0ce7-d65f00b04b8e,0,Take as needed.,True
+0f3d04a2-f42e-1429-50d2-5bdc546a4aa7,0,Take as needed.,True
+0f3d04a2-f42e-1429-e006-a7f03f9f1861,0,Take as needed.,True
+0f3d04a2-f42e-1429-6311-6e54ce3cca4a,0,,False
+0f3d04a2-f42e-1429-87a2-dc86ff1bed0b,0,Take as needed.,True
+0f3d04a2-f42e-1429-f2ac-496ad9c4e338,0,Take as needed.,True
+0f3d04a2-f42e-1429-9c47-a2bcfd2f6976,0,Take as needed.,True
+0f3d04a2-f42e-1429-9b97-230eb6ea4f38,0,Take as needed.,True
+0f3d04a2-f42e-1429-ae10-31f0fc83a2fc,0,Take as needed.,True
+0f3d04a2-f42e-1429-8048-aa9087f53089,0,Take as needed.,True
+0f3d04a2-f42e-1429-3906-a7c24bf77aab,0,Take as needed.,True
+0f3d04a2-f42e-1429-ada8-6da7ee7eb6a3,0,Take as needed.,True
+d21fc5fa-6dc5-8058-0ae3-36742fbb3319,0,Take as needed.,True
+d21fc5fa-6dc5-8058-9cb4-24e619456d01,0,Take as needed.,True
+d21fc5fa-6dc5-8058-2e49-5074f16e1f5e,0,Take as needed.,True
+d21fc5fa-6dc5-8058-f1bc-716888eef002,0,Take as needed.,True
+3eec36b2-71cc-13c4-0cbd-327f88cfc1c4,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-5b6d-1ea957be5e0f,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-65ac-c3ed7d1ff3ca,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-839e-aa5f78790672,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-e089-1091f77eac7f,0,,False
+3eec36b2-71cc-13c4-3623-f262ae97b3da,0,,False
+3eec36b2-71cc-13c4-84bf-6781186c1a8a,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-aeb7-ddfbbc074e1f,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-d6be-afce8c1dcbfc,0,Take as needed.,True
+3eec36b2-71cc-13c4-ca56-6a45618c23d3,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-e7c7-c7b129d1161e,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-3474-27e999e7acc7,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-7d45-0490154916db,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-d170-0ac6c625b400,0,Every six hours (qualifier value),False
+3eec36b2-71cc-13c4-12d7-fe8e619ce468,0,Every six hours (qualifier value),False
+e34a6a5e-1d77-508d-710d-e781e309238c,0,,False
+31f368d9-3fdc-a15f-6afe-c4013f8c46d0,0,Take as needed.,True
+31f368d9-3fdc-a15f-6147-4fcc197c2e3a,0,Take as needed.,True
+31f368d9-3fdc-a15f-8b9d-cba92dc9b21b,0,Take as needed.,True
+ccaa0537-4e7f-99d8-53b9-b5272e665eb9,0,Take as needed.,True
+ccaa0537-4e7f-99d8-a14d-0aaac720f1bc,0,Take as needed.,True
+ccaa0537-4e7f-99d8-2aaf-1b5040f2f78d,0,Take as needed.,True
+ccaa0537-4e7f-99d8-dd0b-ba0147b54820,0,,False
+c1453af6-5763-f853-246a-2d646580653d,0,Take as needed.,True
+2e9a9dab-f5b6-8960-94dd-b2e5ec50233b,0,Take as needed.,True
+2e9a9dab-f5b6-8960-8d1f-e4cdef98aba8,0,Take as needed.,True
+2e9a9dab-f5b6-8960-157c-c738a164aa66,0,Take as needed.,True
+2e9a9dab-f5b6-8960-2059-7bcb7256cfc7,0,Take as needed.,True
+2e9a9dab-f5b6-8960-c129-838cf2f4f35b,0,Take as needed.,True
+2e9a9dab-f5b6-8960-cce6-6835df5ba280,0,Take as needed.,True
+2e9a9dab-f5b6-8960-338b-bfe5c8a4c084,0,Take as needed.,True
+2e9a9dab-f5b6-8960-d991-fefb4f37bb1b,0,Take as needed.,True
+2e9a9dab-f5b6-8960-7e3d-7a67615804ff,0,Take as needed.,True
+2e9a9dab-f5b6-8960-324b-55c399341299,0,Take as needed.,True
+2e9a9dab-f5b6-8960-86fd-694326988d9c,0,Take as needed.,True
+2e9a9dab-f5b6-8960-b2dc-7eb3efed6214,0,Take as needed.,True
+2e9a9dab-f5b6-8960-8c55-554f235b58a7,0,Take as needed.,True
+2e9a9dab-f5b6-8960-8659-8771f25aa497,0,Take as needed.,True
+2e9a9dab-f5b6-8960-78eb-6c35440424b2,0,Take as needed.,True
+2e9a9dab-f5b6-8960-3911-5e19111539fa,0,Take as needed.,True
+2e9a9dab-f5b6-8960-5f61-22f35613ddad,0,Take as needed.,True
+2e9a9dab-f5b6-8960-1538-a5937b132462,0,Take as needed.,True
+2e9a9dab-f5b6-8960-bcd9-7dd923ed9cc7,0,Take as needed.,True
+2e9a9dab-f5b6-8960-99e7-eff276d3477e,0,Take as needed.,True
+2e9a9dab-f5b6-8960-7043-2bc08000a0b2,0,Take as needed.,True
+2e9a9dab-f5b6-8960-7173-c0566df1434a,0,Take as needed.,True
+2e9a9dab-f5b6-8960-5bbb-42e85a760001,0,Take as needed.,True
+2e9a9dab-f5b6-8960-bfb1-a35ed7316528,0,Take as needed.,True
+6d04a400-ad21-5951-e63b-00bff35addff,0,,False
+6d04a400-ad21-5951-d672-f9acc40fc47f,0,Take as needed.,True
+babc4b97-d859-0fe4-15b4-5987d5a915b1,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+babc4b97-d859-0fe4-916b-899864a29c35,0,Take as needed.,True
+dc77ef0d-1846-94fd-c3de-50b4ff83eabb,0,Take as needed.,True
+3368f8e7-5e00-7794-4977-502b791b404a,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-af04-0ed4cd54fd08,0,,False
+3368f8e7-5e00-7794-4978-3c41b4dbe382,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-871e-b16f92308e13,0,,False
+3368f8e7-5e00-7794-a883-195ca87c23bb,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-f5c7-e29f629285a9,0,,False
+3368f8e7-5e00-7794-e1b4-76d19002c693,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-c84c-f6afc76c6e37,0,,False
+3368f8e7-5e00-7794-9f5f-cca3d5fac1c2,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-fca0-affbf927378b,0,,False
+3368f8e7-5e00-7794-2b3d-339175493453,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-ab01-25b431557619,0,,False
+3368f8e7-5e00-7794-732e-6896f4debf00,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-2a46-c2895b8ff49c,0,,False
+3368f8e7-5e00-7794-fac2-c0807a5d934a,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-8099-5ae717933ea4,0,,False
+3368f8e7-5e00-7794-f286-31d398b9f20d,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-475f-94c081a107fc,0,,False
+3368f8e7-5e00-7794-feee-9281230d1923,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-068d-6014537e8325,0,,False
+3368f8e7-5e00-7794-53c4-a090750bcc16,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-e04a-9278482d7aba,0,,False
+3368f8e7-5e00-7794-4d20-04a05f44496e,0,Every four to six hours (qualifier value),False
+3368f8e7-5e00-7794-8528-19c378a260e4,0,,False
+5693c080-f485-91e7-8ee2-cd46f5e712d0,0,,False
+5693c080-f485-91e7-9dff-b3a464274754,0,,False
+5693c080-f485-91e7-1d46-d2b213733bb3,0,,False
+5693c080-f485-91e7-074b-ff835b5b4c2f,0,,False
+5693c080-f485-91e7-031f-97a1c56c42e6,0,,False
+5693c080-f485-91e7-bde8-e0475e760f8c,0,,False
+5693c080-f485-91e7-8ccd-51a964f3c32f,0,,False
+5693c080-f485-91e7-539a-b734798b3b12,0,,False
+5693c080-f485-91e7-2d49-1382406b507b,0,,False
+5693c080-f485-91e7-a1d1-10793723d0b8,0,,False
+5693c080-f485-91e7-efef-a474a3d835bf,0,Take as needed.,True
+5693c080-f485-91e7-2780-8a444443e3b7,0,,False
+5693c080-f485-91e7-20de-ceb66ea7374e,0,,False
+5693c080-f485-91e7-4aad-85fc28210e4a,0,,False
+5693c080-f485-91e7-43d2-6fa803f217a3,0,,False
+5693c080-f485-91e7-50b2-8151c07475af,0,,False
+5693c080-f485-91e7-ab09-b135422f23ea,0,,False
+5693c080-f485-91e7-e620-df525534e605,0,,False
+5693c080-f485-91e7-3c4b-a842ef906409,0,,False
+5693c080-f485-91e7-00f1-b332fb163731,0,,False
+5693c080-f485-91e7-9d6f-a89e2682ab5d,0,,False
+5693c080-f485-91e7-b58d-59ca1784ba20,0,,False
+5693c080-f485-91e7-c81e-3d282014b41f,0,,False
+5693c080-f485-91e7-a7c2-9e67a55eade4,0,,False
+5693c080-f485-91e7-d86e-e9f666c147a2,0,,False
+5693c080-f485-91e7-7809-5e0538f61c28,0,,False
+5693c080-f485-91e7-a50d-c731af8e013b,0,,False
+5693c080-f485-91e7-a78d-3c4f8cb1f48a,0,,False
+5693c080-f485-91e7-705b-ff7010709333,0,,False
+5693c080-f485-91e7-9207-69cfbe872374,0,,False
+5693c080-f485-91e7-d1f8-d345b034adcb,0,,False
+5693c080-f485-91e7-450b-a0106b723851,0,,False
+5693c080-f485-91e7-ec17-4f4ec79f1bca,0,,False
+5693c080-f485-91e7-f384-a0913813f602,0,,False
+5693c080-f485-91e7-6b24-fbb255dae8d6,0,,False
+5693c080-f485-91e7-f4a5-3127f563bf57,0,,False
+5693c080-f485-91e7-0e5d-1f7cef0b9084,0,,False
+5693c080-f485-91e7-35a7-bf634985d6a4,0,,False
+5693c080-f485-91e7-560a-31656d81afbd,0,,False
+5693c080-f485-91e7-d61c-97b800c324df,0,,False
+5693c080-f485-91e7-ad9b-27a5e1261277,0,,False
+5693c080-f485-91e7-c9bf-f59f981f740f,0,,False
+5693c080-f485-91e7-3aca-2221f42a0bea,0,,False
+5693c080-f485-91e7-efa6-9db7d17c3df0,0,,False
+5693c080-f485-91e7-8b74-a79000ba218f,0,,False
+5693c080-f485-91e7-95e8-12e308cd8d7f,0,,False
+5693c080-f485-91e7-69e2-b04560bd2596,0,,False
+5693c080-f485-91e7-b65d-a11a01d6fb5a,0,,False
+5693c080-f485-91e7-96b7-6a67cae69006,0,,False
+5693c080-f485-91e7-d3e3-1a4d7b12eccf,0,,False
+5693c080-f485-91e7-e119-9ec91ffbc53e,0,,False
+5693c080-f485-91e7-0fb8-93a573a33f57,0,,False
+5693c080-f485-91e7-e390-60ca77deae66,0,,False
+5693c080-f485-91e7-5902-72ee58abb1ce,0,,False
+5693c080-f485-91e7-b21b-8d5bb7690fdc,0,,False
+5693c080-f485-91e7-e126-b550995eb31d,0,,False
+5693c080-f485-91e7-afa7-1514901bf024,0,,False
+5693c080-f485-91e7-3e50-fcaf7edc55ab,0,,False
+5693c080-f485-91e7-aee5-e3f0af437fc8,0,,False
+5693c080-f485-91e7-cccb-972406257921,0,,False
+5693c080-f485-91e7-191c-0fde1f48c754,0,,False
+5693c080-f485-91e7-3cd4-943008b62349,0,,False
+5693c080-f485-91e7-eaae-21d5f0797a72,0,,False
+5693c080-f485-91e7-7c30-c8ec37a7a553,0,,False
+5693c080-f485-91e7-656c-2e05a230fbe3,0,,False
+5693c080-f485-91e7-f63b-7f62fa27d99f,0,,False
+5693c080-f485-91e7-be3d-5307d3feffc0,0,,False
+5693c080-f485-91e7-bc12-c74fa1e89a6e,0,,False
+5693c080-f485-91e7-ca61-9c4a676b8048,0,,False
+5693c080-f485-91e7-1c8b-81881cf9c36b,0,,False
+5693c080-f485-91e7-9bea-bd803a1fff78,0,,False
+5693c080-f485-91e7-0bf0-0584a9e9caa3,0,,False
+5693c080-f485-91e7-2cb1-1f40555565e7,0,,False
+5693c080-f485-91e7-e339-4dcacf74b171,0,,False
+5693c080-f485-91e7-bf81-6300a46d9df8,0,,False
+5693c080-f485-91e7-5079-fba09555368e,0,,False
+5693c080-f485-91e7-30aa-c2b0101e4d0f,0,,False
+5693c080-f485-91e7-97b2-8f0762c1d9fb,0,,False
+5693c080-f485-91e7-ecf6-eb748aae3684,0,,False
+5693c080-f485-91e7-8978-b97d8ed72725,0,,False
+5693c080-f485-91e7-d7f0-8cc5fe2006e7,0,,False
+5693c080-f485-91e7-d519-7bc5064cbcd5,0,,False
+5693c080-f485-91e7-3fc0-bd681c2a23d9,0,,False
+5693c080-f485-91e7-9ee0-bb7c71b92ade,0,,False
+5693c080-f485-91e7-d3e6-d035a8e1840b,0,,False
+5693c080-f485-91e7-1804-4472ff895155,0,,False
+5693c080-f485-91e7-da14-27e72027534e,0,,False
+5693c080-f485-91e7-9337-0971b538a783,0,,False
+5693c080-f485-91e7-3a7a-06b31d845c88,0,,False
+5693c080-f485-91e7-59db-6eeff9c59aab,0,,False
+5693c080-f485-91e7-4cf9-722696743ad3,0,,False
+5693c080-f485-91e7-d578-c21b8ff050bd,0,,False
+5693c080-f485-91e7-7070-a1be490f84f4,0,,False
+5693c080-f485-91e7-05a3-4b70c0b0f8d5,0,,False
+5693c080-f485-91e7-b9ae-345c98823d33,0,,False
+5693c080-f485-91e7-cda0-9ac1b9da7259,0,,False
+5693c080-f485-91e7-0de9-6e4a94f11940,0,,False
+5693c080-f485-91e7-dc33-4fae724e268c,0,,False
+5693c080-f485-91e7-0325-04184b1102e6,0,,False
+5693c080-f485-91e7-3631-acd58965175c,0,,False
+5693c080-f485-91e7-441c-79d13eab06ae,0,,False
+5693c080-f485-91e7-6036-1d5f2bcbef75,0,,False
+46fcc34a-97a1-f038-6aca-902692e2ec14,0,Take as needed.,True
+46fcc34a-97a1-f038-e0b8-83070723bcf5,0,Take as needed.,True
+46fcc34a-97a1-f038-051f-da2c271d6ea9,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-84fa-228f71f284c1,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-6b26-f999239c9472,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-f32e-bbfdd6f676c7,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-33f0-c9495feb7452,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-5142-584c25bc5228,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-b021-051067df6f19,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-e50e-ac4d5353ed5f,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-26f2-3d7c20a64f40,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-c186-c441ade3e3df,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-a98f-c658b5a74b45,0,Every six hours (qualifier value),False
+46fcc34a-97a1-f038-e42e-36415b133408,0,Every six hours (qualifier value),False
+3314e296-2326-2826-a8aa-c25ad34edee8,0,,False
+3314e296-2326-2826-8d04-988e3072b9fc,0,Take as needed.,True
+2fb99851-6f31-04a6-187f-8df308205b25,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-5d2e-1a97b0b541fa,0,Take as needed.,True
+2fb99851-6f31-04a6-f520-5575d80570f9,0,Take as needed.,True
+2fb99851-6f31-04a6-9a81-6e7df9166bd2,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-8893-a29ee41d3bdc,0,Take as needed.,True
+2fb99851-6f31-04a6-cd09-d8b9a4345d11,0,Take as needed.,True
+2fb99851-6f31-04a6-d5b5-19f5b8330453,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-d590-596f3956eb56,0,Take as needed.,True
+2fb99851-6f31-04a6-81e5-7afb1f858b17,0,Take as needed.,True
+2fb99851-6f31-04a6-9f4a-fd7ad88726c2,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-e2d6-fc397b9d63fb,0,Take as needed.,True
+2fb99851-6f31-04a6-6ddd-12e438f035a5,0,Take as needed.,True
+2fb99851-6f31-04a6-6f7e-f4406650f60e,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-941f-9ff0b5abb656,0,Take as needed.,True
+2fb99851-6f31-04a6-3560-cc06724c32ba,0,Take as needed.,True
+2fb99851-6f31-04a6-0eee-31ee9f38a758,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-b7cf-ff291e210082,0,Take as needed.,True
+2fb99851-6f31-04a6-5473-ae1f18462c20,0,Take as needed.,True
+2fb99851-6f31-04a6-b4de-6396a601ca25,0,,False
+2fb99851-6f31-04a6-0a2f-2a1334cb5cda,0,Take as needed.,True
+2fb99851-6f31-04a6-1a68-d0f55898a54a,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-23c1-c2c8dab00862,0,Take as needed.,True
+2fb99851-6f31-04a6-ad5c-c17b9761e88d,0,,False
+2fb99851-6f31-04a6-00ed-fa8737db6a88,0,Take as needed.,True
+2fb99851-6f31-04a6-11df-6bb0e2ec4e0d,0,Take as needed.,True
+2fb99851-6f31-04a6-23a3-a42695387378,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-99dc-7b6fa61e0c72,0,Take as needed.,True
+2fb99851-6f31-04a6-a7ec-c8d0123b4ba8,0,,False
+2fb99851-6f31-04a6-13ca-f0e1ee925a39,0,Take as needed.,True
+2fb99851-6f31-04a6-7457-ec2e87e7228d,0,Take as needed.,True
+2fb99851-6f31-04a6-089c-7b1df82bc95e,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-d1da-7dd12f0b59c2,0,Take as needed.,True
+2fb99851-6f31-04a6-3e1c-da986a3db733,0,,False
+2fb99851-6f31-04a6-703b-6f5670dcfbd3,0,Take as needed.,True
+2fb99851-6f31-04a6-3bbf-4849c9bccc48,0,Take as needed.,True
+2fb99851-6f31-04a6-f3b4-2cd34077acf5,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-5a8d-37d4c7c28bd8,0,Take as needed.,True
+2fb99851-6f31-04a6-49e1-3543fb90c60e,0,,False
+2fb99851-6f31-04a6-93d3-3d6b1806942c,0,Take as needed.,True
+2fb99851-6f31-04a6-7ee4-6aecd5749520,0,Take as needed.,True
+2fb99851-6f31-04a6-8b8a-7375f2e00796,0,Take as needed.,True
+2fb99851-6f31-04a6-8d4e-a679d1c621ac,0,Every four to six hours (qualifier value),False
+2fb99851-6f31-04a6-f8fc-157e7d0daa13,0,Take as needed.,True
+2fb99851-6f31-04a6-dd8e-5dfd2edefd5f,0,,False
+2fb99851-6f31-04a6-83ce-58161487c27b,0,Take as needed.,True
+2fb99851-6f31-04a6-d495-dda016eb6768,0,Take as needed.,True
+fb56f051-a2cd-ac10-8c99-9e9ca2b3f884,0,,False
+fb56f051-a2cd-ac10-8340-ddc6f5a5aea6,0,Take as needed.,True
+fb56f051-a2cd-ac10-f4f1-3ac2bc8dcf28,0,Take as needed.,True
+fb56f051-a2cd-ac10-3ce9-eb763a5da72e,0,Take as needed.,True
+fb56f051-a2cd-ac10-2715-0c5e6d8546c8,0,Take as needed.,True
+fb56f051-a2cd-ac10-df66-9d295c978c1f,0,Take as needed.,True
+fb56f051-a2cd-ac10-742b-ce37930a0eef,0,Take as needed.,True
+fb56f051-a2cd-ac10-2034-ea772fdef024,0,Take as needed.,True
+fb56f051-a2cd-ac10-0cb3-3923c1931376,0,Take as needed.,True
+fb56f051-a2cd-ac10-529f-99ee8fd0c2d1,0,Take as needed.,True
+fb56f051-a2cd-ac10-5359-7ecf4604ebca,0,Take as needed.,True
+fb56f051-a2cd-ac10-4f41-ce283304acf6,0,Take as needed.,True
+fb56f051-a2cd-ac10-d139-345d9e338f04,0,Take as needed.,True
+e7c068bb-6d29-27d3-9795-2568fbd25f78,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-65d8-1c609b7a4c23,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-ad9f-a8453ece41d9,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-9b74-f21a8311eb68,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-0a03-99afcf4db8a8,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-1256-84afe9c17e1b,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-dbf9-d988202bcecf,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-3568-c28c16a7ce4d,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-35a8-c796ae19592a,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-6dab-df5d5650ffb2,0,Every four to six hours (qualifier value),False
+e7c068bb-6d29-27d3-1e0f-3f004f467575,0,Every four to six hours (qualifier value),False
+adec1419-cf81-6640-ff1e-ebd616a5b93d,0,,False
+adec1419-cf81-6640-1529-c58c4afa9db0,0,Take as needed.,True
+57efda89-b582-bb08-83b0-b995643fe010,0,Take as needed.,True
+57efda89-b582-bb08-d896-f7d338b04e26,0,Take as needed.,True
+57efda89-b582-bb08-b3f6-189b147b5961,0,Take as needed.,True
+3fa46c70-b194-f14c-0d98-711c795962bf,0,Take as needed.,True
+197ec76f-0730-2587-d894-bec45cd3db8a,0,Take as needed.,True
+197ec76f-0730-2587-7c3e-82735a826aae,0,,False
+1d63466e-0cfd-eb12-7fc2-b02cdfc98031,0,,False
+1d63466e-0cfd-eb12-a0a8-3a14244830d4,0,,False
+1d63466e-0cfd-eb12-4ae9-4ed663a2271d,0,,False
+1d63466e-0cfd-eb12-7f92-1185e49773cd,0,,False
+1d63466e-0cfd-eb12-b33c-04b433c32b0e,0,,False
+1d63466e-0cfd-eb12-b310-108a4567697b,0,,False
+1d63466e-0cfd-eb12-3d39-aa9d1f85f6fe,0,,False
+1d63466e-0cfd-eb12-ea0c-fad8bad6a8e3,0,,False
+1d63466e-0cfd-eb12-15dd-d794ac648f59,0,,False
+1d63466e-0cfd-eb12-6241-e3d0e5cf2f10,0,,False
+1d63466e-0cfd-eb12-c661-0731f15a4041,0,,False
+1d63466e-0cfd-eb12-721e-9567d2a18517,0,Take as needed.,True
+1d63466e-0cfd-eb12-07a3-e3c3e5ffa207,0,,False
+1d63466e-0cfd-eb12-6e36-4b7222887f0b,0,,False
+1426480f-ccc7-2393-94b6-f08c8aa002f5,0,Take as needed.,True
+1426480f-ccc7-2393-3295-581a7df65b2c,0,,False
+1426480f-ccc7-2393-57de-ff9985e25eb2,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-a5f1-0d8b97496e41,0,,False
+1426480f-ccc7-2393-8bd4-88d360f4f719,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-65e1-ffcedb555105,0,,False
+1426480f-ccc7-2393-0a3b-402a9a41e72b,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-1e90-ac6ca9b3c2a3,0,,False
+1426480f-ccc7-2393-6c3f-359799ae04f6,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-dc3a-ddab12d2290f,0,,False
+1426480f-ccc7-2393-562d-b9388816008f,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-b827-1f29ad119a97,0,,False
+1426480f-ccc7-2393-0f60-35282aa2441e,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-6b77-0f927e4e16e0,0,Take as needed.,True
+1426480f-ccc7-2393-000c-52b305f331f0,0,,False
+1426480f-ccc7-2393-ed91-d32fbb6cd081,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-fd3b-d73240f7cc32,0,Take as needed.,True
+1426480f-ccc7-2393-0cf6-c72ee06363ed,0,,False
+1426480f-ccc7-2393-0514-1d20242494e5,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-0af4-44dd9e91c508,0,,False
+1426480f-ccc7-2393-8ffd-97e194dc6a19,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-899c-523688422b9e,0,,False
+1426480f-ccc7-2393-fb85-3877f9a74538,0,Every four to six hours (qualifier value),False
+1426480f-ccc7-2393-e9d6-86639aad5b8b,0,,False
+1426480f-ccc7-2393-385f-f7474058f7a1,0,Every four to six hours (qualifier value),False
+8704c44c-8b97-e35a-540b-4d4f6858171f,0,,False
+8704c44c-8b97-e35a-ed7b-e17f5181e127,0,,False
+8704c44c-8b97-e35a-d114-1dc8151307d8,0,,False
+8704c44c-8b97-e35a-c8c2-1f93643ceb2d,0,,False
+8704c44c-8b97-e35a-8c0a-f22ed1519277,0,,False
+8704c44c-8b97-e35a-01bc-0fd2cf0dd1d0,0,,False
+8704c44c-8b97-e35a-fee5-ba62b017dc05,0,,False
+8704c44c-8b97-e35a-6c15-9671b48d2ddf,0,,False
+8704c44c-8b97-e35a-ae16-27f8e58c9d95,0,,False
+8704c44c-8b97-e35a-2e13-a2e94e0d35d6,0,,False
+8704c44c-8b97-e35a-74a1-8954fde0bda8,0,,False
+8704c44c-8b97-e35a-ba9e-942ed35aaa98,0,,False
+8704c44c-8b97-e35a-c3ad-c76d65800cd2,0,,False
+f6745f8a-8107-443e-da13-0cef64409d8f,0,Take as needed.,True
+f6745f8a-8107-443e-cc64-7c13d678929b,0,Take as needed.,True
+f6745f8a-8107-443e-6516-5b46768a50d2,0,Take as needed.,True
+f6745f8a-8107-443e-2be8-f18d9d77c120,0,Take as needed.,True
+f6745f8a-8107-443e-c656-e9943db6c5c6,0,Take as needed.,True
+f6745f8a-8107-443e-5898-945ccd8b7790,0,,False
+f6745f8a-8107-443e-f0f7-2a874598e216,0,,False
+f6745f8a-8107-443e-5b1e-6b19a5f7b57b,0,,False
+f6745f8a-8107-443e-3d24-045b0bc6d258,0,,False
+f6745f8a-8107-443e-ffe5-3b0ec31391a8,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+f6745f8a-8107-443e-401c-2fda32637542,0,,False
+f6745f8a-8107-443e-05fe-3b35087176e5,0,,False
+f6745f8a-8107-443e-6583-fa47ca42da7e,0,,False
+f6745f8a-8107-443e-3c8f-8b48ddc1a5c2,0,,False
+f6745f8a-8107-443e-b4cb-e6ae375bfeb1,0,,False
+f6745f8a-8107-443e-17a2-abd77f8cff74,0,,False
+f6745f8a-8107-443e-92b3-8cb4f346765f,0,,False
+4af53267-820e-7687-3ccb-d222394588dc,0,Take as needed.,True
+4af53267-820e-7687-0ea1-119d7c99435f,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+4af53267-820e-7687-5542-ffe2afad679d,0,Take as needed.,True
+4af53267-820e-7687-8781-29bba2ac15af,0,Take as needed.,True
+4af53267-820e-7687-6bed-8c0ebad49ee7,0,Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value),False
+4af53267-820e-7687-9680-85d70a3b3cce,0,Take as needed.,True
+9389eec9-a5c3-a9e1-976a-8d072fd59031,0,,False
+9389eec9-a5c3-a9e1-c9ab-01cb70fc00a0,0,,False
+9389eec9-a5c3-a9e1-bb89-e769da55989a,0,Take as needed.,True
+9389eec9-a5c3-a9e1-a0a8-2a4f8c93d3ae,0,Take as needed.,True
+9389eec9-a5c3-a9e1-7727-968b122a5675,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-5f64-bf4cf9c6cdc0,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-2db5-e0b149caf9b8,0,Take as needed.,True
+9389eec9-a5c3-a9e1-e68c-24f5ec235492,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-e545-4b03212d2472,0,Take as needed.,True
+9389eec9-a5c3-a9e1-3f33-0d2ec013858d,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-0a9d-91ea82eac12b,0,Take as needed.,True
+9389eec9-a5c3-a9e1-29de-afd12551aea1,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-38d3-449809996d5a,0,Take as needed.,True
+9389eec9-a5c3-a9e1-89f4-2516003e1a51,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-a170-7780ac9d8d8d,0,Take as needed.,True
+9389eec9-a5c3-a9e1-9f7a-b9735ed35274,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-b1f6-112bf9e68692,0,Take as needed.,True
+9389eec9-a5c3-a9e1-b7a4-d1b3c065aede,0,Every seventy two hours (qualifier value),False
+9389eec9-a5c3-a9e1-0678-681eece5f71b,0,Take as needed.,True
+87f7ad7b-85f9-d26d-a5fb-127cc479ae32,0,,False
+87f7ad7b-85f9-d26d-65a0-2c239b2aad80,0,,False
+87f7ad7b-85f9-d26d-3339-e58b31f970b2,0,,False
+87f7ad7b-85f9-d26d-f92d-8a57a58bb68d,0,,False
+87f7ad7b-85f9-d26d-c852-d17ec233171b,0,,False
+87f7ad7b-85f9-d26d-f54e-6d8eb963b4b4,0,,False
+87f7ad7b-85f9-d26d-8d7c-c7b72ed73334,0,,False
+87f7ad7b-85f9-d26d-ba7b-4b8b37127d27,0,,False
+87f7ad7b-85f9-d26d-fd53-292232056f85,0,,False
+d309f605-948b-962f-f30a-7afab14df287,0,,False
+d309f605-948b-962f-f7df-b02030ef9d4d,0,,False
+d309f605-948b-962f-e291-640cf558b10a,0,,False
+d309f605-948b-962f-4a6a-235813912d88,0,,False
+d309f605-948b-962f-5ad6-af616f5b803f,0,,False
+d309f605-948b-962f-223e-8b8a5b3a7d41,0,,False
+d309f605-948b-962f-9dd2-e9dfa3baf1d9,0,,False
+d309f605-948b-962f-ee78-5c814c9b863d,0,,False
+d309f605-948b-962f-539b-b7abe2d8e690,0,,False
+d309f605-948b-962f-d941-cefc2cdef880,0,,False
+d309f605-948b-962f-a5a7-d8a1fc44440e,0,,False
+d309f605-948b-962f-5262-03b5522d05bb,0,,False
+d309f605-948b-962f-2604-7761c89cee49,0,,False
+d309f605-948b-962f-69c0-65d72081e72a,0,,False
+d309f605-948b-962f-d7e7-a22d8eb1cb90,0,,False
+d309f605-948b-962f-ce7c-fc9f556edd1d,0,,False
+d309f605-948b-962f-2a80-0e4a7fd89bd2,0,,False
+d309f605-948b-962f-208d-3aeb2c2bb053,0,,False
+d309f605-948b-962f-50c2-3d7f05890c51,0,,False
+d309f605-948b-962f-b8c4-6b931c8906d2,0,,False
+d309f605-948b-962f-8718-226d5ef93e1d,0,Take as needed.,True
+d309f605-948b-962f-6754-b2c3bc3fea9a,0,,False
+d309f605-948b-962f-2c46-0f4af9946bb5,0,,False
+d309f605-948b-962f-ced1-c2a7a6ae8c14,0,,False
+d309f605-948b-962f-ed30-648af4be1d4b,0,,False
+d309f605-948b-962f-9ea9-52b76081e182,0,,False
+d309f605-948b-962f-8fc7-6f540b386064,0,,False
+d21f2794-014b-c66b-0fa9-fed9b74c3f9a,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-9fa0-c5b2f1d35fa9,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-58f1-168a32cb3983,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-82e4-8117f729e4ef,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-9899-6fad1ab4909c,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-f11d-309d3fe3d2d6,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-424d-45f3ec8553f4,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-6ab8-4df6214e2e7b,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-1076-37e7682da451,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-0618-e71911169a35,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-b151-377de509393a,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-7ab1-37e6ee451131,0,Every four to six hours (qualifier value),False
+d21f2794-014b-c66b-0bcc-1fc512654507,0,Every four to six hours (qualifier value),False
+96de62ae-1b00-58d8-6853-f32002244d47,0,Take as needed.,True
+96de62ae-1b00-58d8-d699-c48e78a8e914,0,Take as needed.,True
+96de62ae-1b00-58d8-98c4-c16fdf1b82db,0,Take as needed.,True
+96de62ae-1b00-58d8-c6bc-64e04688ef25,0,,False
+96de62ae-1b00-58d8-3340-2ea562d8449b,0,Take as needed.,True
+09c573e2-a45d-aa5e-1e73-ed8100901a5b,0,Take as needed.,True
+a5816bea-ad10-431f-d8d9-334ea658b5e5,0,Take as needed.,True
+a5816bea-ad10-431f-31ad-d63720411023,0,Take as needed.,True
+a5816bea-ad10-431f-ca2a-745f733aaf52,0,Take as needed.,True
+afb99eee-0bd5-8853-6876-1a291c0a8926,0,Take as needed.,True
+afb99eee-0bd5-8853-c42e-6d7e66aa9fe5,0,,False
+a45aa142-d1e9-d944-4a48-6fdc61948da4,0,,False
+a45aa142-d1e9-d944-25df-1eadab0ec20a,0,,False
+a45aa142-d1e9-d944-1389-7b0c668f242c,0,,False
+a45aa142-d1e9-d944-c1d7-3145e246610d,0,,False
+a45aa142-d1e9-d944-cea7-07d96ea02347,0,,False

@@ -1,0 +1,6 @@
+resourceType,n_instances,n_distinct_fields,n_nested_structures,n_arrays,n_references,max_nesting_depth,avg_nesting_depth
+Patient,109,71,19,17,0,4,4.0
+Encounter,5635,56,20,11,4,4,4.0
+Condition,3540,30,11,6,2,3,3.0
+Observation,46305,53,16,8,2,4,3.05
+MedicationRequest,3858,60,21,12,4,5,3.69

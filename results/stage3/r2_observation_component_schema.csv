@@ -1,0 +1,30 @@
+code,slug,system,display,value_type,n_occurrences,n_mixed_type_instances
+8462-4,8462_4,http://loinc.org,Diastolic Blood Pressure,Quantity,1338,0
+8480-6,8480_6,http://loinc.org,Systolic Blood Pressure,Quantity,1338,0
+76501-6,76501_6,http://loinc.org,"Within the last year, have you been afraid of your partner or ex-partner",CodeableConcept,907,0
+93026-3,93026_3,http://loinc.org,Do you feel physically and emotionally safe where you currently live [PRAPARE],CodeableConcept,907,0
+93027-1,93027_1,http://loinc.org,Are you a refugee,CodeableConcept,907,0
+93028-9,93028_9,http://loinc.org,"Have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility in past 1 year [PRAPARE]",CodeableConcept,907,0
+93038-8,93038_8,http://loinc.org,Stress level,CodeableConcept,907,0
+93029-7,93029_7,http://loinc.org,How often do you see or talk to people that you care about and feel close to [PRAPARE],CodeableConcept,907,0
+93030-5,93030_5,http://loinc.org,"Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living",CodeableConcept,907,0
+93031-3,93031_3,http://loinc.org,Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE],CodeableConcept,907,0
+63586-2,63586_2,http://loinc.org,"What was your best estimate of the total income of all family members from all sources, before taxes, in last year [PhenX]",Quantity,907,0
+76437-3,76437_3,http://loinc.org,Primary insurance,CodeableConcept,907,0
+67875-5,67875_5,http://loinc.org,Employment status - current,CodeableConcept,907,0
+82589-3,82589_3,http://loinc.org,Highest level of education,CodeableConcept,907,0
+56799-0,56799_0,http://loinc.org,Address,String,907,0
+93033-9,93033_9,http://loinc.org,Are you worried about losing your housing [PRAPARE],CodeableConcept,907,0
+71802-3,71802_3,http://loinc.org,Housing status,CodeableConcept,907,0
+63512-8,63512_8,http://loinc.org,How many people are living or staying at this address [#],Quantity,907,0
+54899-0,54899_0,http://loinc.org,Preferred language,CodeableConcept,907,0
+93034-7,93034_7,http://loinc.org,Discharged from the U.S. Armed Forces,CodeableConcept,907,0
+93035-4,93035_4,http://loinc.org,Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE],CodeableConcept,907,0
+32624-9,32624_9,http://loinc.org,Race,CodeableConcept,907,0
+56051-6,56051_6,http://loinc.org,Hispanic or Latino,CodeableConcept,907,0
+91146-1,91146_1,http://loinc.org,What number best describes how pain has interfered with your general activity during the past week,Quantity,12,0
+91145-3,91145_3,http://loinc.org,What number best describes how pain has interfered with your enjoyment of life during the past week,Quantity,12,0
+75893-8,75893_8,http://loinc.org,Pain severity in the past week - 0-10 numeric rating [Reported],Quantity,12,0
+X9999-2,X9999_2,http://loinc.org,Priority Level,Quantity,9,0
+X9999-1,X9999_1,http://loinc.org,Operative Status Value,String,9,0
+86924-8,86924_8,http://loinc.org,Overall summary score [KCCQ-12],Quantity,1,0

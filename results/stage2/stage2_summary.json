@@ -1,0 +1,97 @@
+{
+  "dataset_path": "synthea_sample_data_fhir_latest",
+  "environment": {
+    "python_version_full": "3.14.6 (main, Jun 23 2026, 15:20:04) [MSC v.1944 64 bit (AMD64)]",
+    "python_version": "3.14.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "system": "Windows",
+    "machine": "AMD64",
+    "pandas_version": "3.0.6",
+    "matplotlib_version": "3.11.2",
+    "random_seed": 42,
+    "audit_run_timestamp": "2026-09-26T19:13:41"
+  },
+  "r0_resource_counts_confirmed_vs_stage1": {
+    "Patient": 109,
+    "Encounter": 5635,
+    "Condition": 3540,
+    "Observation": 46305,
+    "MedicationRequest": 3858
+  },
+  "structural_complexity": {
+    "Patient": {
+      "n_instances": 109,
+      "n_distinct_fields": 71,
+      "n_nested_structures": 19,
+      "n_arrays": 17,
+      "n_references": 0,
+      "max_nesting_depth": 4,
+      "avg_nesting_depth": 4.0
+    },
+    "Encounter": {
+      "n_instances": 5635,
+      "n_distinct_fields": 56,
+      "n_nested_structures": 20,
+      "n_arrays": 11,
+      "n_references": 4,
+      "max_nesting_depth": 4,
+      "avg_nesting_depth": 4.0
+    },
+    "Condition": {
+      "n_instances": 3540,
+      "n_distinct_fields": 30,
+      "n_nested_structures": 11,
+      "n_arrays": 6,
+      "n_references": 2,
+      "max_nesting_depth": 3,
+      "avg_nesting_depth": 3.0
+    },
+    "Observation": {
+      "n_instances": 46305,
+      "n_distinct_fields": 53,
+      "n_nested_structures": 16,
+      "n_arrays": 8,
+      "n_references": 2,
+      "max_nesting_depth": 4,
+      "avg_nesting_depth": 3.05
+    },
+    "MedicationRequest": {
+      "n_instances": 3858,
+      "n_distinct_fields": 60,
+      "n_nested_structures": 21,
+      "n_arrays": 12,
+      "n_references": 4,
+      "max_nesting_depth": 5,
+      "avg_nesting_depth": 3.69
+    }
+  },
+  "observation_polymorphism": {
+    "n_representations_observed": 4,
+    "pct_observations_with_component": 4.9,
+    "component_count_distribution": {
+      "1": 1,
+      "2": 1347,
+      "3": 12,
+      "21": 907
+    }
+  },
+  "coded_concepts": {
+    "n_coded_concepts_inspected": 107104,
+    "pct_multi_coding": 0.37,
+    "pct_with_text": 92.15,
+    "pct_codings_with_display": 93.41
+  },
+  "relationship_topology": {
+    "n_edges_among_target_types": 115774,
+    "medication_request_to_condition_coverage_pct": 70.84,
+    "encounters_with_condition_pct": 41.26,
+    "encounters_with_observation_pct": 45.18
+  },
+  "temporal_dependency": {
+    "pct_observation_effective_within_encounter_period": 94.49,
+    "pct_condition_onset_before_encounter_end": 90.11,
+    "pct_condition_onset_le_recordedDate": 100.0,
+    "pct_medicationrequest_authored_after_condition_onset": 100.0
+  },
+  "n_candidate_workloads": 4
+}

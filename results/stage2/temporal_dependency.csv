@@ -1,0 +1,11 @@
+resourceType,field,semantic_meaning,n_occurrences,precision,has_timezone_info,relationship_evidence_metric,relationship_evidence_value
+Condition,onsetDateTime,clinical onset — when the condition is believed to have begun,3540,datetime,True,pct_within_linked_encounter_period_end,90.11
+Condition,recordedDate,documentation time — when the condition was entered into the record,3540,datetime,True,pct_onset_le_recordedDate,100.0
+Condition,abatementDateTime,clinical resolution/abatement time,2646,datetime,True,,
+Encounter,period.end,encounter end (wall-clock),5635,datetime,True,,
+Encounter,period.start,encounter start (wall-clock),5635,datetime,True,,
+MedicationRequest,authoredOn,prescription authoring time,3858,datetime,True,pct_authored_after_referenced_condition_onset,100.0
+Observation,effectiveDateTime,clinical observation/measurement time,46305,datetime,True,pct_within_linked_encounter_period,94.49
+Observation,issued,result issuance / system availability timestamp,46305,datetime_with_ms,True,relation_to_effectiveDateTime,"distinct system-issuance timestamp, not clinically constrained to the encounter window"
+Patient,birthDate,date of birth (date-only precision),109,date,,,
+Patient,deceasedDateTime,date/time of death,9,datetime,True,,

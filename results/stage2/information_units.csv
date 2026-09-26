@@ -1,0 +1,24 @@
+unit,resourceType,fields,analytical_role
+Patient.id,Patient,id,entity_identity
+Encounter.id,Encounter,id,entity_identity
+Encounter.identifier / Patient.identifier,"Encounter, Patient","identifier[].system, identifier[].value, identifier[].use",entity_identity
+Condition.code (CodeableConcept),Condition,"code.coding[].system, code.coding[].code, code.coding[].display, code.text",categorical_information
+Observation.code (CodeableConcept),Observation,"code.coding[].system, code.coding[].code, code.coding[].display, code.text",categorical_information
+MedicationRequest.medicationCodeableConcept,MedicationRequest,"medicationCodeableConcept.coding[], medicationCodeableConcept.text",categorical_information
+Encounter.class / Encounter.type,Encounter,"class.system, class.code, type[].coding[]",categorical_information
+Observation.category,Observation,category[].coding[],categorical_information
+Observation.valueQuantity,Observation,"valueQuantity.value, valueQuantity.unit, valueQuantity.system, valueQuantity.code",numerical_measurement
+Observation.component[] (panel observations),Observation,"component[].code, component[].valueQuantity",numerical_measurement
+Observation.valueCodeableConcept,Observation,"valueCodeableConcept.coding[], valueCodeableConcept.text",categorical_information
+Condition.onsetDateTime,Condition,onsetDateTime,temporal_information
+Condition.recordedDate,Condition,recordedDate,temporal_information
+Encounter.period,Encounter,"period.start, period.end",temporal_information
+Observation.effectiveDateTime / issued,Observation,"effectiveDateTime, issued",temporal_information
+MedicationRequest.authoredOn,MedicationRequest,authoredOn,temporal_information
+Observation.subject / Observation.encounter,Observation,"subject.reference, encounter.reference",relationship_information
+Condition.subject / Condition.encounter,Condition,"subject.reference, encounter.reference",relationship_information
+MedicationRequest.reasonReference -> Condition,MedicationRequest,reasonReference[].reference,relationship_information
+Encounter.participant,Encounter,"participant[].individual.reference, participant[].period",relationship_information
+Condition.clinicalStatus / verificationStatus,Condition,"clinicalStatus.coding[], verificationStatus.coding[]",provenance_or_context
+meta.profile,all target types,meta.profile[],descriptive_metadata
+MedicationRequest.dosageInstruction,MedicationRequest,"dosageInstruction[].text, dosageInstruction[].asNeededBoolean",descriptive_metadata

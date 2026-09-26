@@ -1,0 +1,187 @@
+system,code,display,semantic_tag,n_occurrences,is_disease_like
+http://snomed.info/sct,314529007,Medication review due (situation),situation,695,False
+http://snomed.info/sct,73595000,Stress (finding),finding,261,False
+http://snomed.info/sct,160903007,Full-time employment (finding),finding,250,False
+http://snomed.info/sct,66383009,Gingivitis (disorder),disorder,246,True
+http://snomed.info/sct,160904001,Part-time employment (finding),finding,149,False
+http://snomed.info/sct,422650009,Social isolation (finding),finding,108,False
+http://snomed.info/sct,444814009,Viral sinusitis (disorder),disorder,104,True
+http://snomed.info/sct,423315002,Limited social contact (finding),finding,96,False
+http://snomed.info/sct,72892002,Normal pregnancy (finding),finding,85,False
+http://snomed.info/sct,18718003,Gingival disease (disorder),disorder,84,True
+http://snomed.info/sct,195662009,Acute viral pharyngitis (disorder),disorder,76,True
+http://snomed.info/sct,741062008,Not in labor force (finding),finding,70,False
+http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding),finding,66,False
+http://snomed.info/sct,224299000,Received higher education (finding),finding,56,False
+http://snomed.info/sct,109570002,Primary dental caries (disorder),disorder,50,True
+http://snomed.info/sct,10509002,Acute bronchitis (disorder),disorder,50,True
+http://snomed.info/sct,162864005,Body mass index 30+ - obesity (finding),finding,44,False
+http://snomed.info/sct,271737000,Anemia (disorder),disorder,39,True
+http://snomed.info/sct,73438004,Unemployed (finding),finding,38,False
+http://snomed.info/sct,424393004,Reports of violence in the environment (finding),finding,36,False
+http://snomed.info/sct,714628002,Prediabetes (finding),finding,34,False
+http://snomed.info/sct,160968000,Risk activity involvement (finding),finding,31,False
+http://snomed.info/sct,65363002,Otitis media (disorder),disorder,27,True
+http://snomed.info/sct,82423001,Chronic pain (finding),finding,27,False
+http://snomed.info/sct,40055000,Chronic sinusitis (disorder),disorder,25,True
+http://snomed.info/sct,312608009,Laceration - injury (disorder),disorder,25,True
+http://snomed.info/sct,473461003,Educated to high school level (finding),finding,22,False
+http://snomed.info/sct,10939881000119105,Unhealthy alcohol drinking behavior (finding),finding,22,False
+http://snomed.info/sct,161744009,Past pregnancy history of miscarriage (situation),situation,21,False
+http://snomed.info/sct,307426000,Acute infective cystitis (disorder),disorder,21,True
+http://snomed.info/sct,59621000,Essential hypertension (disorder),disorder,20,True
+http://snomed.info/sct,125605004,Fracture of bone (disorder),disorder,19,True
+http://snomed.info/sct,43878008,Streptococcal sore throat (disorder),disorder,19,True
+http://snomed.info/sct,278588009,Fractured dental filling (finding),finding,19,False
+http://snomed.info/sct,278860009,Chronic low back pain (finding),finding,18,False
+http://snomed.info/sct,266948004,Has a criminal record (finding),finding,15,False
+http://snomed.info/sct,1121000119107,Chronic neck pain (finding),finding,15,False
+http://snomed.info/sct,427898007,Infection of tooth (disorder),disorder,15,True
+http://snomed.info/sct,274531002,Abnormal findings diagnostic imaging heart+coronary circulat (finding),finding,13,False
+http://snomed.info/sct,80583007,Severe anxiety (panic) (finding),finding,13,False
+http://snomed.info/sct,278558000,Dental filling lost (finding),finding,13,False
+http://snomed.info/sct,414545008,Ischemic heart disease (disorder),disorder,13,True
+http://snomed.info/sct,105531004,Housing unsatisfactory (finding),finding,13,False
+http://snomed.info/sct,384709000,Sprain (morphologic abnormality),morphologic abnormality,12,True
+http://snomed.info/sct,37320007,Loss of teeth (disorder),disorder,11,True
+http://snomed.info/sct,237602007,Metabolic syndrome X (disorder),disorder,10,True
+http://snomed.info/sct,361055000,Misuses drugs (finding),finding,9,False
+http://snomed.info/sct,110030002,Concussion injury of brain (disorder),disorder,9,True
+http://snomed.info/sct,55822004,Hyperlipidemia (disorder),disorder,9,True
+http://snomed.info/sct,278598003,Leaking dental filling (finding),finding,9,False
+http://snomed.info/sct,267020005,History of tubal ligation (situation),situation,9,False
+http://snomed.info/sct,44465007,Sprain of ankle (disorder),disorder,8,True
+http://snomed.info/sct,19169002,Miscarriage in first trimester (disorder),disorder,8,True
+http://snomed.info/sct,36971009,Sinusitis (disorder),disorder,8,True
+http://snomed.info/sct,224295006,Only received primary school education (finding),finding,8,False
+http://snomed.info/sct,183996000,Sterilization requested (situation),situation,7,False
+http://snomed.info/sct,399211009,History of myocardial infarction (situation),situation,7,False
+http://snomed.info/sct,65966004,Fracture of forearm (disorder),disorder,7,True
+http://snomed.info/sct,266934004,Transport problem (finding),finding,6,False
+http://snomed.info/sct,399261000,History of coronary artery bypass grafting (situation),situation,6,False
+http://snomed.info/sct,75498004,Acute bacterial sinusitis (disorder),disorder,6,True
+http://snomed.info/sct,232353008,Perennial allergic rhinitis with seasonal variation (disorder),disorder,6,True
+http://snomed.info/sct,1149222004,Overdose (disorder),disorder,6,True
+http://snomed.info/sct,127013003,Disorder of kidney due to diabetes mellitus (disorder),disorder,6,True
+http://snomed.info/sct,196416002,Impacted molars (disorder),disorder,6,True
+http://snomed.info/sct,431855005,Chronic kidney disease stage 1 (disorder),disorder,6,True
+http://snomed.info/sct,713458007,Lack of access to transportation (finding),finding,6,False
+http://snomed.info/sct,62106007,Concussion with no loss of consciousness (disorder),disorder,6,True
+http://snomed.info/sct,44054006,Diabetes mellitus type 2 (disorder),disorder,6,True
+http://snomed.info/sct,85116003,Miscarriage in second trimester (disorder),disorder,6,True
+http://snomed.info/sct,428251008,History of appendectomy (situation),situation,6,False
+http://snomed.info/sct,195967001,Asthma (disorder),disorder,5,True
+http://snomed.info/sct,16114001,Fracture of ankle (disorder),disorder,5,True
+http://snomed.info/sct,239873007,Osteoarthritis of knee (disorder),disorder,5,True
+http://snomed.info/sct,283385000,Laceration of thigh (disorder),disorder,5,True
+http://snomed.info/sct,386661006,Fever (finding),finding,5,False
+http://snomed.info/sct,370247008,Facial laceration (disorder),disorder,5,True
+http://snomed.info/sct,283371005,Laceration of forearm (disorder),disorder,5,True
+http://snomed.info/sct,284551006,Laceration of foot (disorder),disorder,5,True
+http://snomed.info/sct,267253006,Fetus with chromosomal abnormality (disorder),disorder,5,True
+http://snomed.info/sct,278602001,Loose dental filling (finding),finding,5,False
+http://snomed.info/sct,49727002,Cough (finding),finding,5,False
+http://snomed.info/sct,840544004,Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),situation,5,False
+http://snomed.info/sct,68496003,Polyp of colon (disorder),disorder,5,True
+http://snomed.info/sct,284549007,Laceration of hand (disorder),disorder,5,True
+http://snomed.info/sct,302870006,Hypertriglyceridemia (disorder),disorder,5,True
+http://snomed.info/sct,431856006,Chronic kidney disease stage 2 (disorder),disorder,4,True
+http://snomed.info/sct,401314000,Acute non-ST segment elevation myocardial infarction (disorder),disorder,4,True
+http://snomed.info/sct,39898005,Sleep disorder (disorder),disorder,4,True
+http://snomed.info/sct,398254007,Pre-eclampsia (disorder),disorder,4,True
+http://snomed.info/sct,64859006,Osteoporosis (disorder),disorder,4,True
+http://snomed.info/sct,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder),disorder,4,True
+http://snomed.info/sct,70704007,Sprain of wrist (disorder),disorder,4,True
+http://snomed.info/sct,840539006,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),disorder,4,True
+http://snomed.info/sct,80394007,Hyperglycemia (disorder),disorder,3,True
+http://snomed.info/sct,307731004,Injury of tendon of the rotator cuff of shoulder (disorder),disorder,3,True
+http://snomed.info/sct,35999006,Blighted ovum (disorder),disorder,3,True
+http://snomed.info/sct,403190006,Epidermal burn of skin (disorder),disorder,3,True
+http://snomed.info/sct,433144002,Chronic kidney disease stage 3 (disorder),disorder,3,True
+http://snomed.info/sct,91302008,Sepsis (disorder),disorder,3,True
+http://snomed.info/sct,56018004,Wheezing (finding),finding,3,False
+http://snomed.info/sct,443165006,Osteoporotic fracture of bone (disorder),disorder,3,True
+http://snomed.info/sct,267036007,Dyspnea (finding),finding,3,False
+http://snomed.info/sct,58150001,Fracture of clavicle (disorder),disorder,3,True
+http://snomed.info/sct,48333001,Burn injury (morphologic abnormality),morphologic abnormality,3,True
+http://snomed.info/sct,263102004,Fracture subluxation of wrist (disorder),disorder,3,True
+http://snomed.info/sct,24079001,Atopic dermatitis (disorder),disorder,3,True
+http://snomed.info/sct,203646004,Adolescent idiopathic scoliosis (disorder),disorder,3,True
+http://snomed.info/sct,197927001,Recurrent urinary tract infection (disorder),disorder,3,True
+http://snomed.info/sct,233678006,Childhood asthma (disorder),disorder,3,True
+http://snomed.info/sct,201834006,"Localized, primary osteoarthritis of the hand (disorder)",disorder,3,True
+http://snomed.info/sct,156073000,Complete miscarriage (disorder),disorder,3,True
+http://snomed.info/sct,124171000119105,Chronic intractable migraine without aura (disorder),disorder,3,True
+http://snomed.info/sct,157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder),disorder,3,True
+http://snomed.info/sct,1231000119100,History of aortic valve replacement (situation),situation,2,False
+http://snomed.info/sct,1187604002,Serving in military service (finding),finding,2,False
+http://snomed.info/sct,1551000119108,Nonproliferative diabetic retinopathy due to type II diabetes mellitus,,2,False
+http://snomed.info/sct,241929008,Acute allergic reaction (disorder),disorder,2,True
+http://snomed.info/sct,22298006,Myocardial infarction (disorder),disorder,2,True
+http://snomed.info/sct,198992004,Eclampsia in pregnancy (disorder),disorder,2,True
+http://snomed.info/sct,203082005,Fibromyalgia (disorder),disorder,2,True
+http://snomed.info/sct,90560007,Gout,,2,False
+http://snomed.info/sct,62564004,Concussion with loss of consciousness (disorder),disorder,2,True
+http://snomed.info/sct,60573004,Aortic valve stenosis (disorder),disorder,2,True
+http://snomed.info/sct,6525002,Dependent drug abuse (disorder),disorder,2,True
+http://snomed.info/sct,446654005,Refugee (person),person,2,False
+http://snomed.info/sct,73430006,Sleep apnea (disorder),disorder,2,True
+http://snomed.info/sct,698306007,Awaiting transplantation of kidney (situation),situation,2,False
+http://snomed.info/sct,79586000,Tubal pregnancy (disorder),disorder,2,True
+http://snomed.info/sct,78275009,Obstructive sleep apnea syndrome (disorder),disorder,2,True
+http://snomed.info/sct,90460009,Injury of neck (disorder),disorder,2,True
+http://snomed.info/sct,88805009,Chronic congestive heart failure (disorder),disorder,2,True
+http://snomed.info/sct,61804006,Alveolitis of jaw (disorder),disorder,2,True
+http://snomed.info/sct,39848009,Whiplash injury to neck (disorder),disorder,2,True
+http://snomed.info/sct,401303003,Acute ST segment elevation myocardial infarction (disorder),disorder,2,True
+http://snomed.info/sct,367498001,Seasonal allergic rhinitis (disorder),disorder,2,True
+http://snomed.info/sct,408512008,Body mass index 40+ - severely obese (finding),finding,2,False
+http://snomed.info/sct,431857002,Chronic kidney disease stage 4 (disorder),disorder,2,True
+http://snomed.info/sct,32911000,Homeless (finding),finding,2,False
+http://snomed.info/sct,36955009,Loss of taste (finding),finding,2,False
+http://snomed.info/sct,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),disorder,2,True
+http://snomed.info/sct,26929004,Alzheimer's disease (disorder),disorder,2,True
+http://snomed.info/sct,713197008,Recurrent rectal polyp (disorder),disorder,2,True
+http://snomed.info/sct,235595009,Gastroesophageal reflux disease (disorder),disorder,1,True
+http://snomed.info/sct,239720000,Tear of meniscus of knee (disorder),disorder,1,True
+http://snomed.info/sct,239872002,Osteoarthritis of hip (disorder),disorder,1,True
+http://snomed.info/sct,230690007,Cerebrovascular accident (disorder),disorder,1,True
+http://snomed.info/sct,221360009,Spasticity (finding),finding,1,False
+http://snomed.info/sct,190905008,Cystic fibrosis (disorder),disorder,1,True
+http://snomed.info/sct,132281000119108,Acute deep venous thrombosis (disorder),disorder,1,True
+http://snomed.info/sct,125601008,Injury of knee (disorder),disorder,1,True
+http://snomed.info/sct,1290882004,History of seizure (situation),situation,1,False
+http://snomed.info/sct,128613002,Seizure disorder (disorder),disorder,1,True
+http://snomed.info/sct,128188000,Cerebral palsy (disorder),disorder,1,True
+http://snomed.info/sct,262574004,Bullet wound (disorder),disorder,1,True
+http://snomed.info/sct,254837009,Malignant neoplasm of breast (disorder),disorder,1,True
+http://snomed.info/sct,25064002,Headache (finding),finding,1,False
+http://snomed.info/sct,248595008,Sputum finding (finding),finding,1,False
+http://snomed.info/sct,233604007,Pneumonia (disorder),disorder,1,True
+http://snomed.info/sct,427089005,Diabetes mellitus due to cystic fibrosis (disorder),disorder,1,True
+http://snomed.info/sct,37849005,Congenital uterine anomaly (disorder),disorder,1,True
+http://snomed.info/sct,406602003,Infection caused by Staphylococcus aureus (disorder),disorder,1,True
+http://snomed.info/sct,263172003,Fracture of mandible (disorder),disorder,1,True
+http://snomed.info/sct,271825005,Respiratory distress (finding),finding,1,False
+http://snomed.info/sct,267102003,Sore throat (finding),finding,1,False
+http://snomed.info/sct,389087006,Hypoxemia (disorder),disorder,1,True
+http://snomed.info/sct,288959006,Unable to swallow saliva (finding),finding,1,False
+http://snomed.info/sct,283545005,Gunshot wound (disorder),disorder,1,True
+http://snomed.info/sct,312157006,Infectious mediastinitis (disorder),disorder,1,True
+http://snomed.info/sct,33737001,Fracture of rib (disorder),disorder,1,True
+http://snomed.info/sct,67782005,Acute respiratory distress syndrome (disorder),disorder,1,True
+http://snomed.info/sct,65710008,Acute respiratory failure (disorder),disorder,1,True
+http://snomed.info/sct,5602001,Opioid abuse,,1,False
+http://snomed.info/sct,62479008,Acquired immune deficiency syndrome (disorder),disorder,1,True
+http://snomed.info/sct,4557003,Preinfarction syndrome (disorder),disorder,1,True
+http://snomed.info/sct,46752004,Torus palatinus (disorder),disorder,1,True
+http://snomed.info/sct,49436004,Atrial fibrillation (disorder),disorder,1,True
+http://snomed.info/sct,53827007,Excessive salivation (disorder),disorder,1,True
+http://snomed.info/sct,448417001,Sepsis caused by Staphylococcus aureus (disorder),disorder,1,True
+http://snomed.info/sct,446096008,Perennial allergic rhinitis (disorder),disorder,1,True
+http://snomed.info/sct,707577004,Female infertility due to cystic fibrosis (disorder),disorder,1,True
+http://snomed.info/sct,74400008,Appendicitis (disorder),disorder,1,True
+http://snomed.info/sct,76571007,Septic shock (disorder),disorder,1,True
+http://snomed.info/sct,81629009,Traumatic dislocation of temporomandibular joint (disorder),disorder,1,True
+http://snomed.info/sct,87433001,Pulmonary emphysema (disorder),disorder,1,True
+http://snomed.info/sct,84229001,Fatigue (finding),finding,1,False

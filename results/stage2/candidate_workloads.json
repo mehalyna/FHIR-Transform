@@ -1,0 +1,100 @@
+[
+  {
+    "id": "W1",
+    "research_purpose": "Simple cohort selection using one clinical concept.",
+    "resources_involved": [
+      "Condition"
+    ],
+    "fields_involved": [
+      "Condition.code.coding[].system",
+      "Condition.code.coding[].code",
+      "Condition.subject.reference"
+    ],
+    "relationships_required": [
+      "Condition.subject -> Patient"
+    ],
+    "temporal_information_required": "none",
+    "example_concept": {
+      "system": "http://snomed.info/sct",
+      "code": "314529007",
+      "display": "Medication review due (situation)",
+      "n_occurrences": 695
+    },
+    "r1_r2_transformation_impact": "Unaffected by R1; under R2 the query still works as long as the selected code survives as the 'dominant' coding for this concept (Section 9)."
+  },
+  {
+    "id": "W2",
+    "research_purpose": "Cohort selection requiring information from two resource types (patients with a given condition who were also prescribed a given medication).",
+    "resources_involved": [
+      "Condition",
+      "MedicationRequest"
+    ],
+    "fields_involved": [
+      "Condition.code",
+      "MedicationRequest.medicationCodeableConcept",
+      "Condition.subject.reference",
+      "MedicationRequest.subject.reference"
+    ],
+    "relationships_required": [
+      "Condition.subject -> Patient",
+      "MedicationRequest.subject -> Patient"
+    ],
+    "temporal_information_required": "none (join is by shared patient, not by time)",
+    "example_concepts": {
+      "condition": {
+        "system": "http://snomed.info/sct",
+        "code": "314529007",
+        "display": "Medication review due (situation)",
+        "n_occurrences": 695
+      },
+      "medication": {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "code": "106892",
+        "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "n_occurrences": 422
+      }
+    },
+    "r1_r2_transformation_impact": "Requires both CodeableConcepts to remain queryable by code; under R2's single-coding collapse this still works for the dominant codes shown here."
+  },
+  {
+    "id": "W3",
+    "research_purpose": "Temporal query requiring ordering or temporal constraints (medication requests authored on/after the onset of a referenced condition).",
+    "resources_involved": [
+      "Condition",
+      "MedicationRequest"
+    ],
+    "fields_involved": [
+      "Condition.onsetDateTime",
+      "MedicationRequest.authoredOn",
+      "MedicationRequest.reasonReference"
+    ],
+    "relationships_required": [
+      "MedicationRequest.reasonReference -> Condition"
+    ],
+    "temporal_information_required": "Condition.onsetDateTime and MedicationRequest.authoredOn, compared directly (Section 7 measured this at 100.0% consistency)",
+    "r1_r2_transformation_impact": "High risk under R2's single-timestamp-per-resource collapse (Section 9/10): if onsetDateTime is not the retained timestamp for Condition, this workload cannot be answered at all."
+  },
+  {
+    "id": "W4",
+    "research_purpose": "Multi-resource query requiring relationships among at least three target resource types (per-encounter clinical picture: diagnosis, observations recorded, and medications ordered during the same encounter).",
+    "resources_involved": [
+      "Encounter",
+      "Condition",
+      "Observation",
+      "MedicationRequest"
+    ],
+    "fields_involved": [
+      "Encounter.id",
+      "Condition.encounter.reference",
+      "Observation.encounter.reference",
+      "MedicationRequest.encounter.reference"
+    ],
+    "relationships_required": [
+      "Condition.encounter -> Encounter",
+      "Observation.encounter -> Encounter",
+      "MedicationRequest.encounter -> Encounter"
+    ],
+    "temporal_information_required": "Encounter.period to bound/validate the grouping (Section 7 measured 94.49% of Observations falling inside their linked Encounter period)",
+    "r1_r2_transformation_impact": "Requires the relationship table preserved in R1; under R2's reference-dropping this workload is not reconstructable without re-deriving edges from raw R0."
+  }
+]

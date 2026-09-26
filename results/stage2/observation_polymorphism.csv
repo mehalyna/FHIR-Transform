@@ -1,0 +1,9 @@
+category,representation,occurrence_count,pct_of_observations,nesting_depth,pct_with_units,pct_with_codes,example_structure
+top_level_value_representation,valueQuantity,36082,77.92,1.0,99.99,0.0,"{""value"": 5.85, ""unit"": ""%"", ""system"": ""http://unitsofmeasure.org"", ""code"": ""%""}"
+top_level_value_representation,valueCodeableConcept,7896,17.05,2.0,0.0,100.0,"{""coding"": [{""system"": ""http://snomed.info/sct"", ""code"": ""266919005"", ""display"": ""Never smoked tobacco (finding)""}], ""text"": ""Never smoked tobacco (finding)""}"
+top_level_value_representation,valueString,60,0.13,0.0,0.0,0.0,"""Greater than 100,000 colony forming units per mL Escherichia coli"""
+compound_representation,component[],2267,4.9,3.0,,,"[{""code"": {""coding"": [{""system"": ""http://loinc.org"", ""code"": ""8462-4"", ""display"": ""Diastolic Blood Pressure""}], ""text"": ""Diastolic Blood Pressure""}, ""valueQuantity"": {""value"": 70, ""unit"": ""mm[Hg]"", ""system"": ""http://unitsofmeasure.org"", ""code"": ""mm[Hg]""}}, {""code"": {""coding"": [{""system"": ""http://loi"
+component_count_distribution,component_count=1,1,0.0,,,,
+component_count_distribution,component_count=2,1347,2.91,,,,
+component_count_distribution,component_count=3,12,0.03,,,,
+component_count_distribution,component_count=21,907,1.96,,,,

@@ -1,0 +1,25 @@
+representation,check,result_value,result_total,result_pct,notes
+R0,resource_identity_preservation,59447,59447,100.0,R0 defines identity; R1/R2 both keep one row per R0 resource (Section 9a) -- identity is fully preserved in both.
+R0,row_counts_match_r0,59447,59447,100.0,"verified per-table in Section 9a (R1) and by construction (R2: one row emitted per source resource, Sections 12/15)."
+R0,foreign_key_integrity,115774,115774,100.0,"raw FHIR references, 100% resolvable (Stage1 Section 6)."
+R0,relationship_reconstructability,115774,115774,100.0,all edges present as raw FHIR Reference objects.
+R0,coding_preservation,163729,163729,100.0,source of truth; nothing simplified yet.
+R0,temporal_field_preservation,117582,117582,100.0,all 10 distinct temporal fields present in the raw resources.
+R0,observation_value_preservation,44038,44038,100.0,source of truth.
+R0,observation_component_preservation,21778,21778,100.0,source of truth.
+R1,resource_identity_preservation,59447,59447,100.0,R0 defines identity; R1/R2 both keep one row per R0 resource (Section 9a) -- identity is fully preserved in both.
+R1,row_counts_match_r0,59447,59447,100.0,"verified per-table in Section 9a (R1) and by construction (R2: one row emitted per source resource, Sections 12/15)."
+R1,foreign_key_integrity,115774,115774,100.0,0 unresolvable FKs across all checks in Section 9b.
+R1,relationship_reconstructability,115774,115774,100.0,general relationship table (r1_relationship) plus per-table FKs; edge counts match Stage2 exactly (Section 8).
+R1,coding_preservation,163729,163729,100.0,"every coding, including all multi-coding alternates, preserved (Section 9c)."
+R1,temporal_field_preservation,117582,117582,100.0,"all 10 fields kept as distinct columns, never merged (Section 9d)."
+R1,observation_value_preservation,44038,44038,100.0,"typed sibling columns, no value forced into an incompatible representation (Section 9e)."
+R1,observation_component_preservation,21778,21778,100.0,one row per component in r1_observation_component (Section 9e).
+R2,resource_identity_preservation,59447,59447,100.0,R0 defines identity; R1/R2 both keep one row per R0 resource (Section 9a) -- identity is fully preserved in both.
+R2,row_counts_match_r0,59447,59447,100.0,"verified per-table in Section 9a (R1) and by construction (R2: one row emitted per source resource, Sections 12/15)."
+R2,foreign_key_integrity,113041,115774,97.64,patient_id/encounter_id FKs resolve exactly like R1's; only the reasonReference edge is absent (Section 14).
+R2,relationship_reconstructability,113041,115774,97.64,"reasonReference (MedicationRequest -> Condition, 2733 edges) is the only unreconstructable edge type."
+R2,coding_preservation,156252,163729,95.43,only the first coding per remaining concept is kept (397 alternates discarded); clinicalStatus/verificationStatus concepts dropped entirely.
+R2,temporal_field_preservation,59447,117582,50.56,"only 5 of 10 distinct temporal fields retained (one per resource type, Section 13)."
+R2,observation_value_preservation,44038,44038,100.0,"typed sibling columns retained for every value[x] representation (Section 12) -- values are not lost, only their coding detail is simplified."
+R2,observation_component_preservation,21778,21778,100.0,wide-pivot schema covers all 29 development-dataset codes; 0 collisions observed in this dataset (Section 12).
