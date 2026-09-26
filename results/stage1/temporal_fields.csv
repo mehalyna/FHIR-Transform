@@ -1,0 +1,11 @@
+resourceType,field,n_occurrences,example_value,has_timezone_info
+Condition,onsetDateTime,3540,1999-07-19T23:00:52+00:00,True
+Condition,recordedDate,3540,1999-07-19T23:00:52+00:00,True
+Condition,abatementDateTime,2646,2023-06-05T23:12:14+00:00,True
+Encounter,period.end,5635,1999-07-19T23:00:52+00:00,True
+Encounter,period.start,5635,1999-07-19T22:20:00+00:00,True
+MedicationRequest,authoredOn,3858,2005-06-05T22:20:00+00:00,True
+Observation,effectiveDateTime,46305,2016-12-05T22:20:00+00:00,True
+Observation,issued,46305,2016-12-05T22:20:00.256+00:00,True
+Patient,birthDate,109,1981-05-25,
+Patient,deceasedDateTime,9,2023-08-22T15:37:22+00:00,True

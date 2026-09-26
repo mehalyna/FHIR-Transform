@@ -1,0 +1,36 @@
+{
+  "dataset_path": "synthea_sample_data_fhir_latest",
+  "n_json_files": 111,
+  "total_size_bytes": 386150705,
+  "environment": {
+    "python_version_full": "3.14.6 (main, Jun 23 2026, 15:20:04) [MSC v.1944 64 bit (AMD64)]",
+    "python_version": "3.14.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "system": "Windows",
+    "machine": "AMD64",
+    "pandas_version": "3.0.6",
+    "matplotlib_version": "3.11.2",
+    "random_seed": 42,
+    "audit_run_timestamp": "2026-09-26T18:49:27"
+  },
+  "n_patient_bundles": 109,
+  "n_total_fhir_resources": 119981,
+  "target_resource_counts": {
+    "Patient": 109,
+    "Encounter": 5635,
+    "Condition": 3540,
+    "Observation": 46305,
+    "MedicationRequest": 3858
+  },
+  "n_relationships_inspected": 126293,
+  "n_relationships_resolvable": 126293,
+  "pct_relationships_resolvable": 100.0,
+  "n_temporal_fields_identified": 10,
+  "data_quality_issues": {
+    "n_resource_types_with_duplicate_ids": 0,
+    "n_resource_types_with_missing_ids": 0,
+    "n_reference_fields_with_broken_references": 0,
+    "n_malformed_json_files": 0,
+    "n_resources_without_resourcetype": 0
+  }
+}

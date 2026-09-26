@@ -1,0 +1,6 @@
+resourceType,n_resources,n_unique_ids,n_missing_ids,avg_per_patient
+Patient,109,109,0,1.0
+Encounter,5635,5635,0,51.697
+Condition,3540,3540,0,32.477
+Observation,46305,46305,0,424.817
+MedicationRequest,3858,3858,0,35.394

@@ -1,0 +1,12 @@
+source_resourceType,reference_field,target_resourceType,n_references,n_resolvable,pct_resolvable
+Condition,encounter,Encounter,3540,3540,100.0
+Condition,subject,Patient,3540,3540,100.0
+Encounter,serviceProvider,Organization,5635,5635,100.0
+Encounter,subject,Patient,5635,5635,100.0
+MedicationRequest,encounter,Encounter,3858,3858,100.0
+MedicationRequest,medicationReference,Medication,1026,1026,100.0
+MedicationRequest,reasonReference,Condition,2733,2733,100.0
+MedicationRequest,requester,Practitioner,3858,3858,100.0
+MedicationRequest,subject,Patient,3858,3858,100.0
+Observation,encounter,Encounter,46305,46305,100.0
+Observation,subject,Patient,46305,46305,100.0
