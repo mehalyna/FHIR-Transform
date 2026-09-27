@@ -1,0 +1,4 @@
+representation,n_files,total_bytes,mib,relative_size_vs_r0,relative_size_vs_r1,files_included
+R0,111,386150705,368.262,1.0,6.7674,canonical FHIR R4 Bundle JSON files (synthea_sample_data_fhir_latest)
+R1,12,57060116,54.417,0.1478,1.0,all r1_*.csv tables (structure-preserving normalized representation)
+R2,5,16718227,15.944,0.0433,0.293,all r2_*.csv core data tables (patient/encounter/condition/medication_request/observation)

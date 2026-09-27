@@ -1,0 +1,8 @@
+check,expected,actual,match
+R0 resource count [Patient],109,109,True
+R0 resource count [Encounter],5635,5635,True
+R0 resource count [Condition],3540,3540,True
+R0 resource count [Observation],46305,46305,True
+R0 resource count [MedicationRequest],3858,3858,True
+Stage 4 W2 selected medication == frozen RxNorm 106892,106892,106892,True
+Stage 4 W4/R2 recorded as not_feasible,True,True,True

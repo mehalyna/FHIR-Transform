@@ -1,0 +1,8 @@
+pipeline,phase,median_ms,n_reps
+R0_parse,transformation_compute_time,8246.73,5
+R0_to_R1,transformation_compute_time,4428.9,5
+R0_to_R1,serialization_write_time,1049.92,5
+R0_to_R1,total_materialization_time,13186.55,5
+R0_to_R2,transformation_compute_time (incremental R1->R2),591.83,5
+R0_to_R2,serialization_write_time,443.88,5
+R0_to_R2,"total_materialization_time (full pipeline, R1 not persisted)",13069.85,5

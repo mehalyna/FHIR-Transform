@@ -1,0 +1,48 @@
+{
+  "audit_trigger": "R1 query-only median for W1 (~511 ms) and W2 (~1018 ms) was 100-400x the R2 median (~1.4 ms / ~2.7 ms), asymmetric with W3/W4 where R0/R1/R2 were within a few ms of each other.",
+  "benchmark_boundary_problems_found": true,
+  "problem_description": "w1_r1/w2_r1 rebuilt a full concept_id -> {(system, code)} reverse index over all 163,729 rows of r1_coding_df (covering every coded field on every resource type, not just the one (system, code) pair being searched) via a manual Python loop, on every single timed call; w2_r1 did this twice per call. The frozen notebooks/04_analytical_fidelity.ipynb reference implementation builds this index once, outside any per-workload function, and reuses it -- i.e. as representation preparation, not a per-query cost.",
+  "explanation_for_r1_w1_w2_behavior": "R1 legitimately pays a normalization-join cost for W1/W2 that R2 avoids (R2 stores the code directly on the row; R1 must join through a separate coding table). That real cost was inflated roughly 20-40x by materializing an index over the entire coding table via a Python-level loop instead of a direct vectorized filter restricted to the rows that can match.",
+  "fix_applied": "Replaced the full-table reverse-index construction with matching_concept_ids(), a vectorized filter over r1_coding_df for the exact (system, code) pair, feeding the same downstream .isin() join. Semantics and result sets are identical; no workload definition, transformation rule, or Stage 4 reference result was changed.",
+  "measurements_regenerated": true,
+  "regenerated_scope": "All query-only and end-to-end benchmarks, all summaries, relative performance, amortization, and trade-off outputs were regenerated under the corrected lib/stage5_workloads.py in a single fresh top-to-bottom notebook run (this run).",
+  "pre_fix_reference_values_ms": {
+    "W1_R1_query_only": 510.96,
+    "W2_R1_query_only": 1018.11
+  },
+  "post_fix_values_ms": {
+    "W1_R1_query_only": 12.01225,
+    "W2_R1_query_only": 26.131700000000002
+  },
+  "speedup_from_fix": {
+    "W1_R1_query_only": 42.5,
+    "W2_R1_query_only": 39.0
+  },
+  "other_workloads_representations_inspected_for_same_issue": [
+    "W1/R0",
+    "W1/R2",
+    "W2/R0",
+    "W2/R2",
+    "W3/R0",
+    "W3/R1",
+    "W3/R2",
+    "W4/R0",
+    "W4/R1"
+  ],
+  "other_benchmark_boundary_issues_found": false,
+  "correctness_preserved": {
+    "w1_r1_matches_frozen_stage4": true,
+    "w2_r1_matches_frozen_stage4": true,
+    "all_feasible_pairs_match_frozen_stage4": true,
+    "all_measured_repetitions_verified": true
+  },
+  "integrity_conditions_reconfirmed": {
+    "frozen_resource_counts_unchanged": true,
+    "w4_r2_still_not_feasible": true,
+    "w2_still_uses_frozen_rxnorm_106892": true,
+    "no_infeasible_workload_shown_as_zero_time": true,
+    "query_only_and_end_to_end_boundaries_distinct": true,
+    "end_to_end_described_as_repeated_application_level_access_not_cold_disk": true,
+    "transformation_cost_kept_separate_from_recurring_access_cost": true
+  }
+}

@@ -1,0 +1,4 @@
+representation,resource_identity_retention_pct,relationship_retention_pct,temporal_retention_pct,clinical_code_retention_pct,observation_value_retention_pct,n_stage4_workloads_feasible,n_stage4_workloads_exact_fidelity,storage_mib,W1_query_only_median_ms,W1_end_to_end_median_ms,W2_query_only_median_ms,W2_end_to_end_median_ms,W3_query_only_median_ms,W3_end_to_end_median_ms,W4_query_only_median_ms,W4_end_to_end_median_ms
+R0,100.0,100.0,100.0,100.0,100.0,4,4,368.262,2.428275,3883.1587,7.26485,3855.8716,13.30375,4015.7433,18.549599999999998,3948.0249
+R1,100.0,100.0,100.0,100.0,100.0,4,4,54.417,12.01225,145.99290000000002,26.131700000000002,168.97355,11.181899999999999,34.45855,11.007349999999999,22.2081
+R2,100.0,100.0,50.56,95.43,100.0,3,3,15.944,0.6163625,7.922000000000001,1.4084875000000001,17.5044,10.9708,27.92855,,

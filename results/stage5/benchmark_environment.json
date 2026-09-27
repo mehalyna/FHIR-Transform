@@ -1,0 +1,30 @@
+{
+  "timestamp_utc": "2026-09-27T08:03:38+00:00",
+  "random_seed": 42,
+  "os": {
+    "system": "Windows",
+    "release": "11",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "machine_architecture": "AMD64",
+  "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "python_version": "3.14.6",
+  "python_implementation": "CPython",
+  "pandas_version": "3.0.6",
+  "numpy_version": "2.5.3",
+  "matplotlib_version": "3.11.2",
+  "psutil_version": "7.2.2",
+  "logical_cpu_count": 22,
+  "physical_cpu_count": 16,
+  "cpu_freq_mhz": {
+    "current": 1400.0,
+    "min": 0.0,
+    "max": 1400.0
+  },
+  "total_memory_gib": 31.47,
+  "storage_medium": "not reliably determinable without privileged/vendor-specific APIs on this platform -- not reported to avoid guessing",
+  "notes": [
+    "cpu_freq_mhz is reported as returned by psutil; on Windows this may reflect the OS-reported nominal/current frequency rather than actual per-core turbo behavior during benchmarking.",
+    "Absolute timing values below are specific to this machine/OS/Python build and are not portable performance claims; only within-run relative comparisons (R0 vs R1 vs R2) are interpreted."
+  ]
+}

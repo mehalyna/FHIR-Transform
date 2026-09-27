@@ -1,0 +1,803 @@
+{
+  "environment": {
+    "timestamp_utc": "2026-09-27T08:03:38+00:00",
+    "random_seed": 42,
+    "os": {
+      "system": "Windows",
+      "release": "11",
+      "platform": "Windows-11-10.0.26200-SP0"
+    },
+    "machine_architecture": "AMD64",
+    "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "python_version": "3.14.6",
+    "python_implementation": "CPython",
+    "pandas_version": "3.0.6",
+    "numpy_version": "2.5.3",
+    "matplotlib_version": "3.11.2",
+    "psutil_version": "7.2.2",
+    "logical_cpu_count": 22,
+    "physical_cpu_count": 16,
+    "cpu_freq_mhz": {
+      "current": 1400.0,
+      "min": 0.0,
+      "max": 1400.0
+    },
+    "total_memory_gib": 31.47,
+    "storage_medium": "not reliably determinable without privileged/vendor-specific APIs on this platform -- not reported to avoid guessing",
+    "notes": [
+      "cpu_freq_mhz is reported as returned by psutil; on Windows this may reflect the OS-reported nominal/current frequency rather than actual per-core turbo behavior during benchmarking.",
+      "Absolute timing values below are specific to this machine/OS/Python build and are not portable performance claims; only within-run relative comparisons (R0 vs R1 vs R2) are interpreted."
+    ]
+  },
+  "dataset_confirmation": {
+    "expected_counts": {
+      "Patient": 109,
+      "Encounter": 5635,
+      "Condition": 3540,
+      "Observation": 46305,
+      "MedicationRequest": 3858
+    },
+    "actual_counts": {
+      "Patient": 109,
+      "Encounter": 5635,
+      "Condition": 3540,
+      "Observation": 46305,
+      "MedicationRequest": 3858
+    },
+    "integrity_check_passed": true
+  },
+  "storage_footprint": [
+    {
+      "representation": "R0",
+      "n_files": 111,
+      "total_bytes": 386150705,
+      "mib": 368.262,
+      "relative_size_vs_r0": 1.0,
+      "relative_size_vs_r1": 6.7674,
+      "files_included": "canonical FHIR R4 Bundle JSON files (synthea_sample_data_fhir_latest)"
+    },
+    {
+      "representation": "R1",
+      "n_files": 12,
+      "total_bytes": 57060116,
+      "mib": 54.417,
+      "relative_size_vs_r0": 0.1478,
+      "relative_size_vs_r1": 1.0,
+      "files_included": "all r1_*.csv tables (structure-preserving normalized representation)"
+    },
+    {
+      "representation": "R2",
+      "n_files": 5,
+      "total_bytes": 16718227,
+      "mib": 15.944,
+      "relative_size_vs_r0": 0.0433,
+      "relative_size_vs_r1": 0.293,
+      "files_included": "all r2_*.csv core data tables (patient/encounter/condition/medication_request/observation)"
+    }
+  ],
+  "transformation_cost": {
+    "summary": [
+      {
+        "pipeline": "R0_parse",
+        "phase": "transformation_compute_time",
+        "median_ms": 8246.73,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R1",
+        "phase": "transformation_compute_time",
+        "median_ms": 4428.9,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R1",
+        "phase": "serialization_write_time",
+        "median_ms": 1049.92,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R1",
+        "phase": "total_materialization_time",
+        "median_ms": 13186.55,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R2",
+        "phase": "transformation_compute_time (incremental R1->R2)",
+        "median_ms": 591.83,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R2",
+        "phase": "serialization_write_time",
+        "median_ms": 443.88,
+        "n_reps": 5
+      },
+      {
+        "pipeline": "R0_to_R2",
+        "phase": "total_materialization_time (full pipeline, R1 not persisted)",
+        "median_ms": 13069.85,
+        "n_reps": 5
+      }
+    ],
+    "n_repetitions": 5
+  },
+  "benchmark_repetitions": {
+    "query_only_warmups": 5,
+    "query_only_measured": 30,
+    "end_to_end_measured": 10
+  },
+  "query_only_summary": [
+    {
+      "workload_id": "W1",
+      "representation": "R0",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 2.2087,
+      "p25": 2.2491375,
+      "median": 2.428275,
+      "p75": 2.5906374999999997,
+      "iqr": 0.3414999999999999,
+      "mean": 2.593525,
+      "std": 0.4935345740867254,
+      "p95": 3.7252149999999995,
+      "max": 3.9574
+    },
+    {
+      "workload_id": "W1",
+      "representation": "R1",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 11.4513,
+      "p25": 11.77875,
+      "median": 12.01225,
+      "p75": 12.2717,
+      "iqr": 0.49294999999999867,
+      "mean": 12.219596666666666,
+      "std": 0.7161390317159975,
+      "p95": 13.713375,
+      "max": 14.2921
+    },
+    {
+      "workload_id": "W1",
+      "representation": "R2",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 0.588425,
+      "p25": 0.599990625,
+      "median": 0.6163625,
+      "p75": 0.652984375,
+      "iqr": 0.05299374999999995,
+      "mean": 0.6321549999999999,
+      "std": 0.04743896209868002,
+      "p95": 0.7283849999999997,
+      "max": 0.790375
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R0",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 6.472,
+      "p25": 6.901800000000001,
+      "median": 7.26485,
+      "p75": 8.3102,
+      "iqr": 1.4083999999999994,
+      "mean": 7.585953333333333,
+      "std": 0.8400240722057061,
+      "p95": 9.00428,
+      "max": 9.2994
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R1",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 24.4005,
+      "p25": 25.37895,
+      "median": 26.131700000000002,
+      "p75": 26.866225,
+      "iqr": 1.4872750000000003,
+      "mean": 26.107993333333336,
+      "std": 0.937642091092601,
+      "p95": 27.638934999999996,
+      "max": 27.8821
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R2",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 1.3171,
+      "p25": 1.37954375,
+      "median": 1.4084875000000001,
+      "p75": 1.43538125,
+      "iqr": 0.055837499999999984,
+      "mean": 1.4553749999999999,
+      "std": 0.14498059546140937,
+      "p95": 1.7340825,
+      "max": 1.91765
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R0",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 11.9795,
+      "p25": 12.669325,
+      "median": 13.30375,
+      "p75": 13.97225,
+      "iqr": 1.302925,
+      "mean": 13.395023333333333,
+      "std": 0.9478401417245251,
+      "p95": 15.053239999999999,
+      "max": 15.721
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R1",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 10.5591,
+      "p25": 11.0579,
+      "median": 11.181899999999999,
+      "p75": 11.433575,
+      "iqr": 0.3756749999999993,
+      "mean": 11.414273333333336,
+      "std": 0.7274638883955272,
+      "p95": 12.86548,
+      "max": 14.0209
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R2",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 10.4021,
+      "p25": 10.7301,
+      "median": 10.9708,
+      "p75": 11.366025,
+      "iqr": 0.6359250000000003,
+      "mean": 11.201156666666666,
+      "std": 0.7480342407262186,
+      "p95": 12.721734999999999,
+      "max": 13.6493
+    },
+    {
+      "workload_id": "W4",
+      "representation": "R0",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 17.4256,
+      "p25": 18.0646,
+      "median": 18.549599999999998,
+      "p75": 18.977349999999998,
+      "iqr": 0.9127499999999991,
+      "mean": 18.683013333333335,
+      "std": 0.8294730328527172,
+      "p95": 20.226115,
+      "max": 20.6336
+    },
+    {
+      "workload_id": "W4",
+      "representation": "R1",
+      "scenario": "query_only",
+      "n": 30,
+      "min": 10.1086,
+      "p25": 10.720075,
+      "median": 11.007349999999999,
+      "p75": 11.356774999999999,
+      "iqr": 0.6366999999999994,
+      "mean": 11.634553333333336,
+      "std": 2.302145858157099,
+      "p95": 16.802209999999985,
+      "max": 20.0798
+    }
+  ],
+  "end_to_end_summary": [
+    {
+      "workload_id": "W1",
+      "representation": "R0",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 3570.0326,
+      "p25": 3682.016575,
+      "median": 3883.1587,
+      "p75": 7622.956875,
+      "iqr": 3940.9402999999998,
+      "mean": 5331.249229999999,
+      "std": 2090.233715004601,
+      "p95": 7909.546565,
+      "max": 7956.5537
+    },
+    {
+      "workload_id": "W1",
+      "representation": "R1",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 142.932,
+      "p25": 143.306725,
+      "median": 145.99290000000002,
+      "p75": 147.552625,
+      "iqr": 4.245900000000006,
+      "mean": 146.8186,
+      "std": 4.650320687149794,
+      "p95": 154.592175,
+      "max": 158.1762
+    },
+    {
+      "workload_id": "W1",
+      "representation": "R2",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 7.6242,
+      "p25": 7.775525,
+      "median": 7.922000000000001,
+      "p75": 8.226925000000001,
+      "iqr": 0.45140000000000136,
+      "mean": 8.55142,
+      "std": 1.8154666677683118,
+      "p95": 11.434474999999996,
+      "max": 13.6325
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R0",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 3627.442,
+      "p25": 3847.9550750000003,
+      "median": 3855.8716,
+      "p75": 7884.20035,
+      "iqr": 4036.2452749999998,
+      "mean": 5514.854719999999,
+      "std": 2212.1270010869976,
+      "p95": 8305.608925,
+      "max": 8336.9296
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R1",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 165.0267,
+      "p25": 168.323075,
+      "median": 168.97355,
+      "p75": 170.315925,
+      "iqr": 1.9928500000000042,
+      "mean": 171.52159,
+      "std": 7.866675341019233,
+      "p95": 184.55604499999998,
+      "max": 192.9071
+    },
+    {
+      "workload_id": "W2",
+      "representation": "R2",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 17.094,
+      "p25": 17.350625,
+      "median": 17.5044,
+      "p75": 18.003775,
+      "iqr": 0.6531500000000001,
+      "mean": 18.22927,
+      "std": 2.05557973225722,
+      "p95": 21.486919999999994,
+      "max": 23.9594
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R0",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 3538.5716,
+      "p25": 3847.7577,
+      "median": 4015.7433,
+      "p75": 7983.37945,
+      "iqr": 4135.62175,
+      "mean": 5526.39905,
+      "std": 2175.0517899558836,
+      "p95": 8123.141405,
+      "max": 8124.3065
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R1",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 31.6004,
+      "p25": 33.53985,
+      "median": 34.45855,
+      "p75": 34.8498,
+      "iqr": 1.3099500000000006,
+      "mean": 36.88809,
+      "std": 9.136053569293473,
+      "p95": 50.369969999999974,
+      "max": 62.7177
+    },
+    {
+      "workload_id": "W3",
+      "representation": "R2",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 27.0442,
+      "p25": 27.74005,
+      "median": 27.92855,
+      "p75": 28.1102,
+      "iqr": 0.37014999999999887,
+      "mean": 27.93496,
+      "std": 0.551191433170001,
+      "p95": 28.700734999999998,
+      "max": 29.1191
+    },
+    {
+      "workload_id": "W4",
+      "representation": "R0",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 3553.1964,
+      "p25": 3825.5742,
+      "median": 3948.0249,
+      "p75": 7005.949625,
+      "iqr": 3180.375425,
+      "mean": 5143.657789999999,
+      "std": 2051.201175394292,
+      "p95": 8199.820184999999,
+      "max": 8311.9857
+    },
+    {
+      "workload_id": "W4",
+      "representation": "R1",
+      "scenario": "end_to_end",
+      "n": 10,
+      "min": 21.5221,
+      "p25": 21.739649999999997,
+      "median": 22.2081,
+      "p75": 22.5409,
+      "iqr": 0.8012500000000031,
+      "mean": 25.554359999999996,
+      "std": 10.940613830555092,
+      "p95": 41.39334499999997,
+      "max": 56.6681
+    }
+  ],
+  "relative_performance": [
+    {
+      "scenario": "query_only",
+      "workload_id": "W1",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 2.428275,
+      "median_compared_ms": 12.01225,
+      "speedup_vs_base": 0.20214988865533104
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W1",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 2.428275,
+      "median_compared_ms": 0.6163625,
+      "speedup_vs_base": 3.939686466973575
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W1",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 12.01225,
+      "median_compared_ms": 0.6163625,
+      "speedup_vs_base": 19.488937110872254
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W2",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 7.26485,
+      "median_compared_ms": 26.131700000000002,
+      "speedup_vs_base": 0.2780090847514704
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W2",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 7.26485,
+      "median_compared_ms": 1.4084875000000001,
+      "speedup_vs_base": 5.157908749633916
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W2",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 26.131700000000002,
+      "median_compared_ms": 1.4084875000000001,
+      "speedup_vs_base": 18.55302230229235
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W3",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 13.30375,
+      "median_compared_ms": 11.181899999999999,
+      "speedup_vs_base": 1.1897575546195192
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W3",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 13.30375,
+      "median_compared_ms": 10.9708,
+      "speedup_vs_base": 1.2126508549969008
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W3",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 11.181899999999999,
+      "median_compared_ms": 10.9708,
+      "speedup_vs_base": 1.0192419878222188
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W4",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 18.549599999999998,
+      "median_compared_ms": 11.007349999999999,
+      "speedup_vs_base": 1.685201251890782
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W1",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 3883.1587,
+      "median_compared_ms": 145.99290000000002,
+      "speedup_vs_base": 26.59827087481651
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W1",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 3883.1587,
+      "median_compared_ms": 7.922000000000001,
+      "speedup_vs_base": 490.1740343347639
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W1",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 145.99290000000002,
+      "median_compared_ms": 7.922000000000001,
+      "speedup_vs_base": 18.42879323403181
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W2",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 3855.8716,
+      "median_compared_ms": 168.97355,
+      "speedup_vs_base": 22.819379719488644
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W2",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 3855.8716,
+      "median_compared_ms": 17.5044,
+      "speedup_vs_base": 220.2801352802724
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W2",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 168.97355,
+      "median_compared_ms": 17.5044,
+      "speedup_vs_base": 9.653204337195218
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W3",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 4015.7433,
+      "median_compared_ms": 34.45855,
+      "speedup_vs_base": 116.53837146368608
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W3",
+      "comparison": "R2_vs_R0",
+      "median_base_ms": 4015.7433,
+      "median_compared_ms": 27.92855,
+      "speedup_vs_base": 143.78631543707067
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W3",
+      "comparison": "R2_vs_R1",
+      "median_base_ms": 34.45855,
+      "median_compared_ms": 27.92855,
+      "speedup_vs_base": 1.233810921082548
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W4",
+      "comparison": "R1_vs_R0",
+      "median_base_ms": 3948.0249,
+      "median_compared_ms": 22.2081,
+      "speedup_vs_base": 177.77409593796855
+    }
+  ],
+  "amortization_analysis": [
+    {
+      "scenario": "query_only",
+      "workload_id": "W1",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 2.428275,
+      "runtime_ri_ms": 12.01225,
+      "break_even_queries": "no_break_even"
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W1",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 2.428275,
+      "runtime_ri_ms": 0.6163625,
+      "break_even_queries": 7213.289824977752
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W2",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 7.26485,
+      "runtime_ri_ms": 26.131700000000002,
+      "break_even_queries": "no_break_even"
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W2",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 7.26485,
+      "runtime_ri_ms": 1.4084875000000001,
+      "break_even_queries": 2231.7351427613985
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W3",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 13.30375,
+      "runtime_ri_ms": 11.181899999999999,
+      "break_even_queries": 6214.647595258848
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W3",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 13.30375,
+      "runtime_ri_ms": 10.9708,
+      "break_even_queries": 5602.284661051458
+    },
+    {
+      "scenario": "query_only",
+      "workload_id": "W4",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 18.549599999999998,
+      "runtime_ri_ms": 11.007349999999999,
+      "break_even_queries": 1748.357585601114
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W1",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 3883.1587,
+      "runtime_ri_ms": 145.99290000000002,
+      "break_even_queries": 3.5284894237231863
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W1",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 3883.1587,
+      "runtime_ri_ms": 7.922000000000001,
+      "break_even_queries": 3.3726585010923333
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W2",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 3855.8716,
+      "runtime_ri_ms": 168.97355,
+      "break_even_queries": 3.5765974055073206
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W2",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 3855.8716,
+      "runtime_ri_ms": 17.5044,
+      "break_even_queries": 3.4050546284367997
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W3",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 4015.7433,
+      "runtime_ri_ms": 34.45855,
+      "break_even_queries": 3.312134355624776
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W3",
+      "representation": "R2",
+      "transformation_cost_ms": 13069.85,
+      "runtime_r0_ms": 4015.7433,
+      "runtime_ri_ms": 27.92855,
+      "break_even_queries": 3.277446626626776
+    },
+    {
+      "scenario": "end_to_end",
+      "workload_id": "W4",
+      "representation": "R1",
+      "transformation_cost_ms": 13186.55,
+      "runtime_r0_ms": 3948.0249,
+      "runtime_ri_ms": 22.2081,
+      "break_even_queries": 3.35893157316969
+    }
+  ],
+  "correctness_verification": {
+    "all_correctness_checks_passed": true,
+    "n_feasible_workload_representation_pairs": 11
+  },
+  "not_feasible_cells": [
+    {
+      "workload_id": "W4",
+      "representation": "R2",
+      "reason": "Encounter.period.end not preserved in R2 (Stage 3/4 finding)"
+    }
+  ],
+  "answers": {
+    "1_least_storage_representation": "R2",
+    "2_transformation_cost_ms": {
+      "R1": 13186.55,
+      "R2": 13069.85
+    },
+    "3_r1_vs_r0_by_workload": {
+      "W1": "26.60x faster",
+      "W2": "22.82x faster",
+      "W3": "116.54x faster",
+      "W4": "177.77x faster"
+    },
+    "4_r2_vs_r0_by_workload_query_only": {
+      "W1": "3.94x faster",
+      "W2": "5.16x faster",
+      "W3": "1.21x faster",
+      "W4": "not feasible"
+    },
+    "5_r2_vs_r1_by_workload_query_only": {
+      "W1": "19.49x faster",
+      "W2": "18.55x faster",
+      "W3": "1.02x faster",
+      "W4": "not feasible"
+    },
+    "6_query_only_vs_end_to_end_consistency": "see relative_performance.csv -- direction is workload-specific, not uniform",
+    "7_8_workload_benefit_note": "see Figure 4 and relative_performance.csv for which workloads showed a measurable speedup vs R0 and which did not",
+    "9_10_flattening_advantage_note": "any R2 computational advantage found here is workload-specific (see relative_performance.csv), not uniform across W1-W3, and never applicable to W4 (infeasible)",
+    "11_break_even_note": "see amortization_analysis.csv; no_break_even where the transformed representation was not faster",
+    "12_all_benchmark_results_matched_stage4": true,
+    "13_limitations": "see Reproducibility and Limitations section above"
+  },
+  "important_measurement_limitations": [
+    "Single ~100-patient dataset; not a scaling study.",
+    "Absolute timings are machine/OS/Python-build specific.",
+    "OS filesystem cache not cleared between end-to-end repetitions.",
+    "R1/R2 figures describe the current CSV serialization, not a universal storage/performance property.",
+    "R0 -> R2 transformation cost includes the R0 -> R1 pipeline because the frozen R2 build depends on R1 artifacts."
+  ]
+}
